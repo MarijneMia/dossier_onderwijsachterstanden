@@ -1,0 +1,3534 @@
+Nederland			25,7	40,0	20,0
+GM0003	Totaal	Appingedam	21,6	48,7	11,5
+	WK000300	Wijk 00	21,6	48,7	11,5
+GM0010	Totaal	Delfzijl	22,0	44,3	12,5
+	WK001001	Centrum	21,4	71,0	4,4
+	WK001002	West	23,7	40,7	12,0
+	WK001003	Farmsum	24,1	44,7	14,2
+	WK001004	Tuikwerd	20,3	47,4	13,1
+	WK001005	Fivelzigt	26,1	19,4	24,4
+	WK001006	Noord	18,7	59,1	6,1
+	WK001007	Buitengebied Noord	22,7	32,3	17,4
+	WK001008	Oosterhorn	.	.	.
+	WK001009	Buitengebied Zuid	23,2	33,9	15,6
+GM0014	Totaal	Groningen	23,3	60,3	11,7
+	WK001400	Centrum	20,6	80,6	5,3
+	WK001401	Oud-Zuid	23,0	69,0	7,2
+	WK001402	Oud-West	23,5	68,3	9,8
+	WK001403	Oud-Noord	18,7	76,9	4,5
+	WK001404	Oosterparkwijk	20,9	73,0	5,7
+	WK001405	Zuidoost	32,1	43,0	24,2
+	WK001406	Helpman e.o.	29,4	49,1	17,5
+	WK001407	Zuidwest	28,3	50,9	16,4
+	WK001408	Hoogkerk e.o.	22,6	36,5	21,3
+	WK001409	Nieuw-West	20,5	56,9	12,8
+	WK001410	Noordwest	18,0	72,7	5,1
+	WK001411	Noordoost	21,6	46,6	12,7
+	WK001412	Noorddijk e.o.	22,1	40,4	13,9
+	WK001413	Meerdorpen	28,2	28,7	31,4
+	WK001414	Meerstad e.o.	27,8	15,9	42,0
+	WK001415	Ten Boer e.o.	22,9	29,5	20,0
+	WK001416	Ten Post e.o.	23,8	32,4	18,3
+	WK001417	Haren-West e.o.	34,3	33,8	31,0
+	WK001418	Haren-Oost e.o.	25,0	28,2	24,7
+	WK001419	Glimmen-Onnen-Noordlaren	33,8	22,9	38,8
+GM0024	Totaal	Loppersum	22,6	38,9	17,1
+	WK002400	Wijk 00	23,3	39,8	17,2
+	WK002401	Wijk 01 Stedum	23,1	31,9	18,1
+	WK002402	Wijk 02 Middelstum	21,0	43,5	15,6
+	WK002403	Wijk 03 't Zandt	22,9	37,0	18,1
+GM0034	Totaal	Almere	24,7	34,5	21,4
+	WK003401	Wijk 01 Almere Haven	24,3	43,4	15,7
+	WK003402	Wijk 02 Almere Stad	24,6	34,2	22,0
+	WK003403	Wijk 03 Almere Buiten	23,9	33,0	21,8
+	WK003404	Wijk 04 Almere Poort	26,7	29,1	22,0
+	WK003405	Wijk 05 Almere Hout	40,8	16,3	45,0
+	WK003406	Wijk 06 Almere Pampus	.	.	.
+GM0037	Totaal	Stadskanaal	20,5	46,9	11,7
+	WK003701	Stadskanaal	20,6	49,7	10,9
+	WK003702	Musselkanaal	19,4	47,5	9,5
+	WK003703	Onstwedde	20,7	38,8	16,8
+	WK003704	Mussel	22,3	28,2	22,2
+	WK003705	Alteveer	22,6	33,3	17,2
+GM0047	Totaal	Veendam	21,6	43,3	12,4
+	WK004700	Wijk 00 Veendam-kern	20,6	46,6	9,9
+	WK004701	Wijk 01 Veendam-buitengebied	24,4	27,8	20,4
+	WK004702	Wijk 02 Wildervank	24,0	36,4	19,2
+GM0050	Totaal	Zeewolde	25,7	33,5	24,7
+	WK005000	Wijk 00	25,7	33,5	24,7
+GM0059	Totaal	Achtkarspelen	19,9	40,3	13,5
+	WK005900	Wijk 00 Noord	20,0	39,6	13,7
+	WK005901	Wijk 01 Centrum	20,2	36,7	15,6
+	WK005902	Wijk 02 Zuid	19,6	41,9	12,8
+GM0060	Totaal	Ameland	22,5	37,7	18,4
+	WK006000	Wijk 00	22,5	37,7	18,4
+GM0072	Totaal	Harlingen	21,7	47,1	12,6
+	WK007200	Wijk 00 Harlingen	21,6	47,7	12,3
+	WK007201	Wijk 01 Midlum	23,5	40,1	16,7
+	WK007202	Wijk 02 Wijnaldum	23,6	37,7	15,2
+GM0074	Totaal	Heerenveen	23,8	40,2	17,7
+	WK007401	Wijk 01 Heerenveen	23,5	45,6	14,7
+	WK007402	Wijk 02 Noord-Heerenveen	23,4	24,5	26,9
+	WK007403	Wijk 03 Hoornsterzwaag	26,0	24,0	28,9
+	WK007404	Wijk 04 Jubbega	22,5	35,5	18,1
+	WK007406	Wijk 06 Oranjewoud	31,4	20,4	35,5
+	WK007407	Skarsterlân	23,2	28,0	19,2
+	WK007409	Boarnsterhim	24,3	33,3	23,2
+GM0080	Totaal	Leeuwarden	22,5	50,7	12,6
+	WK008010	Binnenstad	21,9	76,0	5,2
+	WK008011	Potmargezone	20,4	59,8	7,2
+	WK008020	Oud-Oost	19,2	67,8	4,7
+	WK008030	Sonnenborgh e.o.	24,5	53,6	13,4
+	WK008031	Westeinde e.o.	22,6	37,0	13,2
+	WK008032	Vossepark & Helicon	25,5	38,4	17,8
+	WK008040	Huizum-West	21,4	54,0	7,1
+	WK008041	Nijlân & De Zwette	21,3	65,8	4,3
+	WK008050	Heechterp & Schieringen	15,7	79,7	1,5
+	WK008051	Camminghaburen e.o.	23,6	35,9	15,8
+	WK008060	Bilgaard & Havankpark e.o.	17,3	70,9	4,4
+	WK008061	Vrijheidswijk	16,4	70,4	4,6
+	WK008062	Dokkumer Ie e.o.	25,3	28,1	22,1
+	WK008063	Stiens e.o.	23,2	31,7	18,8
+	WK008070	Aldlân & De Hemrik	23,2	43,3	11,5
+	WK008071	Goutum	28,6	16,2	31,4
+	WK008072	Hempens/Teerns & Zuiderburen	29,9	10,1	44,1
+	WK008073	De Zuidlanden	24,4	9,0	36,5
+	WK008074	Middelsee	.	.	.
+	WK008080	Dorpen Zuid-Oost	22,4	36,6	19,2
+	WK008081	Dorpen Zuid-West	24,5	29,9	25,3
+	WK008082	Grou e.o.	24,8	38,3	19,7
+GM0085	Totaal	Ooststellingwerf	22,0	38,8	15,7
+	WK008501	Appelscha	23,1	40,0	15,6
+	WK008502	Donkerbroek	22,6	33,4	20,9
+	WK008503	Elsloo	22,9	30,6	19,0
+	WK008504	Fochteloo	27,6	20,1	32,4
+	WK008505	Haule	24,1	22,1	27,9
+	WK008506	Haulerwijk	21,0	40,4	15,0
+	WK008507	Langedijke	24,0	19,1	26,4
+	WK008508	Makkinga	23,8	29,0	21,4
+	WK008509	Nijeberkoop	24,5	33,0	24,1
+	WK008510	Oldeberkoop	23,1	33,3	17,9
+	WK008511	Oosterwolde	20,9	44,5	11,5
+	WK008512	Ravenswoud	24,7	22,6	25,8
+	WK008513	Waskemeer	21,0	24,6	23,0
+GM0086	Totaal	Opsterland	22,8	35,6	19,5
+	WK008601	Bakkeveen	24,0	32,1	20,8
+	WK008602	Beetsterzwaag	27,7	35,1	20,9
+	WK008604	Frieschepalen	21,4	24,3	25,1
+	WK008605	Gorredijk	21,3	46,0	13,4
+	WK008606	Hemrik	24,2	33,8	27,3
+	WK008607	Jonkerslân	25,3	17,1	25,2
+	WK008608	Langezwaag	22,8	25,6	28,5
+	WK008609	Lippenhuizen	22,2	31,2	19,0
+	WK008610	Luxwoude	24,1	18,5	28,4
+	WK008611	Nij Beets	23,3	29,7	24,5
+	WK008613	Siegerswoude	23,7	21,7	28,7
+	WK008614	Terwispel	23,4	26,6	22,0
+	WK008615	Tijnje	23,0	30,0	20,7
+	WK008616	Ureterp	21,5	35,2	19,0
+	WK008617	Wijnjewoude	21,4	36,4	20,2
+GM0088	Totaal	Schiermonnikoog	25,3	41,2	16,3
+	WK008800	Wijk 00	25,3	41,2	16,3
+GM0090	Totaal	Smallingerland	22,2	41,8	14,3
+	WK009000	Wijk 00 Drachten	21,8	44,1	12,6
+	WK009001	Wijk 01 Overig Smallingerland	23,7	30,6	22,9
+GM0093	Totaal	Terschelling	24,7	46,0	17,5
+	WK009300	Wijk 00 West-Terschelling	23,6	55,1	12,9
+	WK009301	Wijk 01 Midsland	25,7	35,0	20,5
+	WK009302	Wijk 02 Formerum	29,2	20,9	33,0
+	WK009303	Wijk 03 Lies	23,1	.	.
+	WK009304	Wijk 04 Hoorn	25,4	35,0	24,2
+	WK009305	Wijk 05 Oosterend	27,3	.	.
+GM0096	Totaal	Vlieland	27,3	48,5	17,8
+	WK009600	Wijk 00	27,3	48,5	17,8
+GM0098	Totaal	Weststellingwerf	21,7	40,4	15,1
+	WK009800	Wolvega	20,4	46,4	10,6
+	WK009801	De Wolden-Ter Idzard	26,1	18,9	30,5
+	WK009802	De Lamers	24,8	22,4	38,8
+	WK009803	Lange-Nije-Munk	25,0	26,5	20,1
+	WK009804	Scherpenzeel-Spanga	22,5	28,8	24,5
+	WK009805	Oldetrijne-Sonnega	23,8	18,5	34,0
+	WK009806	Blesdijke	25,7	27,1	30,9
+	WK009807	De Blesse-Peperga	21,0	31,8	15,9
+	WK009808	Steggerda	22,5	33,3	18,0
+	WK009809	De Hoeve-Vinkega	26,8	21,6	32,9
+	WK009810	Noordwolde	20,5	50,3	11,2
+	WK009811	Oosterstreek	23,6	25,0	23,2
+	WK009812	Zandhuizen	24,9	34,3	17,9
+	WK009813	Boijl	22,7	33,8	19,8
+	WK009814	Nijeholtpade	24,9	23,0	32,1
+	WK009815	Oldeholtpade	24,2	20,1	21,3
+GM0106	Totaal	Assen	23,8	40,8	15,5
+	WK010600	Wijk 00 Assen centrum	29,4	52,9	14,0
+	WK010601	Wijk 01 Lariks	20,5	63,7	4,7
+	WK010602	Wijk 02 Noorderpark	20,6	56,4	7,0
+	WK010603	Wijk 03 Assen Oost	24,6	48,1	12,7
+	WK010604	Wijk 04 Pittelo	18,9	42,6	8,2
+	WK010605	Wijk 05 Assen West	24,6	31,1	16,3
+	WK010606	Wijk 06 Peelo	21,7	36,5	10,7
+	WK010607	Wijk 07 Marsdijk	25,4	22,2	24,3
+	WK010608	Wijk 08 Kloosterveen	24,8	18,1	31,2
+	WK010699	Wijk 99 Buitengebied	28,7	29,2	32,5
+GM0109	Totaal	Coevorden	23,6	37,3	17,8
+	WK010910	Wijk 10 Coevorden	21,3	44,8	11,7
+	WK010911	Wijk 11 Steenwijksmoer	22,7	23,7	22,6
+	WK010912	Wijk 12 Nieuwe Krim	19,7	.	.
+	WK010913	Wijk 13 Weijerswold	.	.	.
+	WK010914	Wijk 14 Vlieghuis en Padhuis	25,6	.	.
+	WK010920	Wijk 20 Dalen	26,2	29,1	25,4
+	WK010930	Wijk 30 Oosterhesselen	24,7	29,8	21,5
+	WK010940	Wijk 40 Sleen	24,7	36,5	19,8
+	WK010950	Wijk 50 Zweeloo	26,7	32,1	23,0
+GM0114	Totaal	Emmen	21,8	43,2	13,4
+	WK011401	Wijk 01 Nieuw-Weerdinge	20,2	40,8	13,5
+	WK011402	Wijk 02 Roswinkel	21,9	30,5	13,0
+	WK011403	Wijk 03 Emmer-Compascuum	20,1	40,4	12,3
+	WK011404	Wijk 04 Barger-Compascuum	21,5	36,9	14,0
+	WK011405	Wijk 05 Nieuw-Dordrecht	21,3	36,5	17,2
+	WK011406	Wijk 06 Nieuw-Amsterdam	21,1	41,4	15,1
+	WK011407	Wijk 07 Erica	23,2	33,3	20,6
+	WK011408	Wijk 08 Klazienaveen	20,9	42,0	13,5
+	WK011409	Wijk 09 Zwartemeer	19,8	39,5	14,0
+	WK011410	Wijk 10 Schoonebeek	23,3	34,1	16,0
+	WK011413	Wijk 13 Veenoord	20,1	45,5	9,6
+	WK011421	Wijk 21 Nieuw-Schoonebeek	23,3	30,5	21,0
+	WK011432	Wijk 32 Weiteveen	20,4	43,9	13,2
+	WK011440	Wijk 40 Emmen-Centrum	23,7	62,3	6,2
+	WK011441	Wijk 41 Emmen-Centrum Oost	28,5	38,9	21,6
+	WK011442	Wijk 42 Emmermeer	19,6	60,7	7,1
+	WK011443	Wijk 43 Angelslo	18,3	59,2	5,2
+	WK011444	Wijk 44 Emmerhout	19,3	54,2	6,3
+	WK011445	Wijk 45 Emmerschans	19,8	45,3	10,2
+	WK011446	Wijk 46 Bargeres	20,8	47,5	8,4
+	WK011447	Wijk 47 Rietlanden	25,1	26,8	21,4
+	WK011448	Wijk 48 Parc Sandur	30,6	15,4	32,1
+	WK011449	Wijk 49 Delftlanden	26,5	8,1	46,2
+	WK011450	Wijk 50 Barger-Oosterveld	23,0	30,0	21,5
+	WK011451	Wijk 51 Kern Emmen Noord	24,8	33,0	25,3
+	WK011452	Wijk 52 Kern Emmen Zuid	35,6	25,1	31,2
+	WK011453	Wijk 53 Kern Emmen Industrieterreinen	.	.	.
+GM0118	Totaal	Hoogeveen	21,3	40,3	13,9
+	WK011850	Wijk 50 Hoogeveen	19,9	50,9	7,9
+	WK011851	Wijk 51 De Weide	24,2	25,7	21,2
+	WK011852	Wijke 52 Fluitenberg	26,5	18,4	27,9
+	WK011853	Wijk 53 Elim	19,9	38,1	13,7
+	WK011854	Wijk 54 Hollandscheveld	19,5	38,0	14,2
+	WK011855	Wijk 55 Noordscheschut	20,8	30,1	20,6
+	WK011856	Wijk 56 Nieuwlande	21,1	30,6	18,1
+	WK011857	Wijk 57 Nieuweroord	20,5	27,6	21,0
+	WK011858	Wijk 58 Tiendeveen	21,1	33,3	18,4
+	WK011859	Wijk 59 Stuifzand	23,7	24,4	26,5
+	WK011860	Wijk 60 Pesse	24,0	32,2	22,6
+	WK011861	Wijk 61 Zuideropgaande Nieuw Moscou	21,2	31,0	25,9
+	WK011862	Wijk 62 Industrie- en verspr. gebieden	24,0	26,7	32,3
+GM0119	Totaal	Meppel	24,0	38,8	17,7
+	WK011900	Centrum	26,0	47,5	12,9
+	WK011901	Watertoren	20,9	59,9	6,9
+	WK011902	Haveltermade	19,6	60,8	4,8
+	WK011903	Koedijkslanden	21,0	45,9	10,1
+	WK011904	Berggierslanden	26,6	6,6	48,5
+	WK011905	Ezinge	20,1	54,9	4,1
+	WK011906	Oosterboer	26,5	22,4	26,4
+	WK011907	Nieuwveenselanden	23,4	22,0	12,6
+	WK011908	Blankenstein	.	.	.
+	WK011909	Industrieterrein Noord	.	.	.
+	WK011910	Industrie Oevers	30,3	.	.
+	WK011911	Verspreid gebied Meppel	.	.	.
+	WK011912	Nijeveen	23,5	28,3	24,7
+	WK011913	Rogat	31,1	23,3	39,2
+GM0141	Totaal	Almelo	21,5	45,2	13,8
+	WK014110	Wijk 10 Binnenstad	22,5	63,7	6,3
+	WK014111	Wijk 11 De Riet	18,3	55,3	7,1
+	WK014112	Wijk 12 Noorderkwartier	24,8	36,3	18,4
+	WK014113	Wijk 13 Sluitersveld	23,0	48,5	17,7
+	WK014114	Wijk 14 Wierdense Hoek	18,5	53,6	8,6
+	WK014115	Wijk 15 Nieuwstraat-Kwartier	14,7	64,7	3,5
+	WK014116	Wijk 16 Ossenkoppelerhoek	16,8	58,4	4,4
+	WK014117	Wijk 17 Hofkamp	27,2	34,1	24,5
+	WK014118	Wijk 18 Schelfhorst	20,9	38,8	13,0
+	WK014119	Wijk 19 Windmolenbroek	24,3	26,1	23,7
+	WK014120	Wijk 20 Aadorp	24,8	25,5	25,0
+	WK014121	Wijk 21 Bornerbroek	25,8	27,0	34,0
+GM0147	Totaal	Borne	25,0	32,2	23,1
+	WK014700	Wijk 00 Borne	24,9	33,0	22,1
+	WK014701	Wijk 01 Buitengebied Borne	26,0	22,8	34,1
+GM0148	Totaal	Dalfsen	24,5	27,7	24,9
+	WK014801	Dalfsen	25,8	26,7	26,7
+	WK014802	Nieuwleusen	23,1	29,4	22,0
+	WK014803	Lemelerveld	23,3	27,4	24,8
+GM0150	Totaal	Deventer	23,9	41,7	17,2
+	WK015001	Wijk 1 Binnenstad	28,3	53,5	13,6
+	WK015002	Wijk 2 De Hoven	24,0	25,8	21,8
+	WK015003	Wijk 3 Zandweerd	22,9	50,2	11,6
+	WK015004	Wijk 4 Voorstad	20,5	53,1	10,9
+	WK015005	Wijk 5 Borgele en Platvoet	21,7	53,7	10,5
+	WK015006	Wijk 6 Keizerslanden	20,5	59,5	8,3
+	WK015007	Wijk 7 Rivierenwijk en Bergweide	18,3	56,7	7,0
+	WK015008	Wijk 8 Colmschate-Noord	21,6	29,7	13,5
+	WK015009	Wijk 9 Colmschate-Vijfhoek	25,7	16,6	32,1
+	WK015010	Wijk 10 Colmschate-Zuid	25,6	28,8	20,7
+	WK015011	Wijk 11 Diepenveen	30,2	25,8	31,2
+	WK015012	Wijk 12 Schalkhaar	27,1	27,5	32,2
+	WK015013	Wijk 13 Okkenbroek	22,7	35,7	20,6
+	WK015014	Wijk 14 Lettele	24,1	25,6	33,3
+	WK015015	Wijk 15 Bathmen	26,7	24,5	28,4
+GM0153	Totaal	Enschede	21,4	52,4	12,1
+	WK015300	Wijk 00 Binnensingelgebied	21,7	65,3	8,2
+	WK015301	Wijk 01 Hogeland - Velve	22,1	46,7	13,8
+	WK015302	Wijk 02 Boswinkel - Stadsveld	20,0	55,7	9,6
+	WK015303	Wijk 03 Twekkelerveld - T.H.T.	19,7	58,4	7,7
+	WK015304	Wijk 04 Enschede-Noord	21,9	59,0	11,1
+	WK015305	Wijk 05 Ribbelt - Stokhorst	24,5	43,9	15,0
+	WK015306	Wijk 06 Enschede-Zuid	19,6	48,6	11,8
+	WK015307	Wijk 07 Bedrijfsterreinen Enschede-West	28,1	44,9	22,1
+	WK015308	Wijk 08 Glanerbrug en omgeving	21,0	37,8	16,2
+	WK015309	Wijk 09 Landelijk gebied en kernen	28,2	29,2	29,9
+GM0158	Totaal	Haaksbergen	24,1	32,9	22,5
+	WK015800	Wijk 00 Haaksbergen (dorp)	23,6	33,3	19,7
+	WK015801	Wijk 01 Haaksbergen (buitengebied)	26,9	21,2	39,7
+	WK015802	Wijk 02 Sint Isidorushoeve	24,1	22,4	38,5
+	WK015803	Wijk 03 Buurse	25,2	32,5	26,9
+	WK015804	Wijk 04 Rietmolen	23,8	.	.
+	WK015805	Wijk 05 Hengevelde	21,3	.	.
+	WK015806	Wijk 06 Beckum	27,4	.	.
+	WK015809	Wijk 09 Haaksbergen-kern	24,7	55,7	10,2
+GM0160	Totaal	Hardenberg	21,9	33,3	19,6
+	WK016001	Ane	23,3	23,7	34,5
+	WK016002	Anerveen	31,4	.	.
+	WK016003	Anevelde	.	.	.
+	WK016004	Balkbrug	22,9	29,6	23,1
+	WK016005	Bergentheim	20,4	29,6	20,4
+	WK016006	Brucht	25,8	18,2	30,9
+	WK016007	Collendoorn	24,6	21,1	32,5
+	WK016008	De Krim	19,6	36,2	14,6
+	WK016009	Dedemsvaart	21,7	35,1	17,6
+	WK016010	Den Velde	26,7	.	.
+	WK016011	Diffelen	23,4	.	.
+	WK016012	Gramsbergen	21,7	34,7	21,3
+	WK016013	Heemserveen	26,1	25,0	31,7
+	WK016014	Holtheme	25,1	.	.
+	WK016015	Holthone	.	.	.
+	WK016016	Hoogenweg	24,7	20,3	32,4
+	WK016017	Kloosterhaar	20,2	33,0	18,0
+	WK016018	Loozen	24,6	.	.
+	WK016019	Lutten	21,6	25,7	20,5
+	WK016020	Marienberg	18,6	22,8	22,4
+	WK016021	Radewijk	24,7	22,0	29,5
+	WK016022	Rheeze	21,4	.	.
+	WK016023	Rheezerveen	21,4	32,9	26,7
+	WK016024	Schuinesloot	22,4	19,9	28,4
+	WK016025	Sibculo	19,6	29,6	21,7
+	WK016026	Slagharen	21,2	37,3	16,3
+	WK016027	Venebrugge	21,4	.	.
+	WK016028	Hardenberg	22,4	36,7	17,2
+	WK016029	Bruchterveld	21,1	25,6	23,4
+GM0163	Totaal	Hellendoorn	23,2	31,4	20,5
+	WK016301	Wijk 01 Hellendoorn	23,2	29,8	20,7
+	WK016302	Wijk 02 Nijverdal Noord	26,9	20,7	26,2
+	WK016303	Wijk 03 Nijverdal West	24,6	38,8	16,0
+	WK016304	Wijk 04 Nijverdal Oost	21,0	38,6	13,4
+	WK016305	Wijk 05 Buitengebied	25,2	22,2	35,3
+	WK016306	Wijk 06 Kruidenwijk	23,4	23,5	25,2
+	WK016307	Wijk 07 Haarle	21,6	30,2	17,2
+	WK016308	Wijk 08 Daarle	20,5	21,4	19,5
+	WK016309	Wijk 09 Daarlerveen	19,6	31,8	13,9
+GM0164	Totaal	Hengelo	23,7	42,4	16,0
+	WK016400	Wijk 00 Binnenstad	26,2	52,7	12,2
+	WK016401	Wijk 01 Hengelose Es	22,4	46,5	13,9
+	WK016402	Wijk 02 Noord	20,2	53,4	9,4
+	WK016403	Wijk 03 Hasseler Es	23,4	30,6	18,4
+	WK016404	Wijk 04 Groot Driene	23,1	49,2	12,2
+	WK016405	Wijk 05 Berflo Es	21,2	54,5	8,3
+	WK016406	Wijk 06 Wilderinkshoek	24,1	45,5	13,3
+	WK016407	Wijk 07 Woolde	25,7	39,7	15,5
+	WK016408	Wijk 08 Slangenbeek	27,3	17,8	36,7
+	WK016409	Wijk 09 Buitengebied	28,8	23,8	38,7
+GM0166	Totaal	Kampen	21,8	36,9	18,0
+	WK016600	Wijk 00 Kampen	21,9	40,6	15,0
+	WK016603	Wijk 03 IJsselmuiden	21,6	28,5	23,8
+	WK016604	Wijk 04 Zalk	21,9	21,2	31,7
+	WK016605	Wijk 05 Wilsum	21,8	28,2	22,7
+	WK016606	Wijk 06 Grafhorst	19,6	22,1	31,0
+	WK016607	Wijk 07 Kamperveen	21,9	19,7	34,4
+	WK016608	Wijk 08 's-Heerenbroek	23,0	19,1	36,4
+	WK016609	Wijk 09 Verspreide huizen	23,0	.	.
+GM0168	Totaal	Losser	23,1	34,5	20,0
+	WK016800	Wijk 00 Losser	23,2	34,4	17,8
+	WK016801	Wijk 01 Glane	25,6	35,5	22,7
+	WK016802	Wijk 02 Overdinkel	20,1	44,2	14,0
+	WK016803	Wijk 03 De Lutte	25,4	25,5	30,6
+	WK016804	Wijk 04 Beuningen	24,6	24,3	38,1
+GM0171	Totaal	Noordoostpolder	22,5	34,9	18,5
+	WK017101	Wijk 01 Emmeloord	22,0	38,2	15,4
+	WK017102	Wijk 02 Bant	24,6	27,8	26,5
+	WK017103	Wijk 03 Luttelgeest	23,7	32,7	22,6
+	WK017104	Wijk 04 Marknesse	23,3	31,8	20,7
+	WK017105	Wijk 05 Kraggenburg	25,1	29,1	24,1
+	WK017106	Wijk 06 Ens	22,5	30,6	20,8
+	WK017107	Wijk 07 Nagele	23,7	36,8	21,7
+	WK017108	Wijk 08 Tollebeek	21,6	23,9	26,1
+	WK017109	Wijk 09 Espel	24,8	26,8	25,2
+	WK017110	Wijk 10 Creil	23,2	30,6	23,4
+	WK017111	Wijk 11 Rutten	21,4	29,0	22,8
+	WK017112	Wijk 12 Schokland	.	.	.
+GM0173	Totaal	Oldenzaal	24,1	37,1	19,4
+	WK017301	Wijk 01 Binnenstad	25,4	63,5	9,2
+	WK017302	Wijk 02 Het Inslag-De Kleies	26,4	49,9	17,3
+	WK017303	Wijk 03 Glinde-Hooiland	21,6	51,6	12,8
+	WK017304	Wijk 04 De Meijbree	26,4	37,2	25,8
+	WK017305	Wijk 05 Haerbroek-Scholtenhoek	32,5	24,3	33,2
+	WK017306	Wijk 06 Zuid-Berghuizen	20,0	49,3	10,2
+	WK017307	Wijk 07 Hanzepoort	.	.	.
+	WK017308	Wijk 08 Eekte-Hazewinkel	24,0	.	.
+	WK017309	Wijk 09 Jufferbeek	30,0	.	.
+	WK017310	Wijk 10 Het Hulsbeek	25,6	.	.
+	WK017311	Wijk 11 De Thij	21,1	33,5	13,7
+	WK017312	Wijk 12 De Graven Es	26,6	13,8	34,4
+	WK017313	Wijk 13 De Essen	24,6	19,7	25,7
+	WK017314	Wijk 14 Bekspring	24,6	.	.
+GM0175	Totaal	Ommen	23,7	32,0	21,6
+	WK017501	Ommen	23,9	34,3	18,9
+	WK017502	Arrien	23,8	14,5	33,3
+	WK017503	Beerze	24,9	.	.
+	WK017504	Beerzerveld	20,3	23,5	25,7
+	WK017505	Dalmsholte	24,9	19,1	38,3
+	WK017506	Giethmen	25,0	.	.
+	WK017507	Lemele	22,7	23,9	29,3
+	WK017508	Stegeren	24,4	40,3	22,3
+	WK017509	Vilsteren	22,5	29,7	24,5
+	WK017510	Vinkenbuurt	27,2	28,3	30,2
+	WK017511	Witharen	22,9	25,3	30,9
+GM0177	Totaal	Raalte	23,8	31,7	21,8
+	WK017701	Raalte	23,5	35,5	18,7
+	WK017702	Luttenberg	24,4	26,3	28,8
+	WK017703	Mariënheem	24,3	23,6	28,2
+	WK017704	Nieuw Heeten	22,4	28,8	24,0
+	WK017705	Heeten	23,5	28,3	27,6
+	WK017706	Broekland	25,5	22,5	31,7
+	WK017707	Heino	24,2	29,0	21,1
+	WK017708	Lierderholthuis	27,7	22,6	33,9
+	WK017709	Laag Zuthem	26,3	22,1	34,1
+GM0180	Totaal	Staphorst	20,7	26,2	25,9
+	WK018000	Wijk 00 Staphorst (kern)	19,6	28,8	22,4
+	WK018001	Wijk 01 Rouveen (kern)	20,1	20,4	27,9
+	WK018002	Wijk 02 Rouveen (buitengebied)	22,8	16,4	45,1
+	WK018003	Wijk 03 Staphorst (buitengebied)	20,4	18,4	41,4
+	WK018004	Wijk 04 IJhorst	26,0	32,4	21,1
+	WK018005	Wijk 05 Punthorst	22,9	20,8	33,2
+	WK018006	Wijk 06 Lankhorst	22,5	23,5	33,9
+	WK018007	Wijk 07 Klooster	.	.	.
+GM0183	Totaal	Tubbergen	23,6	28,2	29,3
+	WK018300	Wijk 00 Tubbergen	24,0	34,1	24,6
+	WK018301	Wijk 01 Albergen	23,9	24,0	32,4
+	WK018302	Wijk 02 Harbrinkhoek	24,1	23,0	31,2
+	WK018303	Wijk 03 Geesteren	23,0	28,3	30,4
+	WK018304	Wijk 04 Langeveen	21,7	28,1	29,3
+	WK018305	Wijk 05 Vasse	23,4	25,2	31,2
+	WK018306	Wijk 06 Reutum	22,8	24,4	30,0
+	WK018307	Wijk 07 Fleringen	24,9	20,7	39,1
+GM0184	Totaal	Urk	19,8	22,9	28,9
+	WK018400	Wijk 00 Urk	19,8	22,9	28,9
+GM0189	Totaal	Wierden	24,4	27,5	27,0
+	WK018900	Wijk 00 Wierden (kern)	23,9	29,8	22,7
+	WK018901	Wijk 01 Landelijk gebied Wierden	29,2	18,6	40,2
+	WK018902	Wijk 02 Hooge-Hexel	22,7	24,0	39,0
+	WK018903	Wijk 03 Enter (kern)	24,2	27,8	26,4
+	WK018904	Wijk 04 Landelijk gebied Enter	25,1	20,0	39,0
+	WK018905	Wijk 05 Rectum - Notter - Zuna	25,6	19,8	45,4
+GM0193	Totaal	Zwolle	24,9	41,9	18,5
+	WK019310	Wijk 10 Binnenstad	34,3	54,7	15,2
+	WK019311	Wijk 11 Diezerpoort	21,3	66,2	5,8
+	WK019312	Wijk 12 Wipstrik	28,3	41,9	22,2
+	WK019313	Wijk 13 Assendorp	24,6	52,6	13,2
+	WK019314	Wijk 14 Kamperpoort-Veerallee	26,4	58,7	17,9
+	WK019320	Wijk 20 Poort van Zwolle	25,9	40,0	25,1
+	WK019321	Wijk 21 Westenholte	22,6	31,2	20,1
+	WK019322	Wijk 22 Stadshagen	25,0	22,9	27,9
+	WK019330	Wijk 30 Holtenbroek	19,5	60,5	6,5
+	WK019331	Wijk 31 Aa-landen	22,9	42,8	13,2
+	WK019332	Wijk 32 Vechtlanden	45,7	13,2	50,9
+	WK019340	Wijk 40 Berkum	28,3	29,6	26,5
+	WK019341	Wijk 41 Marsweteringlanden	24,7	25,2	31,6
+	WK019350	Wijk 50 Schelle	28,2	25,8	30,0
+	WK019351	Wijk 51 Ittersum	24,0	34,0	20,0
+	WK019352	Wijk 52 Soestweteringlanden	27,0	19,2	35,9
+GM0197	Totaal	Aalten	22,4	34,4	17,1
+	WK019701	Wijk 01 Buitengebied Aalten	23,3	24,2	30,1
+	WK019702	Wijk 02 Bredevoort	23,0	33,0	18,5
+	WK019703	Wijk 03 Aalten Kern	22,1	35,5	14,6
+	WK019704	Wijk 04 Dinxperlo	22,1	37,3	15,3
+GM0200	Totaal	Apeldoorn	25,4	37,4	19,9
+	WK020001	Centrum	27,0	56,5	7,8
+	WK020002	West	28,9	37,6	23,2
+	WK020003	Zuidwest	26,5	31,1	22,4
+	WK020004	Zuid	21,5	49,2	10,7
+	WK020005	Zuidoost	22,7	35,1	15,0
+	WK020006	Oost	27,3	24,4	30,2
+	WK020007	Noordoost	22,3	38,9	16,6
+	WK020008	Noord	29,3	37,7	23,4
+	WK020010	Uddel en omgeving	21,7	26,3	30,8
+	WK020011	Hoog Soeren en Radio Kootwijk	42,6	20,4	40,1
+	WK020012	Hoenderloo en omgeving	29,0	42,0	25,5
+	WK020013	Loenen en omgeving	27,5	32,6	25,5
+	WK020014	Beekbergen en omgeving	28,6	36,7	25,1
+	WK020015	Lieren en omgeving	26,0	23,2	35,5
+	WK020016	Klarenbeek en omgeving	26,5	27,5	32,5
+	WK020017	Wenum Wiesel Beemte	28,7	26,3	37,2
+GM0202	Totaal	Arnhem	24,0	51,3	14,3
+	WK020201	Centrum	26,3	70,3	6,5
+	WK020202	Spijkerkwartier	25,2	71,7	7,5
+	WK020203	Arnhemse Broek	18,4	67,6	6,1
+	WK020204	Presikhaaf-West	16,5	67,4	4,4
+	WK020205	Presikhaaf-Oost	21,0	58,0	5,8
+	WK020206	St. Marten/Sonsbeek	28,2	49,0	16,9
+	WK020207	Klarendal	21,0	65,6	6,5
+	WK020208	Velperweg e.o.	31,3	35,9	28,4
+	WK020209	Alteveer/Cranevelt	30,2	37,1	26,4
+	WK020210	Geitenkamp	17,3	71,9	2,4
+	WK020211	Monnikenhuizen	26,5	47,5	17,3
+	WK020212	Burgemeesterswijk/Hoogkamp	38,0	32,5	35,4
+	WK020213	Schaarsbergen	36,6	37,1	32,5
+	WK020214	Heijenoord/Lombok	28,1	44,9	18,4
+	WK020215	Klingelbeek e.o.	34,5	31,7	30,1
+	WK020216	Malburgen-West	19,8	54,5	9,1
+	WK020217	Malburgen-Oost (Noord)	20,6	50,4	10,5
+	WK020218	Malburgen-Oost (Zuid)	15,8	66,8	3,8
+	WK020219	Vredenburg/Kronenburg	22,5	57,6	9,0
+	WK020220	Elden	25,3	35,8	24,9
+	WK020221	Elderveld	21,6	46,1	12,5
+	WK020222	De Laar	22,5	39,8	13,1
+	WK020223	Rijkerswoerd	24,1	35,4	20,6
+	WK020224	Schuytgraaf	26,5	20,7	34,3
+GM0203	Totaal	Barneveld	23,5	29,5	25,9
+	WK020354	Wijk 54 Barneveld	22,7	31,7	22,6
+	WK020355	Wijk 55 Voorthuizen	25,1	28,8	26,9
+	WK020356	Wijk 56 Kootwijkerbroek	22,2	23,4	36,5
+	WK020357	Wijk 57 Garderen	27,9	24,7	31,3
+	WK020358	Wijk 58 Terschuur	24,6	24,5	32,7
+	WK020359	Wijk 59 Stroe	24,6	19,9	32,4
+	WK020360	Wijk 60 Zwartebroek	25,0	25,7	33,9
+	WK020361	Wijk 61 De Glind	24,0	27,9	36,6
+	WK020362	Wijk 62 Kootwijk	33,2	20,2	37,6
+	WK020363	Wijk 63 Achterveld	27,3	.	.
+GM0209	Totaal	Beuningen	26,5	30,8	24,4
+	WK020901	Beuningen	27,0	30,7	25,2
+	WK020902	Ewijk	25,6	31,2	23,1
+	WK020903	Weurt	24,4	29,6	19,3
+	WK020904	Winssen	26,3	33,1	26,4
+GM0213	Totaal	Brummen	25,3	33,1	21,4
+	WK021301	Wijk 01 Empe	29,6	16,5	41,1
+	WK021302	Wijk 02 Tonden	29,7	20,8	37,7
+	WK021303	Wijk 03 Brummen	24,5	37,9	18,8
+	WK021304	Wijk 04 Leuvenheim	27,2	23,6	26,7
+	WK021305	Wijk 05 Hall	28,9	23,1	33,1
+	WK021306	Wijk 06 Eerbeek	25,0	31,6	20,7
+GM0214	Totaal	Buren	26,7	27,8	27,9
+	WK021400	Wijk 00 Buren	28,6	26,9	30,4
+	WK021401	Wijk 01 Beusichem	30,1	23,2	32,6
+	WK021402	Wijk 02 Zoelen	27,9	23,7	31,5
+	WK021403	Wijk 03 Lienden	25,2	27,9	27,2
+	WK021404	Wijk 04 Ingen	25,4	31,0	25,1
+	WK021405	Wijk 05 Maurik	25,0	32,1	22,6
+	WK021406	Wijk 06 Ravenswaaij	27,5	23,3	43,6
+GM0216	Totaal	Culemborg	26,1	33,9	23,5
+	WK021600	Wijk 00	26,1	33,9	23,5
+GM0221	Totaal	Doesburg	23,2	42,5	15,1
+	WK022101	Wijk 01	23,2	42,5	15,1
+GM0222	Totaal	Doetinchem	23,7	38,8	17,9
+	WK022201	Wijk 01 Doetinchem Centrum	27,5	51,0	14,4
+	WK022202	Wijk 02	20,4	58,8	7,3
+	WK022203	Wijk 03	23,1	39,9	16,1
+	WK022204	Wijk 04	25,7	31,6	24,7
+	WK022205	Wijk 05	25,3	54,7	8,8
+	WK022206	Wijk 06	24,1	30,2	20,2
+	WK022207	Wijk 07	25,3	26,6	23,8
+	WK022208	Wijk 08	29,2	20,7	27,1
+	WK022209	Wijk 09	22,0	43,5	16,2
+	WK022211	Wijk 11 Buitengebied Doetinchem	22,8	36,0	17,9
+	WK022231	Wijk 31 Wehl	23,4	32,7	21,5
+GM0225	Totaal	Druten	24,9	32,6	23,4
+	WK022500	Druten	24,7	33,4	21,5
+	WK022501	Puiflijk	26,0	27,2	30,8
+	WK022502	Afferden	24,6	32,0	30,0
+	WK022503	Deest	23,3	38,8	19,1
+	WK022504	Horssen	27,4	24,0	30,8
+GM0226	Totaal	Duiven	25,2	31,4	22,8
+	WK022601	Wijk 01 Bedrijventerrein	.	.	.
+	WK022602	Wijk 02 Buitengebied	28,3	.	.
+	WK022603	Wijk 03 Duiven-Noord	24,1	32,8	19,6
+	WK022604	Wijk 04 Duiven-Zuid	26,5	31,5	25,5
+	WK022605	Wijk 05 Groessen	27,1	24,5	31,4
+	WK022606	Wijk 06 Loo	27,2	25,7	31,4
+GM0228	Totaal	Ede	24,6	34,6	21,9
+	WK022801	Ede-Oost	29,0	42,5	18,0
+	WK022802	Ede-West	24,0	41,5	16,1
+	WK022803	Ede-Veldhuizen	21,4	40,1	13,4
+	WK022804	Kernhem	24,2	16,0	31,7
+	WK022805	Veluwse Poort	25,5	28,8	28,0
+	WK022810	Ede-Zuid	21,2	50,1	13,0
+	WK022811	Maandereng	21,6	30,1	17,1
+	WK022812	Rietkampen	25,2	19,9	27,3
+	WK022813	Bedrijventerrein	22,6	46,8	21,8
+	WK022820	Buitengebied Ede-Stad	27,8	32,1	36,9
+	WK022830	Bennekom	28,9	28,3	28,0
+	WK022840	Lunteren	25,3	28,0	31,0
+	WK022850	Ederveen	22,0	26,6	31,5
+	WK022860	De Klomp	23,9	38,6	22,3
+	WK022870	Harskamp	22,1	25,9	32,4
+	WK022880	Wekerom	22,5	29,5	26,3
+	WK022890	Otterlo	25,4	27,8	31,3
+GM0230	Totaal	Elburg	22,2	31,0	20,3
+	WK023001	Wijk 01 Elburg	22,2	31,4	19,0
+	WK023002	Wijk 02	22,5	30,7	18,7
+	WK023003	Wijk 03 Doornspijk	21,6	30,3	27,1
+GM0232	Totaal	Epe	24,9	35,1	20,9
+	WK023200	Wijk 00 Epe	26,7	36,0	20,7
+	WK023201	Wijk 01 Emst	24,8	25,5	28,5
+	WK023202	Wijk 02 Vaassen	22,8	37,2	18,3
+	WK023203	Wijk 03 Oene	23,5	25,7	29,8
+GM0233	Totaal	Ermelo	26,2	32,8	23,5
+	WK023300	Wijk 00 Ermelo	26,2	32,9	23,1
+	WK023301	Wijk 01 Speuld	26,6	28,9	40,6
+GM0243	Totaal	Harderwijk	24,1	35,3	20,0
+	WK024301	Wijk 01 Binnenstad	29,3	47,1	14,0
+	WK024302	Wijk 02 Waterfront	33,7	.	.
+	WK024303	Wijk 03 Zeebuurt	21,9	41,0	13,2
+	WK024304	Wijk 04 Friesegracht	31,2	32,3	29,2
+	WK024305	Wijk 05 Stadsdennen	20,1	44,3	12,9
+	WK024306	Wijk 06 De Sypel	25,7	24,1	21,5
+	WK024307	Wijk 07 Stationsomgeving	23,6	65,2	13,6
+	WK024308	Wijk 08 Stadsweiden	22,9	40,1	16,2
+	WK024309	Wijk 09 Slingerbos	27,5	16,4	25,5
+	WK024310	Wijk 10 Tweelingstad	21,1	40,9	14,9
+	WK024311	Wijk 11 Frankrijk	24,6	25,9	26,4
+	WK024312	Wijk 12 Drielanden	25,7	20,8	28,8
+	WK024313	Wijk 13 Industrieterrein Lorentz	.	.	.
+	WK024314	Wijk 14 Buitengebied Harderwijk	28,9	52,7	15,1
+	WK024315	Wijk 15 Hierden	27,2	31,2	28,9
+	WK024316	Wijk 16 Wolderwijd	.	.	.
+GM0244	Totaal	Hattem	25,9	31,5	22,9
+	WK024400	Wijk 00 Hattem	25,5	32,4	21,6
+	WK024401	Wijk 01 Polder Hattem en Molecaten	31,4	16,4	43,1
+GM0246	Totaal	Heerde	24,3	29,2	21,7
+	WK024600	Wijk 00 Heerde	25,0	29,6	21,9
+	WK024601	Wijk 01 Wapenveld	22,8	28,5	21,4
+GM0252	Totaal	Heumen	29,1	28,5	29,4
+	WK025200	Wijk 00 Heumen	29,4	29,1	29,0
+	WK025201	Wijk 01 Overasselt	27,9	26,3	31,1
+GM0262	Totaal	Lochem	27,7	31,4	24,8
+	WK026200	Wijk 00 Lochem kern	26,5	34,9	19,6
+	WK026201	Wijk 01 Lochem buitengebied	30,5	28,8	35,0
+	WK026202	Wijk 02 Laren	26,1	27,7	29,1
+	WK026203	Wijk 03 Barchem	26,5	27,4	25,8
+	WK026204	Wijk 04 Gorssel	29,5	30,7	26,6
+	WK026205	Wijk 01 Almen-Harfsen	27,5	27,8	30,2
+GM0263	Totaal	Maasdriel	25,6	31,1	26,6
+	WK026300	Wijk 00 Kerkdriel	24,7	33,0	26,4
+	WK026301	Wijk 01 Ammerzoden	25,8	29,5	27,2
+	WK026302	Wijk 02 Hedel	26,5	27,4	27,6
+	WK026303	Wijk 03 Heerewaarden	24,4	35,9	18,0
+	WK026304	Wijk 04 Rossum	27,2	30,8	28,6
+GM0267	Totaal	Nijkerk	24,9	29,9	24,8
+	WK026701	Nijkerk-stad	23,7	32,6	21,4
+	WK026702	Appel, Driedorp, Kruishaar, Prinsenkamp	28,5	25,5	37,9
+	WK026703	Nijkerkerveen en Holkerveen	24,2	29,8	28,3
+	WK026704	Arkemheen, Achterhoek, De Veenhuis	26,1	21,6	44,4
+	WK026705	Hoevelaken	27,8	23,0	30,1
+GM0268	Totaal	Nijmegen	24,2	56,3	13,6
+	WK026801	Wijk 01 Nijmegen-Centrum	24,5	72,3	6,3
+	WK026802	Wijk 02 Nijmegen-Oost	28,4	61,8	15,2
+	WK026803	Wijk 03 Nijmegen-Oud-West	22,1	61,3	9,9
+	WK026804	Wijk 04 Nijmegen-Nieuw-West	22,1	58,5	11,6
+	WK026805	Wijk 05 Nijmegen-Midden	26,0	53,5	18,0
+	WK026806	Wijk 06 Nijmegen-Zuid	22,1	59,9	10,3
+	WK026807	Wijk 07 Dukenburg	20,8	54,2	8,8
+	WK026808	Wijk 08 Lindenholt	22,4	39,0	14,5
+	WK026809	Wijk 09 Nijmegen-Noord	26,3	25,4	33,0
+GM0269	Totaal	Oldebroek	21,9	32,1	20,5
+	WK026900	Wijk 00 Oldebroek	21,3	32,1	21,2
+	WK026901	Wijk 01 Wezep	22,4	33,5	18,4
+	WK026902	Wijk 02 Oosterwolde	21,4	21,6	32,1
+GM0273	Totaal	Putten	24,7	31,0	24,8
+	WK027300	Wijk 00 Putten	24,3	30,4	24,5
+	WK027301	Wijk 01 Bosgebied en Krachtighuizen	29,0	36,2	28,1
+GM0274	Totaal	Renkum	29,7	35,5	23,2
+	WK027401	Renkum Zuid	24,9	36,1	20,5
+	WK027402	Renkum Noord	25,8	34,0	20,7
+	WK027403	Heelsum ten westen van de rijksweg	26,9	44,2	17,9
+	WK027404	Heelsum ten oosten van de rijksweg	61,8	.	.
+	WK027405	Wolfheze ten zuiden van het spoor	34,3	30,6	29,2
+	WK027406	Wolfheze ten noorden van het spoor	32,8	31,0	27,6
+	WK027407	Buitengebied Doorwerth	43,7	18,1	41,9
+	WK027408	Bebouwde kom Doorwerth	26,5	44,8	13,9
+	WK027409	Heveadorp	31,7	27,7	30,2
+	WK027410	Oosterbeek West	47,3	29,0	29,6
+	WK027411	Oosterbeek Zuidoost	32,8	29,7	28,9
+	WK027412	Oosterbeek Noordoost	33,1	32,1	28,6
+GM0275	Totaal	Rheden	25,6	42,8	16,8
+	WK027500	Wijk 00 Dieren	24,5	38,6	16,0
+	WK027501	Wijk 01 Rheden	24,7	39,2	16,8
+	WK027502	Wijk 02 Velp	27,1	48,1	17,5
+GM0277	Totaal	Rozendaal	40,9	16,2	48,1
+	WK027700	Wijk 00	40,9	16,2	48,1
+GM0279	Totaal	Scherpenzeel	23,7	29,2	23,7
+	WK027900	Wijk 00	23,7	29,2	23,7
+GM0281	Totaal	Tiel	23,6	38,9	17,9
+	WK028100	Tiel kern	20,9	49,5	10,5
+	WK028101	Tiel-Noord	25,4	35,9	20,2
+	WK028102	Wadenoijen en Kapel Avezaath	26,8	24,8	30,1
+	WK028103	Tiel-Zuid	26,6	17,4	32,1
+GM0285	Totaal	Voorst	25,8	30,4	25,1
+	WK028500	Wijk 00 Voorst	24,8	30,8	23,8
+	WK028501	Wijk 01 Twello-Nijbroek	25,8	32,2	23,8
+	WK028502	Wijk 02 Klarenbeek-Teuge	26,4	23,3	31,5
+	WK028503	Wijk 03 Wilp	26,3	25,1	28,3
+GM0289	Totaal	Wageningen	23,5	57,8	14,5
+	WK028901	Noordwest	27,4	27,5	32,4
+	WK028902	Wageningen Universiteit	7,1	98,3	0,1
+	WK028903	De Weiden en Boomgaarden	27,8	32,5	23,6
+	WK028904	De Horsten	23,1	37,1	18,4
+	WK028905	Kortenoord	14,0	82,6	7,0
+	WK028906	De Buurt	19,5	67,8	5,7
+	WK028907	Boven- en Benedenbuurt	23,4	52,8	12,8
+	WK028908	Nude	21,8	61,9	5,6
+	WK028909	Centrum	20,3	74,7	7,5
+	WK028910	Veluvia-Hamelakkers	34,0	36,5	30,3
+	WK028911	Wageningen-Hoog	48,1	8,1	58,3
+	WK028912	Buitengebied	30,2	41,2	28,9
+GM0293	Totaal	Westervoort	23,8	36,0	17,2
+	WK029300	Wijk 00	23,8	36,0	17,2
+GM0294	Totaal	Winterswijk	23,2	38,9	16,2
+	WK029400	Wijk 00 Stad	22,0	41,7	13,2
+	WK029401	Wijk 01 Land	27,6	27,2	28,6
+GM0296	Totaal	Wijchen	25,4	32,0	23,6
+	WK029600	Wijk 00 Wijchen buitengebied	29,3	.	.
+	WK029601	Wijk 01 Wijchen kern	25,1	32,9	22,5
+	WK029602	Wijk 02 Balgoij	27,1	18,4	36,5
+	WK029603	Wijk 03 Batenburg	25,5	26,3	25,2
+	WK029604	Wijk 04 Bergharen	25,8	23,1	31,5
+	WK029605	Wijk 05 Hernen	26,5	20,1	30,2
+	WK029606	Wijk 06 Leur	33,8	.	.
+	WK029607	Wijk 07 Niftrik	26,0	22,6	38,4
+	WK029608	Wijk 08 Alverna	26,6	37,7	23,8
+GM0297	Totaal	Zaltbommel	24,9	30,6	24,9
+	WK029700	Wijk 00 Zaltbommel	26,2	33,8	22,6
+	WK029701	Wijk 01 Brakel	22,9	29,3	24,4
+	WK029702	Wijk 02 Kerkwijk	25,6	25,6	29,2
+	WK029703	Wijk 03 Nederhemert	22,4	27,0	31,8
+GM0299	Totaal	Zevenaar	23,7	37,9	16,5
+	WK029900	Zevenaar	23,6	39,3	14,8
+	WK029901	Babberich	23,8	36,5	20,3
+	WK029902	Angerlo	26,6	27,1	25,7
+	WK029903	Giesbeek	26,4	31,5	20,6
+	WK029904	Lathum	27,5	27,4	30,1
+	WK029905	Rijnstrangen	28,7	.	.
+	WK029906	Pannerden	22,8	33,8	20,6
+	WK029907	Aerdt	23,2	27,7	24,0
+	WK029908	Herwen	24,1	34,2	20,9
+	WK029909	Lobith	20,3	46,6	10,9
+	WK029910	Tolkamer	23,3	37,1	17,3
+	WK029911	Spijk	21,0	45,7	13,7
+GM0301	Totaal	Zutphen	23,5	42,3	16,0
+	WK030100	Wijk 00 Centrum - De Hoven	25,3	52,3	13,4
+	WK030101	Wijk 01 Waterkwartier	19,6	57,1	7,9
+	WK030102	Wijk 02 Noordveen	23,0	41,6	14,9
+	WK030103	Wijk 03 Zuidwijken	21,7	41,5	12,2
+	WK030104	Wijk 04 Leesten	25,4	21,9	27,8
+	WK030105	Wijk 05 Warnsveld	26,4	28,7	24,0
+GM0302	Totaal	Nunspeet	23,6	31,2	23,0
+	WK030200	Wijk 00 Nunspeet	23,8	32,4	21,6
+	WK030201	Wijk 01 Elspeet-Vierhouten	23,0	25,4	30,2
+GM0303	Totaal	Dronten	24,0	35,4	20,3
+	WK030301	Wijk 01 Dronten west	25,5	20,9	30,8
+	WK030302	Wijk 02 Dronten Noord	17,8	51,3	12,4
+	WK030303	Wijk 03 Dronten Midden	21,3	53,7	8,9
+	WK030304	Wijk 04 Dronten Zuid	26,8	25,2	24,0
+	WK030305	Wijk 05 Buitengebied Dronten	25,4	35,8	30,4
+	WK030306	Wijk 06 Biddinghuizen	23,0	41,2	17,0
+	WK030307	Wijk 07 Swifterbant	22,9	32,8	20,2
+GM0307	Totaal	Amersfoort	27,5	35,2	24,8
+	WK030701	Wijk 01 Stadskern	31,4	52,4	14,4
+	WK030702	Wijk 02 Zonnehof	33,5	56,5	17,6
+	WK030703	Wijk 03 Soesterkwartier	23,8	46,1	14,6
+	WK030704	Wijk 04 Isselt	26,8	50,7	15,5
+	WK030705	Wijk 05 Bosgebied	36,5	49,3	19,0
+	WK030706	Wijk 06 De Koppel	23,7	46,6	14,7
+	WK030707	Wijk 07 De Kruiskamp	21,2	50,9	12,8
+	WK030708	Wijk 08 Schothorst Zuid	24,1	47,7	15,0
+	WK030709	Wijk 09 Schothorst Noord	25,5	34,4	18,3
+	WK030710	Wijk 10 Liendert	19,9	51,3	7,6
+	WK030711	Wijk 11 Rustenburg	24,6	30,9	20,2
+	WK030712	Wijk 12 Stoutenburg-Noord	24,6	.	.
+	WK030713	Wijk 13 Schuilenburg	21,5	44,4	10,3
+	WK030714	Wijk 14 Randenbroek	24,8	47,9	15,2
+	WK030715	Wijk 15 Vermeerkwartier	30,6	37,3	29,9
+	WK030716	Wijk 16 Leusderkwartier	30,2	35,5	28,4
+	WK030717	Wijk 17 De Berg Zuid	32,2	39,1	30,1
+	WK030718	Wijk 18 De Berg Noord	52,1	13,4	56,4
+	WK030719	Wijk 19 Hoogland	27,8	22,8	29,4
+	WK030720	Wijk 20 Zielhorst	26,4	27,2	28,3
+	WK030721	Wijk 21 Kattenbroek	29,1	27,6	29,8
+	WK030722	Wijk 22 Calveen	33,0	.	.
+	WK030723	Wijk 23 Park Schothorst	.	.	.
+	WK030724	Wijk 24 Nieuwland	28,7	20,5	35,9
+	WK030725	Wijk 25 valleipoort	25,3	43,4	20,8
+	WK030726	Wijk 26 Hooglanderveen	29,0	21,6	38,5
+	WK030727	Wijk 27 Buitengebied West	34,1	23,6	46,2
+	WK030728	Wijk 28 Vathorst-De Velden	28,4	15,3	44,2
+	WK030729	Wijk 29 Vathorst-centrum	29,1	16,0	41,1
+	WK030730	Wijk 30 Vathorst-De Bron	27,0	17,3	32,6
+	WK030731	Wijk 31 Vathorst-De Laak	28,5	26,5	32,8
+GM0308	Totaal	Baarn	30,8	34,5	25,7
+	WK030800	Wijk 00 Baarn	31,7	35,3	25,8
+	WK030801	Wijk 01 Baarn-Noord, Eemdal en Eemland	26,0	35,7	21,7
+	WK030802	Wijk 02 P.H.W.park	54,6	20,1	47,8
+	WK030804	Wijk 04 Buitengebied	34,8	31,6	35,3
+	WK030805	Wijk 05 Lage Vuursche	32,7	39,7	29,8
+GM0310	Totaal	De Bilt	33,2	33,1	30,4
+	WK031001	Westbroek	29,0	24,7	35,2
+	WK031002	Hollandsche Rading	37,6	24,7	38,4
+	WK031003	Maartensdijk	25,1	33,4	23,6
+	WK031004	Groenekan	34,1	22,3	45,1
+	WK031005	De Leijen	28,0	36,5	23,1
+	WK031006	Bilthoven Noord	59,3	15,8	60,4
+	WK031007	Bilthoven Zuid Oost	38,3	27,2	33,4
+	WK031008	Bilthoven Zuid West	27,0	44,5	22,1
+	WK031009	De Bilt West	30,8	33,1	29,2
+	WK031010	De Bilt Oost	27,4	39,3	21,5
+GM0312	Totaal	Bunnik	30,7	24,3	34,4
+	WK031200	Wijk 00 Bunnik	31,4	25,4	35,3
+	WK031201	Wijk 01 Odijk	30,8	22,9	32,8
+	WK031202	Wijk 02 Werkhoven	28,6	24,2	35,8
+GM0313	Totaal	Bunschoten	24,1	26,5	26,9
+	WK031300	Wijk 00	24,1	26,5	26,9
+GM0317	Totaal	Eemnes	28,7	25,7	29,2
+	WK031702	Eemnes	28,7	25,7	29,2
+GM0321	Totaal	Houten	29,8	25,3	34,5
+	WK032110	Houten Noord-West	30,8	26,1	34,7
+	WK032111	Houten Noord-Oost	26,6	37,6	23,1
+	WK032112	Houten Zuid-West	30,0	18,2	38,1
+	WK032113	Houten Zuid-Oost	31,3	16,6	44,4
+	WK032120	Houten Buitengebied	41,4	34,8	34,8
+	WK032130	't Goy	31,2	29,4	31,3
+	WK032131	't Goy Buitengebied	31,8	.	.
+	WK032140	Tull en 't Waal	29,8	19,4	33,5
+	WK032141	Tull en 't Waal Buitengebied	.	.	.
+	WK032150	Schalkwijk	26,7	28,7	29,7
+	WK032151	Schalkwijk Buitengebied	32,1	14,7	50,3
+GM0327	Totaal	Leusden	29,4	26,1	29,4
+	WK032700	Wijk 00 Leusden-Centrum Oost	29,1	27,7	25,2
+	WK032701	Wijk 01 Leusden-Centrum West	29,0	25,6	27,7
+	WK032702	Wijk 02 Leusden-Zuid	32,8	17,2	43,2
+	WK032703	Wijk 03 Achterveld	27,7	28,5	30,8
+	WK032704	Wijk 04 Stoutenburg	27,0	21,3	32,6
+	WK032705	Wijk 05 't Ruige Veld	27,9	32,8	25,8
+GM0331	Totaal	Lopik	25,5	26,6	29,8
+	WK033100	Wijk 00 Lopik, Benschop en Polsbroek	25,5	26,6	29,8
+GM0335	Totaal	Montfoort	27,2	25,4	29,8
+	WK033500	Wijk 00	25,9	27,9	25,4
+	WK033501	Wijk 01 Linschoten	28,4	20,8	36,3
+	WK033502	Wijk 02 Willeskop	32,8	25,1	40,8
+GM0339	Totaal	Renswoude	25,4	23,6	30,4
+	WK033900	Wijk 00	25,4	23,6	30,4
+GM0340	Totaal	Rhenen	25,1	32,8	23,5
+	WK034000	Wijk 00 Rhenen	25,2	49,1	11,5
+	WK034001	Wijk 01 Rhenen Oost	28,0	27,5	27,3
+	WK034002	Wijk 02 Rhenen West	23,7	34,5	19,3
+	WK034003	Wijk 03 Rhenen Noord	23,0	43,9	15,5
+	WK034004	Wijk 04 Grebbeberg	.	.	.
+	WK034005	Wijk 05 Randzone	31,7	18,7	33,7
+	WK034006	Wijk 06 Binnenveld	21,6	31,2	40,8
+	WK034007	Wijk 07 Achterberg	22,3	19,7	33,5
+	WK034008	Wijk 08 Uiterwaarden Rhenen	39,3	28,0	34,0
+	WK034009	Wijk 09 Remmerden	.	.	.
+	WK034010	Wijk 10 Heuvelrug Rhenen	.	.	.
+	WK034011	Wijk 11 Heuvelrug Elst	.	.	.
+	WK034012	Wijk 12 Uiterwaarden Elst	.	.	.
+	WK034013	Wijk 13 Elst	24,4	28,5	26,0
+GM0342	Totaal	Soest	29,1	32,2	26,4
+	WK034201	Wijk 01 't Hart-Soestdijk	33,0	27,6	31,4
+	WK034202	Wijk 02 Klaarwater	23,1	45,4	11,7
+	WK034203	Wijk 03 Boerenstreek	29,7	18,3	38,5
+	WK034204	Wijk 04 de Eng-Soest-Midden	27,7	40,0	22,5
+	WK034205	Wijk 05 Smitsveen	22,3	45,6	15,2
+	WK034206	Wijk 06 Overhees	28,0	29,2	25,5
+	WK034207	Wijk 07 Soest-Zuid	37,2	19,7	41,9
+	WK034208	Wijk 08 Soesterberg	26,8	31,8	24,0
+GM0344	Totaal	Utrecht	27,2	48,7	19,9
+	WK034401	Wijk 01 West	28,8	48,3	20,9
+	WK034402	Wijk 02 Noordwest	23,8	54,9	12,3
+	WK034403	Wijk 03 Overvecht	18,1	62,8	6,6
+	WK034404	Wijk 04 Noordoost	32,6	45,6	25,8
+	WK034405	Wijk 05 Oost	30,7	60,8	17,6
+	WK034406	Wijk 06 Binnenstad	35,2	54,7	16,2
+	WK034407	Wijk 07 Zuid	25,2	51,7	17,0
+	WK034408	Wijk 08 Zuidwest	23,2	54,8	13,5
+	WK034409	Wijk 09 Leidsche Rijn	29,0	23,2	35,3
+	WK034410	Wijk 10 Vleuten-De Meern	29,2	23,1	37,6
+GM0345	Totaal	Veenendaal	23,7	35,9	20,0
+	WK034500	Wijk 00 Centrum	23,3	55,1	7,1
+	WK034501	Wijk 01 Noordoost	23,1	31,1	21,9
+	WK034502	Wijk 02 Zuidoost	24,5	37,7	22,8
+	WK034503	Wijk 03 Zuidwest	22,8	44,2	15,4
+	WK034504	Wijk 04 Noordwest	21,4	39,3	16,5
+	WK034505	Wijk 05 West	25,4	22,8	26,5
+GM0351	Totaal	Woudenberg	25,6	25,8	27,4
+	WK035100	Wijk 00 Woudenberg	25,6	25,8	27,4
+GM0352	Totaal	Wijk bij Duurstede	27,8	27,2	27,1
+	WK035200	Wijk 00 Wijk bij Duurstede	27,7	27,3	25,8
+	WK035201	Wijk 01 Landelijk gebied	32,4	19,4	47,8
+	WK035202	Wijk 02 Cothen	26,4	27,0	29,6
+	WK035203	Wijk 03 Langbroek	29,4	28,0	30,2
+GM0353	Totaal	IJsselstein	27,6	30,0	28,1
+	WK035300	Wijk 00 IJsselstein	27,6	30,0	28,1
+GM0355	Totaal	Zeist	32,0	40,3	25,7
+	WK035501	Wijk 01 Centrum Zeist	39,1	36,4	29,0
+	WK035502	Wijk 02 Zeist-Noord	24,7	52,3	17,8
+	WK035503	Wijk 03 Zeist-West	26,1	37,3	23,3
+	WK035504	Wijk 04 Zeist-Oost, Zeister Bos e.o.	34,1	37,8	28,1
+	WK035505	Wijk 05 Huis Ter Heide, Bosch en Duin	41,6	29,0	38,3
+GM0356	Totaal	Nieuwegein	25,8	35,3	19,1
+	WK035601	Jutphaas Wijkersloot	23,2	49,9	11,3
+	WK035602	Zuilenstein	25,5	31,3	18,5
+	WK035603	Batau Zuid	25,1	28,5	22,2
+	WK035604	Batau Noord	26,9	31,4	20,6
+	WK035605	Doorslag	26,6	31,0	20,4
+	WK035606	Huis de Geer	28,6	23,9	23,5
+	WK035607	Blokhoeve	32,1	15,8	32,9
+	WK035608	Galecop	27,5	30,1	26,5
+	WK035610	Fokkesteeg	24,5	35,7	18,0
+	WK035611	Hoogzandveld	24,1	26,0	19,6
+	WK035612	Lekboulevard	27,6	46,4	14,1
+	WK035613	Vreeswijk	27,0	37,0	22,7
+	WK035614	Merwestein	20,2	63,8	2,2
+	WK035615	Park Oudegein	.	.	.
+	WK035616	Zandveld	23,1	31,9	17,3
+	WK035618	Het Klooster	.	.	.
+	WK035620	Laagraven	.	.	.
+	WK035621	Plettenburg	29,5	.	.
+	WK035622	De Wiers	.	.	.
+	WK035623	Hoge Landen	.	.	.
+	WK035624	Stadscentrum	27,4	49,5	7,0
+	WK035625	Rijnhuizen	26,5	.	.
+GM0358	Totaal	Aalsmeer	29,0	29,2	31,1
+	WK035800	Wijk 00 Aalsmeer	29,0	34,3	25,7
+	WK035801	Wijk 01 Kudelstraat en Kalslagen	27,7	26,9	29,4
+	WK035802	Wijk 02 Oosteinde	30,1	24,2	40,9
+GM0361	Totaal	Alkmaar	25,6	39,4	18,6
+	WK036101	Zuid	27,5	40,7	21,8
+	WK036102	Oudorp	25,9	35,3	22,1
+	WK036103	Overdie	20,0	55,2	7,4
+	WK036104	West	26,4	42,3	17,5
+	WK036105	Huiswaard	23,2	41,9	12,6
+	WK036106	De Mare	23,2	41,0	12,8
+	WK036107	Daalmeer/Koedijk	24,3	34,9	20,5
+	WK036108	Centrum	31,2	44,4	15,2
+	WK036109	Schermer	27,5	27,5	31,1
+	WK036110	Graft-De Rijp	27,5	26,9	29,2
+	WK036111	Vroonermeer	29,5	22,0	33,9
+GM0362	Totaal	Amstelveen	32,9	39,1	26,6
+	WK036201	Randwijck	37,1	28,1	36,5
+	WK036202	Patrimonium	40,7	38,4	32,8
+	WK036203	Elsrijk	39,4	29,2	38,0
+	WK036204	Stadshart	40,8	29,5	28,2
+	WK036205	Uilenstede, Kronenburg	12,0	95,5	0,5
+	WK036206	Bankras, Kostverloren	30,4	40,4	21,5
+	WK036207	Buitengebied Noord	61,4	21,8	49,4
+	WK036208	Keizer Karelpark	30,0	42,7	21,7
+	WK036209	Groenelaan	28,4	51,9	14,0
+	WK036210	Waardhuizen, Middenhoven	31,0	32,6	26,0
+	WK036211	Bovenkerk - Westwijk Noord	31,9	31,7	31,3
+	WK036212	Westwijk Zuid	34,7	17,3	47,0
+	WK036213	Buitengebied Zuid	37,3	31,2	36,5
+	WK036214	Amsterdamse Bos	35,2	.	.
+GM0363	Totaal	Amsterdam	28,9	52,1	16,7
+	WK036300	Burgwallen-Oude Zijde	31,5	59,4	13,1
+	WK036301	Burgwallen-Nieuwe Zijde	34,5	57,6	13,9
+	WK036302	Grachtengordel-West	62,1	38,7	32,4
+	WK036303	Grachtengordel-Zuid	57,4	41,6	27,7
+	WK036304	Nieuwmarkt/Lastage	36,2	52,1	18,2
+	WK036305	Haarlemmerbuurt	36,4	49,9	21,2
+	WK036306	Jordaan	34,9	55,4	16,0
+	WK036307	De Weteringschans	42,7	45,7	24,4
+	WK036308	Weesperbuurt/Plantage	39,9	50,7	21,5
+	WK036309	Oostelijke Eilanden/Kadijken	30,3	53,1	16,6
+	WK036310	Westelijk Havengebied	21,1	74,4	5,0
+	WK036311	Bedrijventerrein Sloterdijk	31,1	.	.
+	WK036312	Houthavens	42,5	31,3	29,5
+	WK036313	Spaarndammer- en Zeeheldenbuurt	25,7	58,4	12,1
+	WK036314	Staatsliedenbuurt	30,0	51,8	15,4
+	WK036315	Centrale Markt	29,9	40,9	22,6
+	WK036316	Frederik Hendrikbuurt	32,4	52,2	16,6
+	WK036317	Da Costabuurt	36,0	48,7	20,3
+	WK036318	Kinkerbuurt	31,4	52,6	15,9
+	WK036319	Van Lennepbuurt	28,2	60,1	11,1
+	WK036320	Helmersbuurt	39,1	47,3	23,0
+	WK036321	Overtoomse Sluis	38,1	43,5	23,3
+	WK036322	Vondelbuurt	56,6	46,1	30,3
+	WK036323	Zuidas	49,5	59,8	19,7
+	WK036324	Oude Pijp	34,3	55,8	15,9
+	WK036325	Nieuwe Pijp	32,7	53,9	16,2
+	WK036326	Zuid Pijp	24,0	62,2	10,1
+	WK036327	Weesperzijde	36,7	45,4	23,5
+	WK036328	Oosterparkbuurt	27,6	56,8	14,4
+	WK036329	Dapperbuurt	26,3	57,9	13,3
+	WK036330	Transvaalbuurt	22,9	58,8	11,5
+	WK036331	Indische Buurt West	24,1	55,2	11,9
+	WK036332	Indische Buurt Oost	21,6	59,3	10,1
+	WK036333	Oostelijk Havengebied	36,5	31,4	31,2
+	WK036334	Zeeburgereiland/Nieuwe Diep	21,6	75,3	7,6
+	WK036335	IJburg West	31,1	28,2	36,8
+	WK036336	Sloterdijk	40,3	30,7	29,3
+	WK036337	Landlust	23,2	57,0	10,3
+	WK036338	Erasmuspark	27,9	46,9	13,0
+	WK036339	De Kolenkit	19,1	61,5	8,8
+	WK036340	Geuzenbuurt	30,4	50,5	17,1
+	WK036341	Van Galenbuurt	23,9	59,1	8,3
+	WK036342	Hoofdweg e.o.	25,7	56,7	11,5
+	WK036343	Westindische Buurt	32,6	47,2	19,0
+	WK036344	Hoofddorppleinbuurt	36,7	44,6	21,8
+	WK036345	Schinkelbuurt	35,1	52,4	17,1
+	WK036346	Willemspark	69,2	28,2	45,5
+	WK036347	Museumkwartier	64,3	32,3	38,6
+	WK036348	Stadionbuurt	34,4	50,9	19,3
+	WK036349	Apollobuurt	64,8	28,4	47,6
+	WK036350	IJburg Oost	.	.	.
+	WK036351	IJburg Zuid	29,0	29,5	34,0
+	WK036352	Scheldebuurt	38,3	44,4	25,9
+	WK036353	IJselbuurt	28,6	57,6	13,3
+	WK036354	Rijnbuurt	30,9	56,7	14,6
+	WK036355	Frankendael	28,0	59,7	16,1
+	WK036356	Middenmeer	33,2	44,0	27,5
+	WK036357	Betondorp	22,3	65,7	5,9
+	WK036358	Omval/Overamstel	30,0	74,5	11,8
+	WK036359	Prinses Irenebuurt e.o.	58,8	20,5	43,9
+	WK036360	Volewijck	18,4	65,7	6,2
+	WK036361	IJplein/Vogelbuurt	19,8	62,1	7,6
+	WK036362	Tuindorp Nieuwendam	21,7	58,9	9,4
+	WK036363	Tuindorp Buiksloot	19,8	57,9	9,5
+	WK036364	Nieuwendammerdijk/Buiksloterdijk	36,8	16,0	53,3
+	WK036365	Tuindorp Oostzaan	21,3	52,6	12,6
+	WK036366	Oostzanerwerf	23,1	43,6	18,3
+	WK036367	Kadoelen	27,6	30,5	30,9
+	WK036368	Waterlandpleinbuurt	18,9	52,4	9,9
+	WK036369	Buikslotermeer	19,9	60,0	7,3
+	WK036370	Banne Buiksloot	19,4	54,3	11,0
+	WK036371	Noordelijke IJ-oevers West	35,0	53,7	26,1
+	WK036372	Noordelijke IJ-oevers Oost	23,3	68,7	9,2
+	WK036373	Waterland	34,1	23,5	41,6
+	WK036374	Elzenhagen	28,8	24,9	37,0
+	WK036375	Chassébuurt	25,9	53,3	17,0
+	WK036376	Slotermeer-Noordoost	17,4	61,4	7,8
+	WK036377	Slotermeer-Zuidwest	18,0	61,4	8,0
+	WK036378	Geuzenveld	17,7	55,4	9,6
+	WK036379	Eendracht	23,5	36,9	18,4
+	WK036380	Lutkemeer/Ookmeer	28,1	39,5	28,9
+	WK036381	Osdorp-Oost	21,5	59,4	9,5
+	WK036382	Osdorp-Midden	19,5	53,8	11,6
+	WK036383	De Punt	19,2	55,7	9,4
+	WK036384	Middelveldsche Akerpolder	26,9	34,0	29,6
+	WK036385	Slotervaart Noord	22,5	52,9	16,2
+	WK036386	Overtoomse Veld	20,9	53,2	12,9
+	WK036387	Westlandgracht	29,4	55,4	16,6
+	WK036388	Sloter-/Riekerpolder	29,4	30,8	29,2
+	WK036389	Slotervaart Zuid	20,2	61,6	9,1
+	WK036390	Buitenveldert-West	36,0	45,4	20,5
+	WK036391	Buitenveldert-Oost	33,4	48,5	17,5
+	WK036392	Amstel III/Bullewijk	19,5	86,6	2,1
+	WK036393	Bijlmer Centrum (D,F,H)	17,6	69,3	5,4
+	WK036394	Bijlmer Oost (E,G,K)	20,0	60,5	8,6
+	WK036395	Nellestein	28,3	45,2	9,7
+	WK036396	Holendrecht/Reigersbos	19,5	57,2	8,4
+	WK036397	Gein	22,7	47,3	13,7
+	WK036398	Driemond	26,2	31,9	27,4
+GM0370	Totaal	Beemster	29,5	27,1	31,9
+	WK037000	Wijk 00 Beemster	28,3	28,8	30,4
+	WK037001	Wijk 01 Zuidoostbeemster	32,0	23,7	34,9
+GM0373	Totaal	Bergen (NH.)	31,5	31,5	27,0
+	WK037301	Wijk 01 Bergen Binnen	35,1	31,8	29,0
+	WK037302	Wijk 02 Bergen aan Zee	48,2	31,6	37,3
+	WK037303	Wijk 03 Buitengebied Bergen	39,1	29,3	41,8
+	WK037304	Wijk 04 Egmond aan Zee	27,4	37,7	17,9
+	WK037305	Wijk 05 Egmond-Binnen	26,0	28,0	26,9
+	WK037306	Wijk 06 Egmond aan den Hoef	27,8	25,6	29,3
+	WK037307	Wijk 07 Schoorl	30,8	30,5	27,1
+GM0375	Totaal	Beverwijk	24,9	40,6	17,3
+	WK037500	Centrum	24,1	46,4	8,8
+	WK037501	Vondelkwartier	30,7	28,8	29,6
+	WK037502	Oranjebuurt	21,5	46,1	11,1
+	WK037503	Kuenenkwartier	21,2	54,0	7,4
+	WK037504	Warande	32,9	19,4	32,4
+	WK037505	Noordwestelijk tuinbouwgebied	28,8	16,4	32,0
+	WK037506	Oosterwijk en Zwaansmeer	19,8	52,2	8,0
+	WK037507	Meerestein	22,9	51,2	11,2
+	WK037508	Wijk aan Zee	29,4	38,8	20,9
+	WK037509	de Pijp en Wijkerbroek	25,2	.	.
+	WK037510	Broekpolder	26,8	13,2	42,1
+GM0376	Totaal	Blaricum	44,2	26,0	35,7
+	WK037601	Blaricum	44,2	26,0	35,6
+GM0377	Totaal	Bloemendaal	46,6	25,0	43,6
+	WK037700	Wijk 00 Bloemendaal	51,4	32,6	39,8
+	WK037701	Wijk 01 Overveen	46,4	21,4	53,1
+	WK037702	Wijk 02 Aerdenhout	60,6	12,3	63,5
+	WK037703	Wijk 03 Vogelenzang	30,5	33,0	28,9
+	WK037704	Wijk 04 Bennebroek	34,9	24,2	32,6
+GM0383	Totaal	Castricum	30,0	26,7	29,3
+	WK038300	Wijk 00 Centrum	31,0	28,9	27,3
+	WK038301	Wijk 01 Castricum-Noord	27,9	27,0	24,8
+	WK038302	Wijk 02 Castricum-Oost	31,4	27,8	28,4
+	WK038303	Wijk 03 Castricum-Zuid	30,3	22,2	36,2
+	WK038304	Wijk 04 Bakkum	32,8	32,3	34,6
+	WK038305	Wijk 05 Akersloot	28,0	23,8	28,6
+	WK038306	Wijk 06 De Woude	28,8	.	.
+	WK038307	Wijk 07 Limmen	29,2	23,3	33,1
+GM0384	Totaal	Diemen	26,1	46,2	20,3
+	WK038401	Diemen Noord	30,9	32,1	32,6
+	WK038402	Diemen Centrum	24,2	49,9	14,1
+	WK038403	Diemen Zuid	25,2	36,8	21,8
+	WK038404	Bergwijkpark	.	.	.
+	WK038405	Holland Park	12,1	97,2	0,1
+	WK038406	Bedrijventerreinen	.	.	.
+	WK038407	Plantage de Sniep	35,9	3,3	71,6
+	WK038408	Buitengebied	30,5	.	.
+GM0385	Totaal	Edam-Volendam	27,0	26,6	30,5
+	WK038500	Wijk 00 Edam	27,0	32,7	25,9
+	WK038501	Wijk 01 Purmer	36,5	.	.
+	WK038502	Wijk 02 Volendam	26,4	24,6	31,6
+	WK038503	Wijk 03 Beets	28,9	19,7	34,6
+	WK038504	Wijk 04 Oosthuizen	26,4	28,0	27,2
+	WK038505	Wijk 05 Warder	29,6	34,1	33,5
+	WK038506	Wijk 06 Middelie	35,5	23,9	35,8
+	WK038507	Wijk 07 Kwadijk	31,9	19,4	38,8
+	WK038508	Wijk 08 Schardam	36,6	.	.
+	WK038509	Wijk 09 Hobrede	38,3	.	.
+GM0388	Totaal	Enkhuizen	24,2	40,1	17,1
+	WK038800	Wijk 00	25,2	46,6	14,6
+	WK038801	Wijk 01	23,3	33,3	19,7
+GM0392	Totaal	Haarlem	28,4	40,7	21,5
+	WK039201	Oude Stad	36,5	43,7	20,6
+	WK039202	Haarlemmerhoutkwartier	41,3	33,1	33,7
+	WK039203	Zijlwegkwartier	30,6	35,6	23,4
+	WK039204	Houtvaartkwartier	29,7	29,9	31,2
+	WK039205	Duinwijk	33,3	33,5	33,6
+	WK039206	Waarder- en Veerpolder	33,4	33,7	33,5
+	WK039207	Amsterdamsewijk	25,7	49,4	14,8
+	WK039208	Slachthuiswijk	22,3	55,7	9,8
+	WK039209	Parkwijk	23,4	46,3	14,6
+	WK039210	Transvaalwijk	26,8	46,5	16,3
+	WK039211	Indischewijk	25,2	31,0	21,7
+	WK039212	Ter Kleefkwartier	32,3	26,5	37,9
+	WK039213	Te Zaanenkwartier	30,8	26,7	31,4
+	WK039214	Vogelenwijk	26,8	27,5	28,3
+	WK039215	Delftwijk	23,3	51,6	9,0
+	WK039216	Vondelkwartier	24,5	34,1	26,5
+	WK039217	Spaarndam	29,3	32,3	28,1
+	WK039218	Europawijk	22,1	54,4	9,1
+	WK039219	Boerhaavewijk	19,6	50,7	12,2
+	WK039220	Molenwijk	25,8	41,6	15,5
+	WK039221	Meerwijk	18,4	58,4	8,5
+GM0394	Totaal	Haarlemmermeer	28,5	28,8	28,9
+	WK039401	Hoofddorp	27,9	30,0	27,3
+	WK039402	Nieuw-Vennep	27,9	25,3	31,1
+	WK039403	Zwanenburg	26,2	32,7	23,5
+	WK039404	Lijnden / Boesingheliede	28,6	30,3	27,6
+	WK039405	Badhoevedorp	33,3	30,3	32,4
+	WK039406	Aalsmeerderbrug/ Oude Meer/ Rozenburg /	31,3	37,0	23,2
+	WK039407	Rijsenhout	26,1	33,4	24,9
+	WK039408	Burgerveen / Leimuiderbrug / Weteringbru	28,0	28,9	27,7
+	WK039409	Abbenes / Buitenkaag	26,5	27,9	24,7
+	WK039410	Lisserbroek	27,8	23,9	31,9
+	WK039411	Beinsdorp	28,4	20,5	31,9
+	WK039412	Zwaanshoek	30,9	19,2	36,1
+	WK039413	Cruquius	33,3	26,4	34,1
+	WK039415	Vijfhuizen	33,2	24,5	36,4
+	WK039416	Schiphol	.	.	.
+	WK039420	Spaarndam	29,8	25,5	33,4
+	WK039421	Haarlemmerliede	31,8	19,7	34,5
+	WK039422	Halfweg	29,2	30,1	28,4
+GM0396	Totaal	Heemskerk	26,2	34,3	21,9
+	WK039601	Wijk 01 Heemskerk-Dorp	28,3	45,6	12,1
+	WK039602	Wijk 02 Commandeurs en Marquette	28,7	24,6	29,9
+	WK039603	Wijk 03 Hofland, Oosterwijk en Zuidbroek	23,2	49,9	10,4
+	WK039604	Wijk 04 Heemskerkerduin en Noorddorp	29,8	18,7	40,1
+	WK039605	Wijk 05 Poelenburg en Oosterzij	21,0	50,3	9,2
+	WK039606	Wijk 06 Noordbroek en De Trompet	27,7	25,7	25,6
+	WK039607	Wijk 07 Kerkbeek	27,1	39,0	14,8
+	WK039608	Wijk 08 Assumburg	25,5	37,0	22,8
+	WK039609	Wijk 09 Hoogdorp en Waterakkers	28,6	16,7	32,2
+	WK039610	Wijk 10 Broekpolder	27,9	16,1	40,5
+	WK039611	Wijk 11 Oostelijk Heemskerk	.	.	.
+GM0397	Totaal	Heemstede	38,9	28,7	36,6
+	WK039700	Wijk 00 Heemstede-Centrum	39,6	28,9	36,9
+	WK039701	Wijk 01 Heemstede-Zuid	31,1	30,5	28,7
+	WK039702	Wijk 02 Heemstede west van de spoorbaan	42,8	19,8	50,0
+GM0398	Totaal	Heerhugowaard	24,5	30,4	21,0
+	WK039801	Wijk 01 Schrijverswijk	23,0	36,1	15,2
+	WK039802	Wijk 02 Schilderswijk	21,9	27,6	15,4
+	WK039804	Wijk 04 Planetenwijk	22,5	19,6	19,1
+	WK039806	Wijk 06 Bomen- Recreatiewijk	23,2	34,9	16,4
+	WK039807	Wijk 07 Heemradenwijk	25,6	32,6	16,5
+	WK039808	Wijk 08 Edelstenenwijk	24,4	20,2	21,7
+	WK039809	Wijk 09 Stadshart	26,0	56,5	6,2
+	WK039810	Wijk 10 Molenwijk	22,8	41,2	13,8
+	WK039811	Wijk 11 Rivierenwijk	20,2	47,6	9,3
+	WK039812	Wijk 12 Bedrijventerrein	23,4	52,5	20,5
+	WK039813	Wijk 13 Butterhuizen	26,5	28,2	26,4
+	WK039814	Wijk 14 Oostertocht	25,9	30,5	23,6
+	WK039815	Wijk 15 Zuidwijk	24,3	24,3	26,1
+	WK039816	Wijk16 Huygenhoek	25,7	19,3	32,8
+	WK039817	Wijk 17 Stad van de Zon	26,6	22,2	28,9
+	WK039818	Wijk 18 De Draai	26,5	14,4	31,6
+	WK039819	Wijk 19 Broekhorn	32,3	9,6	27,1
+	WK039820	Wijk 20 De Noord	26,3	25,0	29,8
+	WK039830	Wijk 30 Buitengebied Noord	25,2	24,1	35,0
+	WK039840	Wijk 40 't Kruis	29,0	22,6	30,2
+	WK039850	Wijk 50 Buitengebied Zuid	31,1	.	.
+GM0399	Totaal	Heiloo	30,1	29,1	29,2
+	WK039901	Wijk 01 Blockhovepark	43,3	13,5	56,3
+	WK039902	Wijk 02 Heiloo Noord-West	34,8	19,4	37,2
+	WK039903	Wijk 03 Heiloo-Midden	30,4	26,1	30,3
+	WK039904	Wijk 04 Heiloo-West	28,5	28,8	26,1
+	WK039905	Wijk 05 Stationsomgeving	27,5	33,7	23,6
+	WK039906	Wijk 06 Ypestein	29,0	35,4	28,9
+	WK039907	Wijk 07 Heiloo-Oost	.	.	.
+	WK039908	Wijk 08 Heiloo Zuid-West	30,7	27,0	31,5
+GM0400	Totaal	Den Helder	23,5	44,3	13,0
+	WK040001	Wijk 01 Stad binnen de Linie-Oost	22,3	51,7	8,6
+	WK040002	Wijk 02 Stad binnen de Linie-West	22,9	44,8	10,8
+	WK040003	Wijk 03 Nieuw Den Helder-West	24,2	52,8	12,6
+	WK040004	Wijk 04 Nieuw Den Helder-Oost	21,5	53,4	10,9
+	WK040005	Wijk 05 De Schooten	23,1	50,0	9,9
+	WK040006	Wijk 06 Het Koegras	25,9	38,7	19,5
+	WK040007	Wijk 07 Duinzoom	29,2	26,5	25,9
+	WK040008	Wijk 08 Julianadorp	26,1	22,7	22,4
+GM0402	Totaal	Hilversum	29,7	40,5	22,3
+	WK040201	Centrum	27,9	50,2	12,7
+	WK040202	Noordwest	52,8	26,6	43,3
+	WK040203	Zuidwest	27,0	43,2	19,0
+	WK040204	Zuid	29,3	35,4	25,2
+	WK040205	Zuidoost	36,9	35,4	31,6
+	WK040206	Oost	24,1	42,2	18,5
+	WK040207	Noordoost	24,2	49,0	15,7
+	WK040208	Hilversumse Meent	26,6	30,5	23,6
+	WK040209	Landelijk Gebied	38,2	34,8	36,2
+GM0405	Totaal	Hoorn	24,8	38,3	18,5
+	WK040510	Wijk 10 Binnenstad	32,7	43,6	19,0
+	WK040511	Wijk 11 Venenlaan-kwartier	26,9	40,4	19,8
+	WK040512	Wijk 12 Hoorn-Noord	24,3	43,7	17,1
+	WK040513	Wijk 13 Grote Waal	20,7	46,5	10,5
+	WK040520	Wijk 20 Risdam-Zuid	24,2	40,2	15,6
+	WK040521	Wijk 21 Risdam-Noord	22,5	41,2	12,7
+	WK040522	Wijk 22 Nieuwe Steen	32,6	10,2	40,0
+	WK040530	Wijk 30 Zwaag	24,0	34,9	17,9
+	WK040531	Wijk 31 Blokker	27,0	30,2	22,4
+	WK040532	Wijk 32 Kersenboogerd-Noord	19,6	52,9	8,1
+	WK040533	Wijk 33 Kersenboogerd-Zuid	25,2	33,9	23,8
+	WK040534	Wijk 34 Hoorn 80	.	.	.
+	WK040535	Wijk 35 Bangert en Oosterpolder	26,8	15,2	34,1
+	WK040536	Wijk 36 Noord	.	.	.
+GM0406	Totaal	Huizen	29,0	34,1	25,2
+	WK040600	Wijk 00 Oude Dorp	27,6	35,0	25,2
+	WK040601	Wijk 01 Westereng	32,7	28,3	32,6
+	WK040602	Wijk 02 Buitenwijken	76,4	8,1	77,2
+	WK040603	Wijk 03 Erica en Tafelberg	69,9	5,6	73,4
+	WK040604	Wijk 04 Staatslieden en Componistenbuurt	41,0	19,9	49,1
+	WK040605	Wijk 05 Havengebied	29,0	27,6	25,3
+	WK040606	Wijk 06 Zenderwijk en Bovenweg	24,4	41,9	19,0
+	WK040607	Wijk 07 Stad en Lande	22,9	34,5	18,0
+	WK040608	Wijk 08 Huizermaat West en Zuid	25,3	36,3	18,0
+	WK040609	Wijk 09 Huizermaat Noord	26,1	38,5	18,1
+	WK040610	Wijk 10 Bijvanck	25,4	39,2	18,5
+	WK040611	Wijk 11 Bovenmaten	25,1	40,8	19,9
+	WK040612	Wijk 12 Hogemaat	33,1	20,3	40,9
+GM0415	Totaal	Landsmeer	30,7	27,6	32,9
+	WK041500	Wijk 00 Landsmeer	30,0	28,1	31,8
+	WK041501	Wijk 01 Ilpendam	36,0	24,2	40,9
+GM0416	Totaal	Langedijk	26,0	28,1	25,9
+	WK041600	Wijk 00	26,0	28,1	25,9
+GM0417	Totaal	Laren	43,8	28,1	38,9
+	WK041703	Laren	43,8	28,1	38,9
+GM0420	Totaal	Medemblik	24,6	33,5	23,0
+	WK042001	Medemblik	22,6	41,1	16,3
+	WK042002	Opperdoes	23,1	34,5	21,6
+	WK042003	Twisk	27,4	28,8	25,5
+	WK042004	Lambertschaag	25,6	.	.
+	WK042005	Abbekerk	25,4	31,6	22,8
+	WK042006	Sijbekarspel	24,1	27,5	22,9
+	WK042007	Benningbroek	26,6	29,0	30,4
+	WK042008	Wognum	27,0	23,4	31,2
+	WK042009	Zwaagdijk-West	28,7	25,7	35,4
+	WK042010	Nibbixwoud	23,4	29,4	23,8
+	WK042011	Midwoud	26,0	36,2	22,2
+	WK042012	Oostwoud	26,6	25,4	27,9
+	WK042013	Hauwert	26,4	22,7	31,2
+	WK042014	Zwaagdijk-Oost	25,4	27,5	31,6
+	WK042015	Wervershoof	23,8	35,2	22,3
+	WK042016	Andijk	24,5	35,3	21,8
+GM0431	Totaal	Oostzaan	28,2	27,7	30,2
+	WK043100	Wijk 00	28,2	27,7	30,2
+GM0432	Totaal	Opmeer	24,4	30,2	24,3
+	WK043200	Wijk 00	24,3	30,3	23,7
+	WK043201	Wijk 01	24,6	29,9	24,5
+	WK043202	Wijk 02	23,8	30,7	28,9
+GM0437	Totaal	Ouder-Amstel	33,8	31,4	32,6
+	WK043700	Wijk 00	33,8	31,4	32,6
+GM0439	Totaal	Purmerend	25,2	37,2	19,8
+	WK043901	Wijk 01 Centrum	26,9	50,3	12,4
+	WK043902	Wijk 02 Overwhere	24,0	43,8	12,6
+	WK043903	Wijk 03 Wheermolen	20,2	54,3	7,8
+	WK043904	Wijk 04 Gors	25,3	33,9	18,1
+	WK043905	Wijk 05 Purmer-Noord	23,2	39,8	15,2
+	WK043906	Wijk 06 Purmer-Zuid	28,5	25,3	31,5
+	WK043907	Wijk 07 Weidevenne	26,9	25,9	31,6
+GM0441	Totaal	Schagen	25,4	33,2	22,8
+	WK044101	Schagerbrug	27,4	25,5	31,5
+	WK044103	Burgerbrug	24,4	30,8	25,3
+	WK044104	Sint Maarten	26,2	26,4	27,6
+	WK044105	Warmenhuizen	26,3	27,4	29,0
+	WK044106	Tuitjenhorn	24,5	33,8	26,9
+	WK044107	Waarland	25,4	29,2	28,3
+	WK044108	Dirkshorn	25,2	31,8	23,1
+	WK044109	Oudesluis	24,2	28,4	23,9
+	WK044110	Schagen (woonkern-Midden)	24,3	41,9	14,1
+	WK044111	Petten	25,0	31,6	19,8
+	WK044112	Sint Maartensbrug	26,5	19,1	29,7
+	WK044113	't Zand	23,6	34,5	21,6
+	WK044114	Sint Maartensvlotbrug	23,9	38,6	16,6
+	WK044115	Callantsoog	26,4	36,7	21,8
+	WK044116	Schagen (woonkern-West en Buitengebied)	24,6	31,7	17,8
+	WK044117	Schagen (woonkern-Oost en Buitengebied)	28,2	26,8	34,0
+GM0448	Totaal	Texel	24,3	37,6	19,9
+	WK044800	Wijk 00 Het Oude Land en duingebied	24,3	38,0	19,3
+	WK044801	Wijk 01 Het Nieuwe Land	24,5	34,0	24,5
+GM0450	Totaal	Uitgeest	27,7	25,7	29,5
+	WK045000	Wijk 00 Uitgeest	27,7	25,7	29,5
+GM0451	Totaal	Uithoorn	28,0	32,5	25,7
+	WK045115	Wijk 15 Dorpscentrum	29,7	46,1	14,7
+	WK045125	Wijk 25 Thamerdal	23,1	45,6	15,1
+	WK045135	Wijk 35 Zijdelwaard	24,1	42,9	17,1
+	WK045145	Wijk 45 Legmeer	29,8	24,8	28,3
+	WK045150	Wijk 50 Langs de Vuurlinie	27,5	.	.
+	WK045155	Wijk 55 Veilinggebied	.	.	.
+	WK045165	Wijk 65 Meerwijk	32,7	22,2	38,2
+	WK045175	Wijk 75 Bedrijventerrein	29,1	24,3	35,9
+	WK045185	Wijk 85 Meerwijk	28,3	26,1	30,2
+	WK045190	Wijk 90 Glastuinbouwgebied	30,2	20,7	44,8
+	WK045195	Wijk 95 Veenweidegebied	34,9	.	.
+GM0453	Totaal	Velsen	26,7	36,6	22,2
+	WK045300	Wijk 00 Velsen-Zuid en Driehuis	36,7	17,1	41,9
+	WK045301	Wijk 01 IJmuiden-Noord	23,3	41,3	13,5
+	WK045302	Wijk 02 IJmuiden-Zuid	23,6	45,3	14,8
+	WK045303	Wijk 03 IJmuiden-West	25,2	47,6	12,4
+	WK045304	Wijk 04 Zee- en Duinwijk	22,1	50,3	10,8
+	WK045305	Wijk 05 Velsen-Noord	20,8	49,5	10,7
+	WK045306	Wijk 06 Santpoort-Noord	31,3	25,5	32,1
+	WK045307	Wijk 07 Santpoort-Zuid	41,0	27,2	42,1
+	WK045308	Wijk 08 Velserbroek	27,5	22,6	33,7
+	WK045309	Wijk 09 Spaarndammerpolder	25,8	35,7	26,2
+GM0457	Totaal	Weesp	28,2	38,1	23,1
+	WK045700	Binnenstad	31,5	38,8	23,5
+	WK045701	Zuid	29,5	39,3	28,5
+	WK045702	Noord	24,2	51,0	10,0
+	WK045703	Hogewey	23,9	44,3	13,7
+	WK045704	Aetsveld	27,6	28,1	26,8
+	WK045707	Aetsveldsepolder	39,3	17,1	52,4
+	WK045708	Oostelijke Vechtoever	30,4	21,3	44,4
+	WK045709	Bloemendalerpolder	37,7	7,7	65,6
+GM0473	Totaal	Zandvoort	28,8	42,7	20,1
+	WK047301	Zandvoort Noord	23,5	47,2	14,2
+	WK047302	Zandvoort Zuid	30,9	40,3	22,9
+	WK047303	Bentveld	53,5	28,0	42,7
+	WK047304	Buitengebied	.	.	.
+GM0479	Totaal	Zaanstad	24,4	39,9	18,6
+	WK047911	Wijk 11 Zaandam Zuid	21,5	48,3	11,6
+	WK047912	Wijk 12 Poelenburg	17,0	55,2	10,7
+	WK047913	Wijk 13 Pelders- en Hoornseveld	20,4	50,7	12,0
+	WK047914	Wijk 14 Rosmolenwijk	23,1	52,7	10,1
+	WK047915	Wijk 15 Kogerveldwijk	20,9	47,8	9,8
+	WK047916	Wijk 16 Zaandam Noord	26,5	35,8	18,8
+	WK047921	Wijk 21 Oude Haven	27,5	41,2	20,5
+	WK047922	Wijk 22 Zaandam West	26,3	39,9	18,5
+	WK047923	Wijk 23 Nieuw West	27,4	28,5	27,2
+	WK047931	Wijk 31 Oud Koog a/d Zaan	23,5	42,1	15,1
+	WK047932	Wijk 32 Westerkoog	28,1	27,0	25,6
+	WK047941	Wijk 41 Oud Zaandijk	25,9	47,1	15,6
+	WK047942	Wijk 42 Rooswijk	25,3	34,7	25,2
+	WK047951	Wijk 51 Wormerveer	23,2	46,2	11,4
+	WK047961	Wijk 61 Krommenie Oost	23,4	49,2	12,9
+	WK047962	Wijk 62 Krommenie West	25,9	32,2	23,3
+	WK047971	Wijk 71 Assendelft-Zuid	26,9	31,0	24,6
+	WK047972	Wijk 72 Assendelft-Noord	26,0	19,2	33,8
+	WK047981	Wijk 81 Westzaan	29,2	28,1	30,0
+GM0482	Totaal	Alblasserdam	23,7	35,6	22,2
+	WK048201	Wijk 01 Centrum	24,9	34,4	23,9
+	WK048202	Wijk 02 Kinderdijk	23,7	36,1	22,9
+	WK048203	Wijk 03 Blokweer	23,1	34,2	21,1
+	WK048204	Wijk 04 Souburgh	23,4	40,5	20,7
+	WK048205	Wijk 05 Bedrijventerrein	19,3	.	.
+	WK048206	Wijk 06 Landelijk gebied	.	.	.
+GM0484	Totaal	Alphen aan den Rijn	26,9	31,8	24,3
+	WK048401	Oudshoorn	26,9	31,0	23,7
+	WK048402	Ridderveld	24,1	38,7	15,8
+	WK048403	Zegersloot	25,0	33,1	18,9
+	WK048404	Hoorn	24,5	49,9	9,8
+	WK048405	Hoge Zijde	26,6	33,4	21,5
+	WK048406	Lage Zijde	28,3	30,6	23,2
+	WK048407	Steekterpolder	28,3	25,6	32,8
+	WK048408	Kerk en Zanen	30,5	20,4	38,2
+	WK048409	Rietveld	.	.	.
+	WK048431	Benthuizen	25,8	24,1	29,7
+	WK048445	Aarlanderveen	30,0	31,0	33,9
+	WK048470	Boskoop	26,0	34,1	24,4
+	WK048471	Zwammerdam	28,0	31,5	29,0
+	WK048491	Hazerswoude-Dorp	28,3	27,6	30,5
+	WK048494	Hazerswoude-Rijndijk	25,9	30,6	23,2
+	WK048496	Koudekerk aan den Rijn	27,6	29,4	28,1
+GM0489	Totaal	Barendrecht	29,2	24,6	33,3
+	WK048901	Wijk 01 Centrum	23,5	46,5	16,7
+	WK048902	Wijk 02 Noord	22,3	44,7	16,4
+	WK048903	Wijk 03 Binnenland	25,3	37,7	18,1
+	WK048904	Wijk 04 Oranjewijk	33,2	15,7	43,0
+	WK048905	Wijk 05 Buitenoord	29,3	26,5	28,1
+	WK048906	Wijk 06 Ter Leede	33,4	13,8	47,9
+	WK048907	Wijk 07 Paddewei	23,6	33,9	20,6
+	WK048908	Wijk 08 Molenvliet	28,5	24,6	31,1
+	WK048909	Wijk 09 Nieuweland	30,3	21,0	38,3
+	WK048910	Wijk 10 Dorpzicht	30,0	8,0	44,3
+	WK048911	Wijk 11 Bijdorp	30,1	18,7	44,3
+	WK048912	Wijk 12 Smitshoek	29,3	25,0	35,9
+	WK048913	Wijk 13 Voordijk	44,1	8,9	67,1
+	WK048914	Wijk 14 Meerwede	29,5	24,3	31,1
+	WK048915	Wijk 15 Waterkant	30,6	25,9	31,5
+	WK048916	Wijk 16 Havenkwartier	32,4	18,0	38,0
+	WK048917	Wijk 17 Gaatkensoog	36,7	12,7	45,9
+	WK048918	Wijk 18 Riederhoek	28,9	19,0	39,1
+	WK048919	Wijk 19 Vrijheidsakker	30,4	10,8	44,1
+	WK048920	Wijk 20 Vrijenburg	26,4	21,4	34,6
+	WK048930	Wijk 30 Buitengebied Noord	29,9	.	.
+	WK048931	Wijk 31 Buitengebied Zuid	30,9	22,0	37,9
+	WK048950	Wijk 50 Bedrijventerreinen	.	.	.
+GM0498	Totaal	Drechterland	25,4	29,4	25,5
+	WK049800	Wijk 00 Hoogkarspel	24,2	30,5	22,4
+	WK049801	Wijk 01 Westwoud	25,6	25,5	28,8
+	WK049802	Wijk 02 Oosterblokker	29,1	25,8	31,5
+	WK049803	Wijk 03 Venhuizen	24,5	31,5	26,0
+	WK049804	Wijk 04 Wijdenes	27,9	26,0	32,1
+	WK049805	Wijk 05 Schellinkhout	30,1	24,6	24,6
+GM0501	Totaal	Brielle	30,2	28,5	27,1
+	WK050100	Wijk 00 Brielle	30,3	30,5	26,0
+	WK050101	Wijk 01 Vierpolders	28,7	19,3	29,6
+	WK050102	Wijk 02 Zwartewaal	29,8	21,9	31,9
+	WK050103	Wijk 03 Recreatiestrook Brielse Maas	.	.	.
+GM0502	Totaal	Capelle aan den IJssel	25,7	40,1	19,0
+	WK050201	Capelle West en 's Gravenland	30,6	20,3	38,5
+	WK050202	Middelwatering West	24,9	39,0	14,3
+	WK050203	Middelwatering Oost	22,2	52,0	10,6
+	WK050204	Oostgaarde Zuid	29,2	35,1	23,7
+	WK050205	Oostgaarde Noord	20,8	53,3	9,2
+	WK050206	Schenkel	25,1	46,9	18,0
+	WK050207	Schollevaar Zuid	24,7	41,3	14,5
+	WK050208	Schollevaar Noord	26,7	36,0	18,8
+	WK050209	Rivium	28,6	24,7	43,5
+GM0503	Totaal	Delft	24,6	56,4	14,4
+	WK050311	Wijk 11 Binnenstad	29,9	60,3	15,8
+	WK050312	Wijk 12 Vrijenban	23,9	58,6	12,9
+	WK050313	Wijk 13 Hof van Delft	25,0	56,5	14,8
+	WK050314	Wijk 14 Voordijkshoorn	28,5	38,1	26,9
+	WK050316	Wijk 16 Delftse Hout	.	.	.
+	WK050322	Wijk 22 Tanthof-West	26,8	38,0	21,8
+	WK050323	Wijk 23 Tanthof-Oost	25,6	43,8	15,3
+	WK050324	Wijk 24 Voorhof	19,7	64,6	5,7
+	WK050325	Wijk 25 Buitenhof	19,9	63,0	10,5
+	WK050326	Wijk 26 Abtswoude	.	.	.
+	WK050327	Wijk 27 Schieweg	34,5	37,4	27,5
+	WK050328	Wijk 28 Wippolder	22,2	67,2	11,4
+	WK050329	Wijk 29 Ruiven	25,5	46,9	17,2
+GM0505	Totaal	Dordrecht	24,7	42,7	17,5
+	WK050501	Wijk 01 Binnenstad	32,0	46,2	17,5
+	WK050502	Wijk 02 Noordflank	24,4	53,5	15,4
+	WK050503	Wijk 03 Oud Krispijn	19,4	44,5	11,8
+	WK050504	Wijk 04 Nieuw-krispijn	19,4	58,9	8,5
+	WK050505	Wijk 05 Het Reeland	24,6	43,0	17,2
+	WK050506	Wijk 06 Staart	21,4	51,2	6,7
+	WK050507	Wijk 07 Wielwijk	20,4	59,2	10,6
+	WK050508	Wijk 08 Crabbehof/Zuidhoven	20,1	60,8	6,2
+	WK050509	Wijk 09 Sterrenburg	24,3	37,6	16,6
+	WK050510	Wijk 10 Dubbeldam	31,1	26,6	33,4
+	WK050511	Wijk 11 Stadspolders	26,6	26,9	28,1
+	WK050519	Wijk 19 Industriegebied West	26,0	25,9	25,6
+	WK050598	Wijk 98 Verspreide bebouwing	26,2	23,3	32,8
+GM0512	Totaal	Gorinchem	25,5	41,4	19,3
+	WK051201	Wijk 01 Gorinchem binnenstad	30,4	45,5	15,6
+	WK051202	Wijk 02 Wijdschild	28,2	20,4	29,0
+	WK051203	Wijk 03 Lingewijk	22,4	48,3	12,8
+	WK051204	Wijk 04 haarwijk	21,9	43,7	16,2
+	WK051205	Wijk 05 Stalkaarsen	24,1	44,0	13,0
+	WK051206	Wijk 06 Gildenwijk	19,6	66,9	4,2
+	WK051207	Wijk 07 Schelluinsestraat	22,0	.	.
+	WK051208	Wijk 08 Avelingen Oost	.	.	.
+	WK051209	Wijk 09 Avelingen West	.	.	.
+	WK051210	Wijk 10 Molenvliet	.	.	.
+	WK051211	Wijk 11 laag Dalem	28,1	20,2	36,5
+	WK051212	Wijk 12 Dalem	29,6	19,4	33,3
+	WK051213	Wijk 13 Hoog Dalem	30,0	7,9	51,8
+	WK051214	Wijk 14 Bedrijventerrein Oost	.	.	.
+	WK051215	Wijk 15 Papland	.	.	.
+	WK051216	Wijk 16 schotdeuren	.	.	.
+	WK051217	Wijk 17 Bedrijventerrein Noord	.	.	.
+	WK051218	Wijk 18 Landelijk gebied West	.	.	.
+	WK051219	Wijk 19 Landelijk gebied Noord	.	.	.
+	WK051220	Wijk 20 Landelijk gebied Oost	.	.	.
+	WK051221	Wijk 21 Landelijk gebied Zuid	.	.	.
+GM0513	Totaal	Gouda	25,6	39,8	19,8
+	WK051301	Binnenstad	30,5	47,6	18,5
+	WK051302	De Korte Akkeren	20,3	45,8	9,9
+	WK051303	Bloemendaal	28,9	36,7	20,6
+	WK051304	Plaswijck	25,9	36,3	22,1
+	WK051305	Noord	25,5	39,3	20,4
+	WK051306	Kort Haarlem	23,4	43,8	18,3
+	WK051307	Goverwelle	25,3	27,9	28,7
+	WK051308	Stolwijkersluis	38,2	27,8	31,6
+	WK051309	Westergouwe	22,4	71,0	12,3
+GM0518	Totaal	's-Gravenhage	25,8	48,5	17,0
+	WK051801	Wijk 01 Oostduinen	.	.	.
+	WK051802	Wijk 02 Belgisch Park	35,5	40,9	27,5
+	WK051803	Wijk 03 Westbroekpark en Duttendel	62,6	25,1	45,0
+	WK051804	Wijk 04 Benoordenhout	50,0	21,0	43,5
+	WK051805	Wijk 05 Archipelbuurt	57,7	35,3	32,9
+	WK051806	Wijk 06 Van Stolkpark en Scheveningse Bo	61,2	29,0	43,6
+	WK051807	Wijk 07 Scheveningen	29,0	48,0	18,1
+	WK051808	Wijk 08 Duindorp	22,0	48,7	12,8
+	WK051809	Wijk 09 Geuzen- en Statenkwartier	39,5	34,2	32,7
+	WK051810	Wijk 10 Zorgvliet	60,1	20,8	49,4
+	WK051811	Wijk 11 Duinoord	39,1	37,3	29,3
+	WK051812	Wijk 12 Bomen- en Bloemenbuurt	29,8	33,6	21,9
+	WK051813	Wijk 13 Vogelwijk	45,3	11,3	58,2
+	WK051814	Wijk 14 Bohemen en Meer en Bos	32,5	39,8	18,8
+	WK051815	Wijk 15 Kijkduin en Ockenburgh	44,5	24,3	41,9
+	WK051816	Wijk 16 Kraayenstein en Vroondaal	32,1	33,3	23,5
+	WK051817	Wijk 17 Loosduinen	24,3	42,4	16,2
+	WK051818	Wijk 18 Waldeck	24,8	49,3	10,6
+	WK051819	Wijk 19 Vruchtenbuurt	30,4	26,0	27,9
+	WK051820	Wijk 20 Valkenboskwartier	23,7	51,8	12,0
+	WK051821	Wijk 21 Regentessekwartier	26,5	54,5	14,9
+	WK051822	Wijk 22 Zeeheldenkwartier	30,8	56,0	15,6
+	WK051823	Wijk 23 Willemspark	49,3	38,3	27,2
+	WK051824	Wijk 24 Haagse Bos	45,9	41,9	15,0
+	WK051825	Wijk 25 Mariahoeve en Marlot	26,2	56,8	10,8
+	WK051826	Wijk 26 Bezuidenhout	32,4	40,6	20,0
+	WK051827	Wijk 27 Stationsbuurt	21,1	71,2	8,4
+	WK051828	Wijk 28 Centrum	29,9	58,1	12,9
+	WK051829	Wijk 29 Schildersbuurt	13,9	65,3	6,8
+	WK051830	Wijk 30 Transvaalkwartier	14,9	61,9	7,3
+	WK051831	Wijk 31 Rustenburg en Oostbroek	19,0	50,1	7,1
+	WK051832	Wijk 32 Leyenburg	23,7	43,7	10,4
+	WK051833	Wijk 33 Bouwlust en Vrederust	17,7	62,3	7,4
+	WK051834	Wijk 34 Morgenstond	19,4	62,9	7,6
+	WK051835	Wijk 35 Zuiderpark	20,1	83,7	0,8
+	WK051836	Wijk 36 Moerwijk	16,5	70,4	4,9
+	WK051837	Wijk 37 Groente- en Fruitmarkt	16,0	52,1	11,2
+	WK051838	Wijk 38 Laakkwartier en Spoorwijk	17,4	60,0	6,2
+	WK051839	Wijk 39 Binckhorst	14,2	91,1	1,6
+	WK051840	Wijk 40 Wateringse Veld	27,1	25,2	35,5
+	WK051841	Wijk 41 Hoornwijk	34,1	.	.
+	WK051842	Wijk 42 Ypenburg	28,5	25,4	37,1
+	WK051843	Wijk 43 Forepark	40,9	.	.
+	WK051844	Wijk 44 Leidschenveen	28,2	18,9	40,5
+GM0523	Totaal	Hardinxveld-Giessendam	23,3	31,7	23,6
+	WK052300	Wijk 00	23,3	31,7	23,6
+GM0530	Totaal	Hellevoetsluis	27,6	32,3	23,1
+	WK053000	Wijk 00 Hellevoet	28,1	41,1	19,2
+	WK053001	Wijk 01 Nieuw-Helvoet	24,4	37,0	17,5
+	WK053002	Wijk 02 Nieuwenhoorn	29,5	32,1	28,1
+	WK053003	Wijk 03 De Struyten	25,6	28,7	18,7
+	WK053004	Wijk 04 De Kooistee	24,0	35,3	17,1
+	WK053005	Wijk 05 Den Bonsen Hoek	32,7	23,1	34,9
+	WK053006	Wijk 06 Ravense Hoek	34,9	11,9	48,8
+	WK053007	Wijk 07 Centrumgebied	24,6	63,2	3,9
+	WK053008	Wijk 08 Kickers Bloem	.	.	.
+	WK053009	Wijk 09 Buitengebied	32,9	26,2	38,0
+	WK053010	Oudenhoorn	30,0	27,6	28,2
+GM0531	Totaal	Hendrik-Ido-Ambacht	26,9	27,0	28,5
+	WK053101	Wijk 01 Centrum	24,5	33,5	22,0
+	WK053102	Wijk 02 Krommeweg	26,8	25,7	28,0
+	WK053103	Wijk 03 De Volgerlanden	29,6	20,0	37,2
+	WK053104	Wijk 04 Sandelingen-Ambacht	.	.	.
+	WK053105	Wijk 05 De Oevers	30,5	.	.
+GM0532	Totaal	Stede Broec	23,3	33,0	18,7
+	WK053200	Wijk 00	23,7	32,8	19,0
+	WK053201	Wijk 01	22,9	33,2	18,5
+GM0534	Totaal	Hillegom	26,8	33,1	22,0
+	WK053401	Hillegom Midden	23,9	42,5	14,6
+	WK053402	Hillegom Noord	27,3	32,6	26,1
+	WK053403	Hillegom Zuid	26,5	29,1	22,0
+	WK053404	Hillegom West	31,2	24,6	28,8
+	WK053405	Buitengebied	30,5	26,4	32,7
+GM0537	Totaal	Katwijk	24,4	31,5	23,5
+	WK053701	Katwijk Noord	22,7	35,6	18,9
+	WK053702	't Heen	.	.	.
+	WK053703	Katwijk aan den Rijn	24,1	34,0	24,0
+	WK053705	Katwijk aan Zee	23,7	32,8	21,3
+	WK053706	Landelijk gebied Katwijk	.	.	.
+	WK053707	Rijnsburg	26,0	28,0	27,2
+	WK053708	Valkenburg	26,0	21,7	31,3
+GM0542	Totaal	Krimpen aan den IJssel	25,8	33,8	22,8
+	WK054200	Wijk 00 Krimpen aan den IJssel	25,8	33,7	22,8
+GM0546	Totaal	Leiden	26,6	52,0	17,2
+	WK054600	Binnenstad-Zuid	26,7	70,3	10,2
+	WK054601	Binnenstad-Noord	25,5	66,4	9,5
+	WK054602	Stationsdistrict	31,2	49,2	14,9
+	WK054603	Leiden-Noord	22,3	57,3	12,1
+	WK054604	Roodenburgerdistrict	31,2	40,5	27,7
+	WK054605	Bos- en Gasthuisdistrict	24,6	55,8	13,3
+	WK054606	Morsdistrict	24,4	52,6	13,8
+	WK054607	Boerhaavedistrict	33,1	55,3	24,1
+	WK054608	Merenwijkdistrict	27,9	31,8	26,5
+	WK054609	Stevenshofdistrict	26,0	32,1	25,0
+GM0547	Totaal	Leiderdorp	29,0	32,1	26,0
+	WK054700	Wijk 00	28,2	35,4	22,0
+	WK054701	Wijk 01	30,7	26,9	32,9
+	WK054702	Wijk 02	29,6	27,4	31,5
+GM0553	Totaal	Lisse	27,0	34,1	23,3
+	WK055301	Lisse Noord	25,5	36,0	19,5
+	WK055302	Centrum	29,7	36,2	23,1
+	WK055303	Lisse Zuid	25,9	31,1	25,8
+	WK055304	Buitengebied	27,8	30,7	28,8
+GM0556	Totaal	Maassluis	25,2	38,2	18,7
+	WK055601	Wijk 01 Taanschuurpolder	26,6	33,6	20,4
+	WK055602	Wijk 02 Dijkpolder	23,4	47,0	16,3
+	WK055603	Sluispolder	23,6	49,3	12,7
+	WK055604	Wijk 04 Kapelpolder	24,4	44,0	17,9
+	WK055605	Wijk 05 Burgemeesterswijk	25,7	29,6	19,0
+	WK055606	Wijk 06 Steendijkpolder	28,3	16,7	29,3
+	WK055607	Wijk 07 Aalkeetpolder	33,9	.	.
+	WK055608	Wijk 08 Wilgenrijk	36,2	.	.
+GM0569	Totaal	Nieuwkoop	27,5	27,1	29,2
+	WK056900	Wijk 00	27,9	27,3	29,2
+	WK056901	Wijk 01 Nieuwveen	26,1	24,1	31,6
+	WK056902	Wijk 02 Zevenhoven	28,0	26,2	28,9
+	WK056903	Wijk 03 Ter Aar	27,2	28,4	28,3
+GM0575	Totaal	Noordwijk	29,2	33,7	25,3
+	WK057500	Wijk 00 Noordwijk-Binnen	28,7	32,1	25,1
+	WK057501	Wijk 01 Noordwijk Aan Zee	34,9	36,6	26,7
+	WK057502	Wijk 02 Noordwijkerhout	26,6	33,8	24,5
+GM0579	Totaal	Oegstgeest	36,6	25,4	36,0
+	WK057900	Wijk 00 Oegstgeest	36,6	25,4	36,0
+GM0589	Totaal	Oudewater	28,1	29,4	29,2
+	WK058901	Hekendorp	27,2	19,5	39,3
+	WK058902	Oudewater	27,0	31,5	26,3
+	WK058903	Papekop	28,7	22,0	41,8
+	WK058904	Snelrewaard	39,6	15,1	50,2
+GM0590	Totaal	Papendrecht	26,2	32,5	22,0
+	WK059000	Wijk 00 Papendrecht	26,2	32,5	22,0
+GM0597	Totaal	Ridderkerk	25,3	38,0	18,6
+	WK059701	Centrum	23,2	50,7	9,3
+	WK059702	West	22,7	48,3	10,5
+	WK059703	Oost	23,0	40,8	14,5
+	WK059704	Drievliet	26,0	33,9	21,1
+	WK059705	Het Zand	29,1	20,0	34,4
+	WK059706	Slikkerveer	25,4	33,1	20,1
+	WK059707	Bolnes	24,4	43,3	15,9
+	WK059708	Rijsoord	31,2	26,0	33,3
+	WK059709	Oostendam	27,8	26,4	29,8
+	WK059710	Donkersloot	26,9	.	.
+	WK059711	Verenambacht	.	.	.
+	WK059712	Cornelisland	.	.	.
+GM0599	Totaal	Rotterdam	23,7	53,8	13,3
+	WK059901	Rotterdam Centrum	32,1	51,6	15,7
+	WK059903	Delfshaven	19,7	61,6	9,2
+	WK059904	Overschie	24,6	46,9	18,3
+	WK059905	Noord	24,5	55,1	11,7
+	WK059906	Hillegersberg-Schiebroek	32,5	40,9	27,6
+	WK059908	Kralingen-Crooswijk	26,5	59,3	12,8
+	WK059910	Feijenoord	19,2	61,9	9,1
+	WK059912	IJsselmonde	20,7	53,2	9,9
+	WK059913	Pernis	25,1	34,6	17,4
+	WK059914	Prins Alexander	26,1	46,4	18,6
+	WK059915	Charlois	18,6	62,6	6,2
+	WK059916	Hoogvliet	23,1	44,4	14,2
+	WK059917	Hoek van Holland	27,1	38,3	21,4
+	WK059918	Spaanse Polder	27,6	.	.
+	WK059919	Nieuw Mathenesse	.	.	.
+	WK059921	Waalhaven-Eemhaven	.	.	.
+	WK059922	Vondelingenplaat	.	.	.
+	WK059923	Botlek-Europoort-Maasvlakte	.	.	.
+	WK059924	Rotterdam-Noord-West	.	.	.
+	WK059925	Rivium	.	.	.
+	WK059926	Bedrijventerrein Schieveen	.	.	.
+	WK059927	Rozenburg	25,3	36,4	17,8
+GM0603	Totaal	Rijswijk	27,6	43,0	17,9
+	WK060301	Wijk 01	35,8	21,9	37,4
+	WK060302	Wijk 02	28,1	43,9	17,1
+	WK060303	Wijk 03	37,1	28,9	36,4
+	WK060304	Wijk 04	25,4	49,9	11,4
+	WK060305	Wijk 05	30,5	41,9	11,6
+	WK060306	Wijk 06	26,0	52,3	8,2
+	WK060307	Wijk 07	22,3	53,8	8,3
+	WK060308	Wijk 08	28,8	40,4	24,0
+	WK060309	Wijk 09	23,9	45,9	13,7
+	WK060310	Wijk 10	30,8	13,0	40,4
+	WK060311	Wijk 11	30,8	31,5	32,8
+GM0606	Totaal	Schiedam	23,5	46,6	14,6
+	WK060600	Wijk 00 Centrum	25,3	52,8	12,0
+	WK060601	Wijk 01 Oost	20,3	54,4	8,1
+	WK060602	Wijk 02 Tussen Havens en Grachten	32,6	37,4	20,7
+	WK060603	Wijk 03 West	25,7	42,2	17,7
+	WK060604	Wijk 04 Zuid	22,1	49,3	9,1
+	WK060605	Wijk 05 Nieuw Mathenesse	.	.	.
+	WK060606	Wijk 06 Nieuwland	19,0	58,4	8,6
+	WK060607	Wijk 07 Groenoord en Kethel	21,6	52,1	10,5
+	WK060608	Wijk 08 Industriegeb. ten N. v. Rijksweg	27,1	35,2	28,3
+	WK060609	Wijk 09 Woudhoek/Spaland /Sveaparken	28,8	26,0	29,4
+GM0610	Totaal	Sliedrecht	23,3	37,9	18,7
+	WK061001	Wijk 01 Sliedrecht-West	24,3	21,8	25,3
+	WK061002	Wijk 02 Sliedrecht-Centrum	22,4	43,9	14,2
+	WK061003	Wijk 03 Sliedrecht-Oost	23,7	39,5	20,5
+	WK061004	Wijk 04 Sliedrecht-Noord	22,3	.	.
+GM0613	Totaal	Albrandswaard	31,0	25,8	34,1
+	WK061301	Wijk 01 Poortugaal-Noord	34,2	16,8	45,3
+	WK061302	Wijk 02 Rhoon-Noord	33,2	29,4	27,2
+	WK061303	Wijk 03 Poortugaal-Zuid	29,7	28,5	31,9
+	WK061304	Wijk 04 Rhoon-Zuid	31,3	29,9	27,2
+	WK061305	Wijk 05 Buitengebied Albrandswaard	42,4	.	.
+	WK061306	Wijk 06 Portland	29,7	21,5	40,8
+	WK061307	Wijk 07 Rotterdam-Albrandswaard	.	.	.
+GM0614	Totaal	Westvoorne	34,0	28,1	31,7
+	WK061400	Wijk 00 Rockanje	32,8	29,0	28,1
+	WK061401	Wijk 01 Oostvoorne	34,9	27,4	34,5
+GM0622	Totaal	Vlaardingen	24,2	45,5	15,2
+	WK062201	Centrum	23,1	47,4	11,3
+	WK062202	Westwijk	20,8	51,0	10,3
+	WK062203	Vettenoordse Polder	22,8	69,9	4,2
+	WK062204	Oostwijk	27,1	42,1	20,0
+	WK062205	Vlaardinger Ambacht	24,9	35,4	21,7
+	WK062206	Holy Zuid	23,6	55,6	11,0
+	WK062207	Holy Noord	27,2	37,8	21,1
+	WK062208	Broekpolder	.	.	.
+GM0626	Totaal	Voorschoten	32,3	29,2	31,8
+	WK062600	Wijk 00	32,3	29,2	31,8
+GM0627	Totaal	Waddinxveen	26,0	31,6	23,7
+	WK062701	Wijk 01	23,5	40,6	18,1
+	WK062702	Wijk 02	29,9	21,2	33,9
+	WK062703	Wijk 03	22,7	36,3	15,4
+	WK062704	Wijk 04	27,6	27,7	26,7
+GM0629	Totaal	Wassenaar	46,7	31,9	36,3
+	WK062900	Wijk 00 Zuidwestelijk deel der gemeente	78,0	20,6	56,8
+	WK062901	Wijk 01 Noordoostelijk deel der gemeente	36,0	35,5	29,7
+GM0632	Totaal	Woerden	28,4	29,3	29,0
+	WK063201	Wijk 01 Woerden-Midden	27,3	36,3	22,1
+	WK063202	Wijk 02 Woerden-West	27,2	32,4	26,6
+	WK063203	Wijk 03 Woerden-Oost	31,7	15,7	42,6
+	WK063204	Wijk 04 Buitengebied Woerden-West	34,5	27,9	34,4
+	WK063205	Wijk 05 Buitengebied Woerden-Oost	39,0	14,3	54,5
+	WK063206	Wijk 06 Harmelen	28,9	25,1	31,5
+	WK063207	Wijk 07 Kamerik	27,1	26,7	32,0
+	WK063208	Wijk 08 Zegveld	26,2	24,7	33,0
+GM0637	Totaal	Zoetermeer	26,4	35,2	21,4
+	WK063700	Centrum	24,4	48,8	10,2
+	WK063701	Meerzicht	22,7	46,3	12,5
+	WK063702	Buytenwegh de Leyens	26,4	35,3	20,1
+	WK063703	Seghwaert	25,5	33,2	18,7
+	WK063704	Noordhove	29,6	25,7	31,7
+	WK063705	Rokkeveen	29,8	23,8	32,1
+	WK063706	Oosterheem	26,9	25,3	31,7
+	WK063708	Industriegebied	29,2	30,9	27,7
+	WK063709	Buitengebied	40,5	23,0	42,6
+GM0638	Totaal	Zoeterwoude	28,0	25,1	30,2
+	WK063800	Zoeterwoude-Dorp	28,1	26,5	29,0
+	WK063801	Westeinde	28,4	.	.
+	WK063802	Zuidbuurt	30,0	22,4	33,5
+	WK063803	Weipoort	33,9	21,1	45,6
+	WK063804	Gelderswoude	.	.	.
+	WK063809	Verspreide huizen	.	.	.
+	WK063810	Zoeterwoude-Rijndijk	26,9	24,6	28,6
+GM0642	Totaal	Zwijndrecht	25,1	38,7	18,4
+	WK064201	Wijk 01 Walburg	25,8	44,6	17,2
+	WK064202	Wijk 02 Centrum	26,5	39,5	17,4
+	WK064203	Wijk 03 Noord	21,8	43,3	13,4
+	WK064204	Wijk 04 Heer Oudelands Ambacht	28,8	18,4	32,7
+	WK064205	Wijk 05 Kort Ambacht	21,4	44,3	10,8
+	WK064206	Wijk 06 Nederhoven	24,4	40,4	17,3
+	WK064207	Wijk 07 Verspreide bebouwing	34,4	.	.
+	WK064208	Wijk 08 Bebouwde kom Heerjansdam	28,3	32,8	24,4
+	WK064209	Wijk 09 Landelijk gebied Heerjansdam	36,4	21,1	38,8
+GM0654	Totaal	Borsele	24,5	31,1	22,1
+	WK065401	Baarland	25,0	31,3	23,3
+	WK065402	Borssele	20,0	31,1	19,4
+	WK065403	Driewegen	28,9	25,7	26,5
+	WK065404	Ellewoutsdijk	25,1	38,8	11,7
+	WK065405	Heinkenszand	26,4	31,8	23,5
+	WK065406	Hoedekenskerke	24,7	26,7	20,5
+	WK065407	Kwadendamme	26,3	34,3	22,0
+	WK065408	Lewedorp	24,8	28,8	21,3
+	WK065409	Nieuwdorp	24,0	29,1	19,4
+	WK065410	Nisse	30,1	23,9	32,8
+	WK065411	Oudelande	26,4	25,5	23,2
+	WK065412	Ovezande	25,5	34,4	21,7
+	WK065413	's-Gravenpolder	21,4	30,0	22,2
+	WK065414	's-Heer Abtskerke	26,1	24,1	29,2
+	WK065415	's-Heerenhoek	24,3	38,0	17,5
+GM0664	Totaal	Goes	25,7	39,0	18,6
+	WK066401	Wijk 01 Goes	25,2	43,3	16,2
+	WK066402	Wijk 02 Wilhelminadorp	26,3	24,3	29,7
+	WK066403	Wijk 03 Kloetinge	28,2	21,4	29,0
+	WK066404	Wijk 04 Kattendijke	29,1	18,9	29,5
+	WK066405	Wijk 05 's-Heer-Arendskerke	26,7	30,1	24,2
+	WK066406	Wijk 06 Eindewege	23,4	.	.
+	WK066407	Wijk 07 's-Heer-Hendrikskinderen	27,2	19,7	29,5
+	WK066408	Wijk 08 Wolphaartsdijk	24,4	35,0	20,2
+	WK066409	Wijk 09 Oud-Sabbinge	25,2	24,2	26,7
+GM0668	Totaal	West Maas en Waal	25,2	33,6	23,0
+	WK066801	Wijk 01 Alphen	25,3	30,4	23,8
+	WK066802	Wijk 02 Altforst	26,6	21,0	32,2
+	WK066803	Wijk 03 Appeltern	27,1	25,9	29,0
+	WK066804	Wijk 04 Beneden-Leeuwen	24,9	38,2	20,1
+	WK066805	Wijk 05 Boven-Leeuwen	24,0	30,8	21,7
+	WK066806	Wijk 06 Dreumel	25,9	32,9	24,4
+	WK066807	Wijk 07 Maasbommel	25,5	33,0	24,9
+	WK066808	Wijk 08 Wamel	25,0	31,7	24,7
+GM0677	Totaal	Hulst	25,9	36,6	20,0
+	WK067701	Hulst	27,0	39,1	19,5
+	WK067702	Sint Jansteen	25,6	34,3	20,3
+	WK067703	Clinge	24,0	36,8	18,2
+	WK067704	Graauw	25,3	35,1	19,3
+	WK067705	Heikant	27,1	28,6	25,9
+	WK067706	Nieuw Namen	26,2	35,2	19,4
+	WK067707	Kapellebrug	25,1	35,6	23,3
+	WK067708	Kloosterzande	24,6	37,9	18,8
+	WK067709	Lamswaarde	25,1	38,1	17,8
+	WK067710	Terhole	24,8	43,0	21,5
+	WK067711	Vogelwaarde	24,1	34,4	21,6
+	WK067712	Hengstdijk	27,7	29,5	21,3
+	WK067713	Ossenisse	27,4	30,8	24,8
+	WK067714	Kuitaart	26,5	31,7	21,2
+	WK067715	Walsoorden	25,3	20,9	23,6
+GM0678	Totaal	Kapelle	25,2	27,3	25,3
+	WK067800	Wijk 00 Kapelle	24,9	26,3	26,3
+	WK067801	Wijk 01 Wemeldinge	26,0	30,2	23,2
+	WK067802	Wijk 02 Schore	25,5	25,5	21,6
+GM0687	Totaal	Middelburg	24,8	41,0	17,2
+	WK068700	Binnenstad	29,8	49,8	15,1
+	WK068710	Griffioen	26,2	32,1	17,3
+	WK068711	Klarenbeek	26,6	38,9	22,0
+	WK068712	Nieuw Middelburg	21,8	57,0	8,1
+	WK068713	Brigdamme	27,7	21,1	32,8
+	WK068714	Sint Laurens	24,7	20,8	22,5
+	WK068715	Ramsburg	.	.	.
+	WK068716	Veersepoort	33,3	19,4	35,7
+	WK068717	Verspreide huizen in het noorden	.	.	.
+	WK068718	Verspreide huizen in het noordwesten	.	.	.
+	WK068719	Verspreide huizen in het noordoosten	.	.	.
+	WK068720	Stromenwijk/'t Zand	21,8	51,1	10,2
+	WK068729	Verspreide huizen in het zuidwesten	26,3	20,6	27,5
+	WK068730	Middelburg Zuid	23,5	34,3	16,7
+	WK068731	Dauwendaele	19,5	54,0	7,5
+	WK068732	Arnestein	.	.	.
+	WK068739	Mortiere	30,0	6,4	47,9
+	WK068740	Nieuw- en Sint Joosland	24,4	34,3	17,9
+	WK068749	Verspr.h. Nieuw- en Sint Joosland	22,3	.	.
+	WK068750	Arnemuiden	23,6	30,2	24,5
+	WK068751	Kleverskerke	.	.	.
+	WK068752	Oranjeplaat	.	.	.
+	WK068753	Veerse Meer	.	.	.
+	WK068759	Verspreide huizen Arnemuiden	24,2	.	.
+GM0703	Totaal	Reimerswaal	22,0	33,8	19,8
+	WK070300	Wijk 00 Yerseke	23,1	32,3	21,7
+	WK070301	Wijk 01 Kruiningen	21,5	33,9	19,7
+	WK070302	Wijk 02 Krabbendijke	20,2	31,8	19,4
+	WK070303	Wijk 03 Waarde	20,6	23,6	27,8
+	WK070304	Wijk 04 Rilland-Bath	22,9	39,7	16,4
+	WK070305	Wijk 05 Hansweert	23,7	42,6	13,1
+	WK070306	Wijk 06 Oostdijk	20,7	14,4	29,3
+GM0715	Totaal	Terneuzen	24,8	39,4	17,2
+	WK071501	Terneuzen Centrum	23,8	64,6	7,7
+	WK071504	Terneuzen West	25,2	.	.
+	WK071507	Terneuzen Zuid	25,4	34,4	18,9
+	WK071510	Terneuzen Noord	22,8	43,5	11,1
+	WK071513	Terneuzen Oost	33,7	9,6	46,4
+	WK071516	Buitengebied Terneuzen	.	.	.
+	WK071519	Kern Axel	23,4	45,4	14,4
+	WK071522	Buitengebied Axel	26,3	25,8	31,5
+	WK071525	Kern Biervliet	25,5	36,6	20,2
+	WK071528	Buitengebied Biervliet	28,3	28,4	39,6
+	WK071531	Kern Hoek	25,5	35,4	16,4
+	WK071534	Buitengebied Hoek	25,9	26,6	31,8
+	WK071537	Kern Koewacht	24,8	36,1	19,5
+	WK071540	Buitengebied Koewacht	27,8	21,8	27,3
+	WK071543	Kern Overslag	24,9	.	.
+	WK071546	Buitengebied Overslag	.	.	.
+	WK071549	Kern Philippine	28,5	27,6	24,6
+	WK071552	Buitengebied Philippine	28,9	.	.
+	WK071555	Kern Sas van Gent	21,7	48,1	9,3
+	WK071558	Buitengebied Sas van Gent	26,2	33,5	20,2
+	WK071561	Kern Sluiskil	21,6	44,9	11,5
+	WK071564	Buitengebied Sluiskil	.	.	.
+	WK071567	Kern Spui	32,7	.	.
+	WK071570	Buitengebied Spui	.	.	.
+	WK071573	Kern Westdorpe	24,1	38,2	18,0
+	WK071576	Buitengebied Westdorpe	.	.	.
+	WK071579	Kern Zaamslag	23,5	35,2	18,8
+	WK071582	Buitengebied Zaamslag	26,8	21,8	29,5
+	WK071585	Kern Zuiddorpe	25,4	35,3	20,1
+	WK071588	Buitengebied Zuiddorpe	32,4	.	.
+GM0716	Totaal	Tholen	22,7	34,5	19,8
+	WK071600	Tholen	23,9	33,6	22,5
+	WK071601	Poortvliet	23,4	33,3	19,0
+	WK071602	Scherpenisse	20,5	33,8	18,7
+	WK071603	Sint-Maartensdijk	21,7	40,3	13,9
+	WK071604	Stavenisse	20,4	36,3	18,5
+	WK071605	Sint-Annaland	22,4	35,0	19,4
+	WK071606	Oud-Vossemeer	23,0	33,0	21,6
+	WK071607	Sint Philipsland	22,9	29,7	20,5
+GM0717	Totaal	Veere	25,7	28,6	24,6
+	WK071700	Wijk 00 Veere	28,9	27,0	31,2
+	WK071701	Wijk 01 Gapinge	27,8	24,6	28,5
+	WK071702	Wijk 02 Vrouwenpolder	24,1	34,4	21,9
+	WK071703	Wijk 03 Serooskerke	25,2	26,0	22,1
+	WK071704	Wijk 04 Domburg	28,9	33,2	22,5
+	WK071705	Wijk 05 Oostkapelle	26,0	27,9	25,5
+	WK071706	Wijk 06 Aagtekerke	20,8	24,0	29,2
+	WK071707	Wijk 07 Grijpskerke	26,1	27,0	26,2
+	WK071708	Wijk 08 Meliskerke	19,0	26,2	22,5
+	WK071709	Wijk 09 Koudekerke	26,6	28,1	23,0
+	WK071710	Wijk 10 Biggekerke	26,4	28,8	26,0
+	WK071711	Wijk 11 Zoutelande	29,3	27,8	26,4
+	WK071712	Wijk 12 Westkapelle	25,0	32,0	21,9
+GM0718	Totaal	Vlissingen	23,4	46,0	12,7
+	WK071801	Binnenstad	23,4	62,5	6,9
+	WK071802	Middengebied	21,5	56,2	8,3
+	WK071803	Paauwenburg - Westduin	27,0	36,9	18,1
+	WK071804	Lammerenburg	24,9	29,0	21,6
+	WK071805	Oost-Souburg	22,0	37,4	12,4
+	WK071806	Ritthem e.o.	25,3	28,1	24,1
+	WK071807	Binnen- en Buitenhavens	.	.	.
+	WK071808	Sloegebied	.	.	.
+GM0736	Totaal	De Ronde Venen	31,5	28,4	32,0
+	WK073601	Mijdrecht	28,2	31,7	26,2
+	WK073602	de Hoef	33,6	18,9	39,6
+	WK073603	Amstelhoek	30,3	25,6	30,3
+	WK073604	Vinkeveen	32,4	29,5	31,4
+	WK073605	Waverveen	30,8	21,6	41,3
+	WK073606	Wilnis	29,9	26,4	31,8
+	WK073607	Abcoude	38,0	23,7	43,1
+	WK073608	Baambrugge	35,2	26,7	37,3
+GM0737	Totaal	Tytsjerksteradiel	22,6	33,6	18,1
+	WK073700	Wijk 00 Burgum	21,8	38,6	16,0
+	WK073701	Wijk 01 Aldtsjerk	24,3	36,5	17,8
+	WK073702	Wijk 02 Mûnein	24,0	30,2	19,0
+	WK073703	Wijk 03 Ryptsjerk	23,9	28,7	25,9
+	WK073704	Wijk 04 Tytsjerk	23,8	22,6	23,5
+	WK073705	Wijk 05 Earnewâld	22,2	32,2	19,8
+	WK073706	Wijk 06 Sumar	20,3	32,9	16,0
+	WK073707	Wijk 07 Eastermar	21,8	32,5	20,4
+	WK073708	Wijk 08 Noordburgum	21,6	30,5	18,3
+	WK073709	Wijk 09 Hurdegaryp	23,5	32,1	16,9
+GM0743	Totaal	Asten	24,8	34,5	23,0
+	WK074301	Asten industrie noord	29,0	.	.
+	WK074302	Asten buitengebied oost	28,0	25,4	41,8
+	WK074303	Asten noord	21,5	36,5	16,2
+	WK074304	Asten oost	23,4	38,3	18,5
+	WK074305	Asten zuid	25,6	27,7	23,9
+	WK074306	Asten centrum / west	27,5	38,2	20,1
+	WK074307	Asten buitengebied west	27,8	25,3	43,3
+	WK074308	Heusden wonen	24,4	32,9	29,8
+	WK074309	Heusden recreatie	.	.	.
+	WK074310	Ommel wonen	24,6	32,1	32,4
+	WK074311	Ommel recreatie	22,0	.	.
+GM0744	Totaal	Baarle-Nassau	25,0	34,6	23,6
+	WK074400	Wijk 00 Baarle - Nassau	24,6	35,9	22,0
+	WK074401	Wijk 01 Ulicoten	27,2	28,0	31,7
+	WK074402	Wijk 02	24,7	.	.
+GM0748	Totaal	Bergen op Zoom	25,0	38,6	18,8
+	WK074800	Wijk 00 Bergen op Zoom-Oude stad e.o.	25,7	48,2	13,2
+	WK074801	Wijk 01 Bergen op Zoom-Noord	26,2	32,5	20,4
+	WK074802	Wijk 02 Bergen op Zoom-Oost	20,3	48,1	12,2
+	WK074803	Wijk 03 Bergen op Zoom-West	29,4	21,9	33,1
+	WK074804	Wijk 04 Halsteren	27,0	28,7	25,2
+	WK074805	Wijk 05 Lepelstraat	25,8	31,6	21,8
+GM0753	Totaal	Best	27,8	28,1	27,9
+	WK075300	Wijk 00 Best	27,8	28,1	27,9
+GM0755	Totaal	Boekel	23,6	27,6	26,7
+	WK075500	Wijk 00 Boekel	23,8	28,6	25,5
+	WK075501	Wijk 01 Venhorst	22,8	22,3	33,6
+GM0756	Totaal	Boxmeer	25,2	31,9	23,4
+	WK075600	Wijk 00 Boxmeer	24,8	39,4	18,4
+	WK075601	Wijk 01 Sambeek	25,7	22,8	28,6
+	WK075602	Wijk 02 Beugen	25,6	23,0	31,2
+	WK075603	Wijk 03 Oeffelt	25,0	24,0	27,2
+	WK075604	Wijk 04 Rijkevoort	25,8	25,0	27,5
+	WK075605	Wijk 05 Vortum-Mullem	24,9	19,0	35,1
+	WK075606	Wijk 06 Vierlingsbeek	25,4	26,4	26,9
+	WK075607	Wijk 07 Overloon	25,6	29,4	26,9
+	WK075608	Wijk 08 Maashees	25,7	25,1	20,8
+	WK075609	Wijk 09 Holthees	25,5	19,5	30,8
+GM0757	Totaal	Boxtel	25,3	36,2	21,0
+	WK075700	Wijk 00 Boxtel	24,9	38,9	18,4
+	WK075701	Wijk 01 Lennisheuvel	28,8	17,6	42,0
+	WK075702	Wijk 02 Liempde	26,5	25,0	31,4
+GM0758	Totaal	Breda	27,3	42,0	20,8
+	WK075800	Breda centrum	28,1	61,9	9,8
+	WK075801	Breda noord	20,4	53,0	10,5
+	WK075802	Breda oost	28,1	44,6	20,5
+	WK075803	Breda zuid-oost	32,0	33,4	27,4
+	WK075804	Breda zuid	35,9	33,4	32,3
+	WK075805	Breda west	24,3	48,8	15,8
+	WK075806	Breda noord-west	25,7	31,8	23,2
+	WK075807	Bavel	31,8	22,9	38,7
+	WK075808	Ulvenhout	33,2	25,1	36,9
+	WK075809	Prinsenbeek	30,5	22,5	32,7
+	WK075810	Teteringen	31,2	22,7	34,5
+GM0762	Totaal	Deurne	24,3	33,6	22,0
+	WK076200	Wijk 00 Deurne	24,3	34,2	21,1
+	WK076201	Wijk 01 Vlierden	26,3	21,6	34,1
+	WK076202	Wijk 02 Liessel	23,6	31,3	22,5
+	WK076203	Wijk 03 Neerkant	23,3	32,6	25,4
+	WK076204	Wijk 04 Helenaveen	26,4	42,1	22,6
+GM0765	Totaal	Pekela	19,7	45,8	10,2
+	WK076500	Wijk 00	19,2	48,1	8,9
+	WK076501	Wijk 01	20,7	42,0	12,4
+GM0766	Totaal	Dongen	25,5	32,1	22,2
+	WK076601	Dongen	25,3	32,8	21,7
+	WK076602	's Gravenmoer	27,9	25,8	27,6
+GM0770	Totaal	Eersel	28,1	27,7	28,5
+	WK077000	Eersel	27,4	31,2	25,4
+	WK077001	Duizel	29,9	20,9	29,6
+	WK077002	Steensel	29,2	23,3	30,5
+	WK077003	Vessem	28,9	25,9	33,2
+	WK077004	Wintelre	26,8	22,7	33,5
+	WK077005	Knegsel	30,5	22,8	35,6
+GM0772	Totaal	Eindhoven	26,7	48,4	16,0
+	WK077211	Centrum	.	58,8	13,1
+	WK077221	Oud-Stratum	31,1	52,1	16,9
+	WK077222	Kortonjo	30,3	39,2	26,4
+	WK077223	Putten	25,8	48,7	17,2
+	WK077231	De Laak	30,7	50,6	20,0
+	WK077232	Doornakkers	20,8	56,8	9,3
+	WK077233	Oud-Tongelre	29,9	45,3	16,5
+	WK077241	Oud-Woensel	23,0	65,3	7,8
+	WK077242	Erp	21,4	61,4	7,9
+	WK077243	Begijnenbroek	24,5	50,3	11,1
+	WK077251	Ontginning	22,3	53,5	10,9
+	WK077252	Achtse Molen	29,0	25,6	26,4
+	WK077253	Aanschot	26,6	31,4	26,4
+	WK077254	Dommelbeemd	23,5	43,7	14,7
+	WK077261	Oud-Strijp	27,8	52,2	15,5
+	WK077262	Halve Maan	23,2	53,5	12,1
+	WK077263	Meerhoven	29,8	19,9	34,4
+	WK077271	Rozenknopje	28,6	52,8	16,5
+	WK077272	Oud-Gestel	20,9	59,9	7,2
+	WK077273	Gestelse Ontginning	26,6	34,4	21,6
+GM0777	Totaal	Etten-Leur	25,6	32,9	21,6
+	WK077700	Midden woongebied	24,4	39,7	16,3
+	WK077701	Midden Bedrijventerrein	.	.	.
+	WK077702	Midden landelijk gebied	43,5	.	.
+	WK077710	Noord woongebied	25,9	28,9	24,4
+	WK077711	Noord bedrijventerrein	.	.	.
+	WK077712	Noord landelijk gebied	29,7	16,8	42,9
+	WK077720	Zuid woongebied	25,1	35,3	18,9
+	WK077721	Zuid bedrijventerrein West	28,5	.	.
+	WK077722	Zuid bedrijventerrein Oost	.	.	.
+	WK077723	Zuid landelijk gebied	30,5	18,8	39,6
+GM0779	Totaal	Geertruidenberg	25,6	33,3	21,3
+	WK077900	Wijk 00 Raamsdonksveer	25,7	33,2	22,4
+	WK077901	Wijk 01 Raamsdonk	26,7	26,3	28,6
+	WK077902	Wijk 02 Geertruidenberg	24,9	35,3	17,5
+GM0784	Totaal	Gilze en Rijen	25,0	33,4	22,8
+	WK078400	Wijk 00 Rijen	24,7	33,0	21,7
+	WK078401	Wijk 01 Gilze	25,3	35,1	23,5
+	WK078402	Wijk 02 Molenschot	27,0	30,8	29,8
+	WK078403	Wijk 03 Hulten	28,9	18,3	40,0
+GM0785	Totaal	Goirle	26,6	29,9	25,2
+	WK078501	Wijk 01 Goirle-Centrum	26,0	44,1	17,3
+	WK078502	Wijk 02 Grobbendonck	27,0	18,5	27,3
+	WK078503	Wijk 03 De Groote Akkers	27,7	25,0	27,7
+	WK078504	Wijk 04 De Hoge Wal	26,8	15,9	34,5
+	WK078505	Wijk 05 Abcoven	26,1	42,3	16,7
+	WK078506	Wijk 06 Wildackers	22,2	41,6	16,2
+	WK078507	Wijk 07 't Ven	28,4	23,6	33,2
+	WK078508	Wijk 08 De Boschkens	33,5	23,6	34,7
+	WK078509	Wijk 09 De Hellen	27,1	21,2	25,5
+	WK078510	Wijk 10 De Nieuwe Erven	29,4	19,9	39,1
+	WK078511	Wijk 11 Hoogeind	21,0	54,3	12,3
+	WK078512	Wijk 12 Sportpark Van den Wildenberg	.	.	.
+	WK078513	Wijk 13 Bedrijventerrein Tijvoort	26,2	.	.
+	WK078514	Wijk 14 Verspreide huizen Goirle	25,9	20,8	50,9
+	WK078520	Wijk 20 Riel	28,2	22,4	31,1
+	WK078521	Wijk 21 Bedrijventerrein Riel	.	.	.
+	WK078522	Wijk 22 Sportpark De Krim	.	.	.
+	WK078523	Wijk 23 Verspriede huizen Riel	25,3	.	.
+GM0786	Totaal	Grave	25,0	32,2	20,4
+	WK078605	Escharen	28,7	21,7	31,9
+	WK078607	Velp	25,7	29,7	29,3
+	WK078608	Gassel	23,9	25,8	26,6
+	WK078613	Grave	24,5	34,5	17,3
+GM0788	Totaal	Haaren	28,5	26,8	31,3
+	WK078801	Wijk 01 Haaren	28,0	28,5	29,3
+	WK078802	Wijk 02 Helvoirt	29,6	27,4	31,7
+	WK078803	Wijk 03 Esch	27,4	25,0	32,8
+	WK078804	Wijk 04 Biezenmortel	29,0	18,4	38,2
+GM0794	Totaal	Helmond	23,5	41,7	17,5
+	WK079410	Wijk 10 Binnenstad	20,2	61,1	6,5
+	WK079411	Wijk 11 Helmond-Oost	18,4	60,3	5,4
+	WK079412	Wijk 12 Helmond-Noord	18,6	49,2	7,7
+	WK079413	Wijk 13 't Hout	23,5	34,2	19,5
+	WK079414	Wijk 14 Brouwhuis	22,3	37,6	16,6
+	WK079415	Wijk 15 Helmond-West	19,0	56,7	7,8
+	WK079416	Wijk 16 Warande	37,2	16,6	40,1
+	WK079417	Wijk 17 Stiphout	32,1	22,6	35,3
+	WK079418	Wijk 18 Rijpelberg	22,1	35,2	13,1
+	WK079419	Wijk 19 Dierdonk	30,8	7,8	49,6
+	WK079421	Wijk 21 Brandevoort	30,5	15,4	44,2
+	WK079429	Wijk 29 Industriegebied Zuid	21,5	39,7	19,9
+GM0796	Totaal	's-Hertogenbosch	27,4	39,6	21,8
+	WK079601	Binnenstad	34,7	53,4	16,2
+	WK079602	Zuidoost	26,9	46,8	14,8
+	WK079603	Graafsepoort	23,9	48,9	14,1
+	WK079604	Muntel / Vliert	28,4	49,3	19,9
+	WK079605	Rosmalen-Zuid	33,0	21,2	35,3
+	WK079606	Rosmalen-Noord	27,5	27,4	28,0
+	WK079607	De Groote Wielen	29,8	18,5	43,8
+	WK079608	Empel	29,6	17,4	41,9
+	WK079609	Noord	22,1	47,7	14,3
+	WK079610	Maaspoort	28,1	26,3	27,1
+	WK079611	West	23,9	48,9	13,1
+	WK079612	Engelen	34,6	13,3	45,6
+	WK079613	Nuland	26,6	24,9	32,1
+	WK079614	Vinkel	25,7	31,1	29,9
+GM0797	Totaal	Heusden	26,0	31,6	24,3
+	WK079701	Wijk 01 Drunen	25,8	30,9	23,2
+	WK079702	Wijk 02 Elshout	26,1	24,5	35,4
+	WK079703	Wijk 03 Haarsteeg	26,1	24,9	35,4
+	WK079704	Wijk 04 Nieuwkuijk	26,9	29,7	28,3
+	WK079705	Wijk 05 Vlijmen	26,3	32,7	23,1
+	WK079706	Wijk 06 Doeveren	.	.	.
+	WK079707	Wijk 07 Hedikthuizen	32,2	18,6	46,1
+	WK079708	Wijk 08 Heesbeen	29,4	.	.
+	WK079709	Wijk 09 Herpt	31,7	22,8	39,8
+	WK079710	Wijk 10 Heusden	30,1	45,4	20,1
+	WK079711	Wijk 11 Oudheusden	20,6	36,5	15,4
+GM0798	Totaal	Hilvarenbeek	27,4	27,2	29,6
+	WK079800	Wijk 00 Hilvarenbeek	27,8	29,3	28,3
+	WK079801	Wijk 01 Esbeek	27,2	20,9	33,2
+	WK079802	Wijk 02 Biest-Houtakker	27,3	24,9	35,0
+	WK079803	Wijk 03 Diessen	26,2	26,4	28,9
+	WK079804	Wijk 04 Haghorst	28,8	18,3	36,9
+GM0809	Totaal	Loon op Zand	25,6	33,0	22,5
+	WK080910	Wijk 10 Kaatsheuvel-West	23,8	35,8	20,5
+	WK080920	Wijk 20 Kaatsheuvel-Oost	26,4	33,6	22,6
+	WK080930	Wijk 30 Loon op Zand	27,6	29,2	24,7
+	WK080940	Wijk 40 De Moer	28,1	19,2	37,0
+GM0815	Totaal	Mill en Sint Hubert	24,0	31,2	23,9
+	WK081509	Mill	23,5	34,6	21,2
+	WK081510	Sint Hubert	25,0	31,0	26,2
+	WK081512	Wilbertoord	24,4	21,7	32,0
+	WK081515	Langenboom	24,7	25,5	26,7
+GM0820	Totaal	Nuenen, Gerwen en Nederwetten	30,6	24,8	30,0
+	WK082000	Wijk 00 Nuenen	30,9	25,1	29,6
+	WK082001	Wijk 01 Gerwen	28,1	23,0	32,3
+	WK082002	Wijk 02 Nederwetten	28,8	22,5	35,4
+GM0823	Totaal	Oirschot	27,2	27,0	29,2
+	WK082300	Wijk 00 Oirschot	27,5	29,0	27,2
+	WK082301	Wijk 01 Spoordonk	27,9	26,3	32,1
+	WK082302	Wijk 02 Middelbeers en Westelbeers	26,5	23,2	32,7
+	WK082303	Wijk 03 Oostelbeers	25,8	22,6	31,1
+GM0824	Totaal	Oisterwijk	29,1	30,6	27,7
+	WK082401	Verspr.h. westen en noorden Moerg.	35,4	.	.
+	WK082402	Pannenschuur	25,7	32,1	24,8
+	WK082403	Heukelom	26,2	18,5	34,3
+	WK082404	Buitengebied (Zuid)	48,6	35,3	35,9
+	WK082405	Omgeving Vinkenberg / Heuvelstraat	27,6	.	.
+	WK082406	Omgeving George Perklaan	38,8	.	.
+	WK082407	Centrum Moergestel	28,0	26,5	29,3
+	WK082408	't Westend / 't Seuverick	22,7	37,1	18,0
+	WK082409	Bunders / Levenskerk	35,6	16,2	43,7
+	WK082410	Buitengebied Kerkhoven	.	.	.
+	WK082411	Waterhoef / Klompven	29,2	36,7	22,0
+	WK082412	Omgeving Industrieterrein	28,3	.	.
+	WK082413	Centrum Oisterwijk	28,7	44,5	16,4
+	WK082414	Verspr.h. oosten en zuiden Moerg.	.	18,3	44,3
+	WK082415	Omgeving Broekzijde	37,1	.	.
+GM0826	Totaal	Oosterhout	26,0	36,0	20,7
+	WK082600	Wijk 00 Oosterhout-Centrum	25,7	51,3	11,3
+	WK082601	Wijk 01 Slotjes	24,2	45,2	14,1
+	WK082602	Wijk 02 West	28,0	27,9	26,4
+	WK082603	Wijk 03 Strijen	23,2	34,3	17,5
+	WK082604	Wijk 04 Leijsenakkers	29,9	23,1	27,8
+	WK082605	Wijk 05 Oosterheide	22,4	47,4	13,6
+	WK082606	Wijk 06 Dommelbergen	25,6	29,1	22,4
+	WK082607	Wijk 07 Vrachelen	31,1	21,3	34,8
+	WK082608	Wijk 08 Industrieterrein Zuid	22,9	.	.
+	WK082609	Wijk 09 Industrieterrein Noord	.	.	.
+	WK082610	Wijk 10 Buitengebied Oosterhout	32,1	.	.
+	WK082611	Wijk 11 Den Hout	30,2	19,1	40,2
+	WK082612	Wijk 12 Oosteind	31,7	21,3	40,2
+	WK082613	Wijk 13 Dorst	28,8	26,0	29,8
+GM0828	Totaal	Oss	24,7	36,3	20,5
+	WK082800	Centrum	23,5	59,7	8,1
+	WK082801	Schadewijk	22,0	47,3	12,1
+	WK082802	Industrieterreinen-Zuid	25,1	21,6	42,5
+	WK082803	Oss-Zuid	27,3	39,5	18,6
+	WK082804	Krinkelhoek	24,5	29,7	24,2
+	WK082805	Industrieterreinen-Noord	30,3	.	.
+	WK082806	Ruwaard	22,0	43,3	13,1
+	WK082807	Ussen	25,8	30,0	21,8
+	WK082808	Buitengebied-Noord	27,2	17,0	52,8
+	WK082809	Buitengebied-Zuid	37,3	36,6	32,4
+	WK082810	Berghem	25,4	24,6	28,6
+	WK082811	Haren	25,3	25,8	36,0
+	WK082812	Macharen	26,5	25,7	28,8
+	WK082813	Megen	25,5	34,5	24,0
+	WK082814	Ravenstein	26,4	33,9	24,2
+	WK082815	Herpen	24,2	31,9	24,3
+	WK082816	Overlangel	28,2	22,8	34,0
+	WK082817	Deursen en Dennenburg	27,3	21,7	35,7
+	WK082818	Lith	24,4	28,2	24,8
+	WK082819	Lithoijen	27,6	16,8	42,5
+	WK082820	Oijen	27,0	28,9	29,8
+	WK082821	Maren-Kessel	26,7	26,1	31,9
+	WK082822	Geffen	25,5	27,7	28,8
+GM0840	Totaal	Rucphen	24,0	34,8	20,4
+	WK084000	Wijk 00 Rucphen	26,0	30,9	24,5
+	WK084001	Wijk 01 Sint Willebrord	22,3	38,4	15,3
+	WK084002	Wijk 02 Sprundel	24,8	33,3	23,3
+	WK084003	Wijk 03 Schijf	24,3	31,2	28,7
+	WK084004	Wijk 04 Zegge	25,0	33,8	21,4
+GM0845	Totaal	Sint-Michielsgestel	27,7	27,3	29,9
+	WK084500	Wijk 00 Sint-Michielsgestel	28,6	29,5	28,3
+	WK084501	Wijk 01 Gemonde	26,9	22,4	36,4
+	WK084502	Wijk 02 Den Dungen	27,6	27,6	31,1
+	WK084503	Wijk 03 Berlicum	27,2	27,3	29,0
+	WK084504	Wijk 04 Middelrode	26,4	20,5	32,0
+GM0847	Totaal	Someren	24,6	33,1	23,6
+	WK084700	Wijk 00 Someren	24,4	35,5	21,2
+	WK084701	Wijk 01 Lierop	27,4	25,9	31,8
+	WK084702	Wijk 02 Someren-Eind	23,6	31,5	24,1
+	WK084703	Wijk 03 Somerense Heide	25,2	25,3	32,4
+	WK084709	Wijk 09	.	.	.
+GM0848	Totaal	Son en Breugel	29,7	24,7	29,7
+	WK084800	Wijk 00 Son	31,7	24,2	32,9
+	WK084801	Wijk 01 Breugel	24,7	26,0	21,5
+GM0851	Totaal	Steenbergen	25,4	34,3	20,9
+	WK085100	Wijk 00 Steenbergen	25,2	35,4	20,2
+	WK085101	Wijk 01 Kruisland	28,3	26,9	26,1
+	WK085102	Wijk 02 De Heen	24,5	28,6	24,4
+	WK085103	Wijk 03 Dinteloord	24,6	36,3	19,5
+	WK085104	Wijk 04 Nieuw-Vossemeer	25,2	31,6	22,7
+GM0852	Totaal	Waterland	30,1	27,7	30,5
+	WK085200	Wijk 00 Monnickendam	28,7	29,3	27,9
+	WK085201	Wijk 01 Katwoude	34,8	18,2	50,9
+	WK085202	Wijk 02 Marken	27,6	26,5	27,1
+	WK085203	Wijk 03 Broek in Waterland	35,0	24,3	37,9
+	WK085204	Wijk 04 Ilpendam	29,9	28,7	32,3
+	WK085205	Wijk 05 Watergang	33,4	22,5	34,2
+GM0855	Totaal	Tilburg	23,6	48,9	15,1
+	WK085510	Binnenstad	25,6	68,8	6,4
+	WK085511	Hoogvenne	27,8	50,6	17,7
+	WK085512	Armhoef	29,2	26,5	31,8
+	WK085513	Jeruzalem	18,4	64,5	6,4
+	WK085514	Fatima	23,1	46,5	12,6
+	WK085515	Broekhoven	20,4	65,9	6,6
+	WK085516	Oerle	19,5	63,8	6,1
+	WK085517	Korvel	21,3	58,5	7,5
+	WK085518	Trouwlaan - Uitvindersbuurt	20,4	68,9	5,1
+	WK085519	Sint Anna	22,4	64,3	8,3
+	WK085520	Noordhoek	26,8	55,7	12,2
+	WK085521	Spoorzone Zuid	19,0	82,7	2,6
+	WK085522	Bouwmeester	22,3	55,1	10,4
+	WK085523	De Hasselt	19,9	57,6	8,0
+	WK085524	Het Goirke	21,7	59,0	8,2
+	WK085525	Groeseind-Hoefstraat	22,5	52,0	9,1
+	WK085526	Loven-Besterd	21,8	60,6	8,6
+	WK085527	Theresia	21,8	61,8	10,2
+	WK085528	Spoorzone Noord	28,1	58,2	6,7
+	WK085529	Kanaalzone	21,2	56,1	11,2
+	WK085530	Moerenburg	.	.	.
+	WK085531	De Leij	31,6	36,8	12,4
+	WK085532	Groenewoud	18,2	56,4	7,7
+	WK085533	Stappegoor	23,6	70,1	16,4
+	WK085534	Bedrijventerrein Het Laar	50,5	.	.
+	WK085535	De Blaak	35,6	11,0	43,5
+	WK085536	Zorgvlied	30,5	39,6	29,8
+	WK085537	De Reit	23,9	61,2	10,0
+	WK085538	Het Zand	19,4	64,3	6,3
+	WK085539	Wandelbos Noord	15,9	67,2	5,0
+	WK085540	Wandelbos Zuid	29,9	37,7	20,9
+	WK085541	De Oude Warande	.	.	.
+	WK085542	Stokhasselt	16,3	57,0	7,9
+	WK085543	Heikant	18,4	57,9	7,7
+	WK085544	Quirijnstok	23,6	36,7	16,2
+	WK085545	Ind.terrein Loven	24,8	26,7	18,6
+	WK085546	Bosscheweg	53,0	.	.
+	WK085547	Gesworen Hoek	20,5	41,4	10,4
+	WK085548	Huibeven	24,9	20,1	26,5
+	WK085549	Campenhoef	27,3	23,7	27,7
+	WK085550	Heyhoef	19,9	83,9	0,4
+	WK085551	Heerevelden	26,1	16,6	28,3
+	WK085552	Dongewijk	25,4	25,5	27,2
+	WK085553	Tuindorp De Kievit	26,7	20,2	31,6
+	WK085554	Leeuwerik	27,2	14,7	35,2
+	WK085555	Dalem Noord	24,4	18,6	26,6
+	WK085556	Dalem Zuid	24,7	23,3	28,3
+	WK085557	Koolhoven	27,0	14,5	41,0
+	WK085558	Witbrant	27,3	26,6	29,6
+	WK085559	Bedrijventerrein Kraaiven	.	.	.
+	WK085560	Bedrijventerrein Vossenberg	.	.	.
+	WK085561	De Katsbogten	.	.	.
+	WK085562	Buitengebied Tilburg Zuid-Oost	.	.	.
+	WK085563	Buitengebied Tilburg Zuid-West	30,6	33,9	36,6
+	WK085564	Buitengebied Tilburg Noord-Oost	25,0	.	.
+	WK085565	Buitengebied Tilburg Noord-West	.	.	.
+	WK085566	Berkel-Enschot	29,8	20,4	34,5
+	WK085567	Udenhout	27,7	25,0	28,8
+GM0856	Totaal	Uden	25,2	34,8	21,5
+	WK085601	Wijk 01 Uden	25,3	35,7	20,6
+	WK085602	Wijk 02 Volkel	24,3	29,2	26,5
+	WK085603	Wijk 03 Odiliapeel	24,1	27,0	29,1
+GM0858	Totaal	Valkenswaard	26,1	37,1	19,3
+	WK085800	Wijk 00 Valkenswaard	26,2	41,0	17,8
+	WK085801	Wijk 01 Kloosterakkers en Dommelen	25,8	28,3	21,9
+	WK085802	Wijk 02 Borkel en Schaft	27,5	27,0	29,0
+GM0861	Totaal	Veldhoven	28,3	30,8	24,8
+	WK086100	Wijk 00 Veldhoven	26,8	35,5	20,3
+	WK086101	Wijk 01 Noordelijk Woongebied	29,5	22,4	31,4
+	WK086102	Wijk 02 Oerle	36,1	20,4	40,1
+GM0865	Totaal	Vught	31,5	32,9	29,6
+	WK086500	Wijk 00 Vught	36,3	30,2	36,2
+	WK086501	Wijk 01 Vught-Zuid	26,0	36,1	22,3
+	WK086502	Wijk 02 Cromvoirt	38,0	28,8	34,3
+GM0866	Totaal	Waalre	32,9	26,0	32,5
+	WK086600	Wijk 00 Waalre	32,9	26,0	32,5
+GM0867	Totaal	Waalwijk	25,1	37,8	19,0
+	WK086700	Wijk 00 Waalwijk	24,7	40,9	16,8
+	WK086701	Wijk 01 Sprang-Capelle	25,7	32,1	22,4
+	WK086702	Wijk 02 Waspik	25,7	32,5	24,6
+GM0873	Totaal	Woensdrecht	25,6	32,7	20,9
+	WK087300	Wijk 00 Hoogerheide en Woensdrecht	25,1	33,2	20,7
+	WK087301	Wijk 01 Huijbergen	30,4	26,1	30,3
+	WK087302	Wijk 02 Ossendrecht	25,9	30,6	21,8
+	WK087303	Wijk 03 Putte	23,8	37,6	15,4
+GM0879	Totaal	Zundert	25,6	34,8	23,9
+	WK087900	Wijk 00 Zundert	24,8	37,8	18,1
+	WK087901	Wijk 01 Klein - Zundert	28,6	22,1	38,6
+	WK087902	Wijk 02 Wernhout	23,3	38,5	20,5
+	WK087903	Wijk 03 Achtmaal	25,1	27,9	27,3
+	WK087904	Wijk 04 Rijsbergen	26,6	35,0	27,3
+GM0880	Totaal	Wormerland	27,2	32,5	23,9
+	WK088000	Wijk 00 Wormer	26,3	34,5	21,8
+	WK088001	Wijk 01 Wijdewormer	32,1	19,7	35,9
+	WK088002	Wijk 02 Jisp	30,5	25,7	33,7
+GM0882	Totaal	Landgraaf	23,6	41,6	14,2
+	WK088200	Wijk 00 Schaesberg	23,9	41,1	13,9
+	WK088201	Wijk 01 Nieuwenhagen	24,0	44,7	13,5
+	WK088202	Wijk 02 Ubach over Worms	23,0	39,8	14,9
+GM0888	Totaal	Beek	26,4	34,6	21,1
+	WK088800	Wijk 00 Beek - Spaubeek	26,4	36,2	20,2
+	WK088801	Wijk 01 Beek-Zuid	27,0	20,4	29,8
+GM0889	Totaal	Beesel	23,4	36,0	17,4
+	WK088900	Wijk 00 Reuver	22,4	37,7	15,4
+	WK088901	Wijk 01 Beesel	28,0	28,4	26,8
+GM0893	Totaal	Bergen (L.)	23,7	33,5	19,3
+	WK089301	Aijen	27,0	.	.
+	WK089302	Oud-Bergen	25,4	21,6	26,4
+	WK089303	Nieuw-Bergen	23,1	37,5	15,6
+	WK089304	Afferden	23,6	32,5	20,8
+	WK089305	Siebengewald	22,3	33,6	17,8
+	WK089306	Well	23,9	32,6	21,5
+	WK089307	Wellerlooi	26,7	27,3	26,0
+GM0899	Totaal	Brunssum	22,5	44,9	11,6
+	WK089901	Wijk 01 Brunssum-West	23,6	37,2	15,6
+	WK089902	Wijk 02 Brunssum-Noord	21,2	53,3	8,3
+	WK089903	Wijk 03 Brunssum-Oost	19,1	48,6	7,2
+	WK089904	Wijk 04 Brunssum-Zuid	23,1	30,3	15,0
+	WK089905	Wijk 05 Brunssum-Centrum	24,4	46,8	12,2
+GM0907	Totaal	Gennep	23,8	34,3	19,1
+	WK090700	Wijk 00 Milsbeek	26,2	26,6	24,7
+	WK090701	Wijk 01 Ottersum	24,1	30,3	22,3
+	WK090702	Wijk 02 Ven-Zelderheide	24,2	27,2	21,7
+	WK090703	Wijk 03 Gennep	23,0	38,5	16,4
+	WK090704	Wijk 04 Heijen	23,9	32,0	19,6
+GM0917	Totaal	Heerlen	22,6	53,7	9,7
+	WK091710	Wijk 10 Maria Gewanden en Terschuren	22,4	51,5	10,1
+	WK091711	Wijk 11 Mariarade	22,9	43,6	13,1
+	WK091712	Wijk 12 Hoensbroek-De Dem	19,9	63,8	5,3
+	WK091713	Wijk 13 Nieuw Lotbroek	20,9	45,5	10,1
+	WK091714	Wijk 14 De Koumen	25,0	41,8	12,8
+	WK091720	Wijk 20 Vrieheide-De Stack	18,2	59,9	5,3
+	WK091721	Wijk 21 Heerlerheide-Passart	18,7	65,7	4,4
+	WK091722	Wijk 22 Heksenberg	21,6	43,6	9,7
+	WK091723	Wijk 23 De Hei	.	.	.
+	WK091724	Wijk 24 Rennemig-Beersdal	20,0	48,8	8,2
+	WK091730	Wijk 30 Zeswegen-Nieuw Husken	19,4	49,8	8,8
+	WK091731	Wijk 31 Schandelen-Grasbroek	20,9	60,7	6,6
+	WK091732	Wijk 32 Meezenbroek-Schaesbergerveld	19,2	61,6	6,6
+	WK091733	Wijk 33 Heerlen-Centrum	26,2	61,0	8,3
+	WK091734	Wijk 34 Eikenderveld	20,6	63,3	2,9
+	WK091735	Wijk 35 Woonboulevard-Ten Esschen	28,5	.	.
+	WK091736	Wijk 36 Welten-Benzenrade	31,2	30,4	21,6
+	WK091737	Wijk 37 Bekkerveld	28,2	44,0	16,7
+	WK091738	Wijk 38 Caumerveld-Douve Weien	32,7	41,5	19,0
+	WK091739	Wijk 39 Molenberg	21,5	60,4	10,4
+	WK091740	Wijk 40 Heerlerbaan-Centrum	19,5	68,3	4,1
+	WK091741	Wijk 41 Heerlerbaan-Schil	27,8	32,2	20,6
+	WK091742	Wijk 42 De Beitel	.	.	.
+GM0928	Totaal	Kerkrade	21,9	50,4	10,1
+	WK092800	Wijk 00 Kerkrade-West	21,7	47,7	10,3
+	WK092801	Wijk 01 Kerkrade-Oost	21,2	56,4	8,6
+	WK092802	Wijk 02 Kerkrade-Noord	23,1	44,3	11,9
+GM0935	Totaal	Maastricht	24,2	54,9	13,0
+	WK093500	Wijk 00 Centrum	27,9	65,6	10,5
+	WK093501	Wijk 01 Buitenwijk Zuidwest	37,3	29,7	34,6
+	WK093502	Wijk 02 Buitenwijk West	20,6	58,5	8,8
+	WK093503	Wijk 03 Buitenwijk Noordwest	22,4	54,9	10,2
+	WK093504	Wijk 04 Buitenwijk Oost	22,9	56,0	13,0
+	WK093505	Wijk 05 Buitenwijk Noordoost	24,2	41,0	14,7
+	WK093506	Wijk 06 Buitenwijk Zuidoost	24,5	47,4	14,6
+GM0938	Totaal	Meerssen	28,3	31,2	24,8
+	WK093800	Wijk 00 Meerssen	26,9	40,7	19,6
+	WK093801	Wijk 01 Ulestraten	27,5	24,1	24,3
+	WK093802	Wijk 02 Bunde - Geulle	29,9	24,3	30,1
+GM0944	Totaal	Mook en Middelaar	30,0	28,7	29,2
+	WK094400	Wijk 00 Mook	30,2	29,3	29,2
+	WK094401	Wijk 01 Middelaar	28,8	25,6	29,5
+GM0946	Totaal	Nederweert	24,7	32,8	23,4
+	WK094601	Wijk 01 Nederweert	24,6	36,6	21,8
+	WK094602	Wijk 02 Budschop	26,5	31,2	22,8
+	WK094603	Wijk 03 Ospel	24,3	28,5	25,6
+	WK094604	Wijk 04 Nederweert-Eind	25,2	24,0	27,3
+	WK094605	Wijk 05 Leveroy	23,4	32,2	24,4
+GM0957	Totaal	Roermond	24,3	44,9	15,2
+	WK095700	Wijk 00 Centrum	30,4	50,3	14,9
+	WK095701	Wijk 01 Roermond-Oost	20,0	61,9	7,5
+	WK095702	Wijk 02 Roermond-Zuid	21,7	49,7	10,7
+	WK095703	Wijk 03 Maasniel	24,9	42,3	17,5
+	WK095704	Wijk 04 Donderberg	17,2	55,5	7,1
+	WK095705	Wijk 05 Hoogvonderen	23,5	30,6	14,0
+	WK095706	Wijk 06 Asenray	26,8	30,7	26,6
+	WK095707	Wijk 07 Herten	29,1	21,1	31,1
+	WK095708	Wijk 08 Swalmen	23,8	38,2	16,8
+	WK095709	Wijk 09 Maasplassen	24,9	.	.
+GM0965	Totaal	Simpelveld	24,7	37,7	17,3
+	WK096500	Wijk 00 Simpelveld	25,1	40,3	16,8
+	WK096501	Wijk 01 Bocholtz	24,2	34,6	17,8
+GM0971	Totaal	Stein	25,1	34,8	18,1
+	WK097100	Wijk 00 Stein	24,3	38,9	15,9
+	WK097101	Wijk 01 Elsloo	26,0	29,9	21,5
+	WK097102	Wijk 02 Urmond	25,2	34,0	17,7
+GM0981	Totaal	Vaals	23,5	51,6	12,8
+	WK098100	Wijk 00 Vijlen-Lemiers	25,6	38,6	20,2
+	WK098101	Wijk 01 Vaals	22,6	56,1	10,3
+GM0983	Totaal	Venlo	23,2	44,0	14,5
+	WK098311	Wijk 11 Venlo-Centrum	27,1	57,7	10,5
+	WK098312	Wijk 12 Venlo-Zuid	22,2	46,1	13,3
+	WK098313	Wijk 13 Venlo-Oost-Noord	27,8	37,1	20,4
+	WK098314	Wijk 14 Venlo-Noord	20,9	57,4	8,7
+	WK098315	Wijk 15 Venlo-Oost-Zuid	24,0	52,2	14,6
+	WK098316	Wijk 16 Het Ven	30,5	22,8	30,8
+	WK098321	Wijk 21 Blerick-Midden	20,8	54,8	8,5
+	WK098322	Wijk 22 Blerick-Noord	17,8	50,2	8,4
+	WK098323	Wijk 23 Blerick-Zuid	20,0	59,9	6,9
+	WK098324	Wijk 24 Vossener	20,0	30,0	12,4
+	WK098325	Wijk 25 Klingerberg	20,3	39,8	12,8
+	WK098326	Wijk 26 Hout-Blerick	30,8	14,7	32,6
+	WK098327	Wijk 27 Boekend	25,8	22,8	29,5
+	WK098328	Wijk 28 Trade-Port	25,6	36,6	25,4
+	WK098331	Wijk 31 Tegelen-Centrum	23,2	42,8	14,6
+	WK098332	Wijk 32 Op de Hei	19,8	44,0	9,2
+	WK098335	Wijk 35 Steyl	24,1	44,9	15,6
+	WK098341	Wijk 41 Velden	25,7	30,2	21,1
+	WK098343	Wijk 43 Lomm	23,0	34,7	21,9
+	WK098344	Wijk 44 Arcen	25,1	33,5	19,7
+	WK098351	Wijk 51 Belfeld	23,2	35,6	17,5
+GM0984	Totaal	Venray	24,5	35,6	20,1
+	WK098401	Heide	27,0	22,9	29,8
+	WK098402	Ysselsteyn	24,7	30,9	28,6
+	WK098403	Merselo	25,0	26,8	27,5
+	WK098404	Vredepeel	26,3	.	.
+	WK098405	Smakt	24,9	.	.
+	WK098406	Oostrum	25,2	27,0	26,4
+	WK098407	Oirlo	25,8	30,8	28,6
+	WK098408	Castenray	25,0	28,1	27,8
+	WK098409	Veulen	22,2	24,7	32,3
+	WK098410	Leunen	25,5	23,3	29,8
+	WK098411	Centrum	25,9	54,7	8,3
+	WK098412	Oost	26,4	41,5	19,3
+	WK098413	West	21,8	57,8	7,9
+	WK098414	Vlakwater	43,3	14,1	44,3
+	WK098415	Veltum	26,7	33,9	20,3
+	WK098416	Brukske	17,4	46,5	7,9
+	WK098417	Landweert	23,4	28,9	18,2
+	WK098418	Smakterheide	25,1	39,6	20,5
+	WK098419	Brabander	29,9	19,5	37,6
+	WK098420	St. Antoniusveld	26,9	23,3	32,4
+	WK098421	Wanssum	25,2	25,2	22,0
+	WK098422	Geijsteren	26,4	23,0	28,7
+	WK098423	Blitterswijck	23,9	32,9	20,2
+GM0986	Totaal	Voerendaal	27,1	31,3	23,1
+	WK098601	Wijk 01 Voerendaal	24,6	37,1	19,6
+	WK098602	Wijk02 Kunrade	27,7	31,4	24,5
+	WK098603	Wijk 03 Ubachsberg	25,5	30,9	19,5
+	WK098604	Wijk 04 Klimmen	29,0	28,0	25,1
+	WK098605	Wijk 05 Ransdaal	26,8	25,1	25,4
+	WK098609	Wijk 09 Verspreide huizen Voerendaal	33,7	25,2	31,3
+GM0988	Totaal	Weert	24,9	37,3	19,2
+	WK098801	Wijk 01 Boshoven	25,1	27,9	22,7
+	WK098802	Wijk 02 Laar en Hushoven	26,8	24,7	33,0
+	WK098803	Wijk 03 Molenakker en Kampershoek	29,3	19,1	37,2
+	WK098811	Wijk 11 Weert-Centrum	27,6	56,2	11,1
+	WK098812	Wijk 12 Biest	24,7	35,7	15,9
+	WK098813	Wijk 13 Groenewoud	21,1	49,8	8,8
+	WK098814	Wijk 14 Fatima	22,2	48,6	10,3
+	WK098821	Wijk 21 Keent	21,2	51,5	10,4
+	WK098822	Wijk 22 Moesel	22,2	39,3	15,9
+	WK098823	Wijk 23 Graswinkel	24,4	34,7	19,9
+	WK098824	Wijk 24 Leuken	24,1	27,0	20,9
+	WK098825	Wijk 25 Kazernelaan	40,9	15,9	40,8
+	WK098831	Wijk 31 Altweerterheide	26,3	25,7	29,7
+	WK098832	Wijk 32 Tungelroy	27,0	28,2	29,0
+	WK098833	Wijk 33 Swartbroek	27,1	25,2	29,5
+	WK098834	Wijk 34 Stramproy	24,1	33,7	22,0
+GM0994	Totaal	Valkenburg aan de Geul	26,5	40,8	19,3
+	WK099400	Wijk 00: Valkenburg	26,5	49,8	15,0
+	WK099401	Wijk 01: Houthem - Sint Gerlach	27,8	38,3	18,5
+	WK099402	Wijk 02: Schin op Geul - Oud-Valkenburg	25,2	33,4	22,8
+	WK099403	Wijk 03: Sibbe - IJzeren	25,5	32,1	22,3
+	WK099404	Wijk 04: Berg en Terblijt - Vilt	26,7	28,6	25,9
+	WK099405	Wijk 05: Walem	27,7	.	.
+GM0995	Totaal	Lelystad	23,1	39,3	17,0
+	WK099501	Zuiderzeewijk	18,7	53,1	8,7
+	WK099502	Atolwijk	20,3	46,2	11,0
+	WK099503	Boswijk	21,7	38,6	13,6
+	WK099504	Waterwijk-Landerijen	23,9	36,6	24,0
+	WK099505	Bolder	19,5	49,0	9,8
+	WK099506	Kustwijk	25,9	29,6	22,5
+	WK099507	Havendiep	24,8	34,1	20,0
+	WK099508	Lelystad-Haven	28,5	28,7	25,3
+	WK099509	Stadshart	24,0	69,7	3,9
+	WK099510	Buitengebied	29,3	23,9	47,4
+	WK099511	Warande	22,3	25,1	15,6
+GM1507	Totaal	Horst aan de Maas	24,8	31,2	22,7
+	WK150700	Wijk 00 Griendtsveen	24,6	27,1	21,6
+	WK150701	Wijk 01 America	24,0	32,4	24,2
+	WK150702	Wijk 02 Meterik	24,6	32,1	29,3
+	WK150703	Wijk 03 Hegelsom	25,2	24,9	27,9
+	WK150704	Wijk 04 Horst	24,9	36,5	19,6
+	WK150705	Wijk 05 Melderslo	23,7	29,8	26,0
+	WK150706	Wijk 06 Broekhuizen	24,5	31,0	20,3
+	WK150707	Wijk 07 Lottum	23,9	25,7	24,1
+	WK150708	Wijk 08 Grubbenvorst	26,1	28,4	22,5
+	WK150709	Wijk 09 Broekhuizen	24,4	31,3	25,4
+	WK150710	Wijk 10 Sevenum	24,8	30,5	23,3
+	WK150711	Wijk 11 Kronenberg	25,6	21,2	30,0
+	WK150712	Wijk 12 Evertsoord	28,6	.	.
+	WK150713	Wijk 13 Meerlo	24,2	26,3	21,8
+	WK150714	Wijk 14 Tienray	22,5	28,8	17,8
+	WK150715	Wijk 15 Swolgen	24,0	25,7	25,7
+GM1509	Totaal	Oude IJsselstreek	22,4	37,7	16,9
+	WK150900	Wijk 00 Ulft-Etten	21,9	37,2	16,8
+	WK150901	Wijk 01 Overig Gendringen	22,4	36,0	18,6
+	WK150902	Wijk 02 Silvolde-Terborg	21,8	42,7	14,1
+	WK150903	Wijk 03 Varsseveld	23,9	33,9	19,2
+GM1525	Totaal	Teylingen	30,4	28,4	30,9
+	WK152501	Voorhout Oude Dorp	26,7	30,9	25,0
+	WK152502	Voorhout Oosthout	31,8	14,5	44,9
+	WK152503	Voorhout Hooghkamer	30,2	18,0	39,6
+	WK152504	Voorhout Buiten	31,5	28,6	31,2
+	WK152511	Sassenheim  Midden	30,5	27,8	29,8
+	WK152512	Sassenheim  Oost	25,9	34,5	22,3
+	WK152513	Sassenheim  Zuid	37,0	.	.
+	WK152514	Sassenheim  West	30,8	34,8	26,1
+	WK152515	Sassenheim  buiten	.	.	.
+	WK152521	Warmond	37,0	34,1	30,6
+	WK152522	Warmond buiten	29,1	31,9	29,9
+GM1581	Totaal	Utrechtse Heuvelrug	31,0	32,3	29,3
+	WK158100	Wijk 00 Doorn	33,1	33,6	30,0
+	WK158101	Wijk 01 Driebergen-Rijssenburg	31,4	33,6	30,0
+	WK158102	Wijk 02 Leersum	29,5	33,3	26,3
+	WK158103	Wijk 03 Amerongen	26,9	32,9	25,3
+	WK158104	Wijk 04 Maarn	32,9	23,4	33,9
+GM1586	Totaal	Oost Gelre	24,3	31,5	21,7
+	WK158601	Wijk 01 Lichtenvoorde	24,2	31,3	20,0
+	WK158602	Wijk 02 Harreveld	24,1	27,2	30,5
+	WK158603	Wijk 03 Zieuwewnt	23,9	25,9	29,6
+	WK158604	Wijk 04 Lievelde	24,8	22,3	29,7
+	WK158605	Wijk 05 Vragender	25,2	23,1	32,7
+	WK158606	Wijk 06 Groenlo	24,6	35,3	19,1
+	WK158607	Wijk 07 Marienvelde	21,8	30,5	23,5
+GM1598	Totaal	Koggenland	25,4	28,0	27,1
+	WK159801	Obdam	24,7	26,8	26,6
+	WK159802	Hensbroek	25,2	28,6	27,0
+	WK159803	Spierdijk	25,7	32,5	27,8
+	WK159804	Zuidermeer	25,7	20,3	32,7
+	WK159805	Berkhout	25,9	24,1	30,9
+	WK159806	Ursem	26,4	26,2	29,3
+	WK159807	De Goorn	24,1	32,4	23,6
+	WK159808	Avenhorn	25,5	28,8	25,7
+	WK159809	Scharwoude	27,3	32,4	20,5
+	WK159810	Oudendijk	30,5	25,1	35,0
+GM1621	Totaal	Lansingerland	30,3	22,3	37,1
+	WK162111	Wijk 11 Bergschenhoek	27,1	30,1	25,8
+	WK162112	Wijk 12 De Ackers	32,9	17,6	47,2
+	WK162113	Wijk 13 Boterdorp	29,2	21,2	37,5
+	WK162114	Wijk 14 Wilderszijde	.	.	.
+	WK162115	Wijk 15 Oosteindsche Polder	38,0	17,0	41,3
+	WK162121	Wijk 21 Berkel	25,4	36,9	20,7
+	WK162122	Wijk 22 Noordpolder	27,9	26,3	26,7
+	WK162123	Wijk 23 Meerpolder	28,6	19,3	37,6
+	WK162124	Wijk 24 Noordeinde	33,3	22,1	43,3
+	WK162125	Wijk 25 Zuidpolder	29,3	19,2	39,7
+	WK162126	Wijk 26 De Wadden	33,9	6,8	56,8
+	WK162127	Wijk 27 Westpolder	34,9	13,4	56,1
+	WK162128	Wijk 28 Rodenrijs	34,2	18,1	40,2
+	WK162131	Wijk 31 Bleiswijk	27,7	30,7	28,3
+	WK162132	Wijk 32 Hoekeindse Zoom	30,9	21,1	34,6
+	WK162133	Wijk 33 Bleiswijk Buiten	36,1	18,3	47,9
+GM1640	Totaal	Leudal	25,5	30,3	22,5
+	WK164000	Heythuysen	25,8	34,3	21,1
+	WK164001	Heibloem	26,9	28,1	24,2
+	WK164002	Roggel	25,8	29,2	24,0
+	WK164003	Neer	24,0	31,5	22,4
+	WK164004	Nunhem	25,3	31,1	19,2
+	WK164005	Haelen	25,5	33,3	17,9
+	WK164006	Buggenum	25,2	29,9	24,3
+	WK164007	Horn	26,9	25,0	23,5
+	WK164008	Baexem	25,1	30,6	23,4
+	WK164009	Kelpen-Oler	25,5	27,0	23,9
+	WK164010	Grathem	26,4	24,1	27,2
+	WK164011	Ell	24,8	24,7	28,8
+	WK164012	Haler	24,9	23,6	28,7
+	WK164013	Hunsel	26,0	30,7	26,5
+	WK164014	Neeritter	24,0	33,8	19,0
+	WK164015	Ittervoort	24,9	28,7	22,0
+GM1641	Totaal	Maasgouw	26,2	32,1	21,9
+	WK164100	Wijk 00 Maasbracht	25,7	36,9	20,0
+	WK164101	Wijk 01 Linne	26,2	32,5	21,0
+	WK164102	Wijk 02 Stevensweert	26,4	30,4	25,1
+	WK164103	Wijk 03 Ohé en Laak	27,3	30,1	26,3
+	WK164104	Wijk 04 Thorn	25,9	35,2	20,8
+	WK164105	Wijk 05 Heel	27,8	25,9	24,7
+	WK164106	Wijk 06 Beegden	26,8	23,7	24,8
+	WK164107	Wijk 07 Wessem	24,8	28,9	19,8
+GM1652	Totaal	Gemert-Bakel	24,2	34,1	22,2
+	WK165200	Wijk 00 Gemert	23,7	36,5	19,9
+	WK165201	Wijk 01 Handel	23,2	35,0	25,1
+	WK165202	Wijk 02 De Mortel	25,7	23,1	33,4
+	WK165203	Wijk 03 Elsendorp	26,0	35,0	28,0
+	WK165204	Wijk 04 Bakel	24,6	33,2	21,4
+	WK165205	Wijk 05 Milheeze	25,0	27,7	27,1
+	WK165206	Wijk 06 De Rips	24,4	26,5	25,2
+GM1655	Totaal	Halderberge	25,4	34,2	21,6
+	WK165501	Wijk 01 Oud Gastel	25,4	29,8	24,6
+	WK165502	Wijk 02 Stampersgat	24,7	32,2	20,7
+	WK165503	Wijk 03 Oudenbosch	23,6	40,1	16,3
+	WK165504	Wijk 04 Hoeven	27,9	28,5	27,8
+	WK165505	Wijk 05 Bosschenhoofd	28,4	29,4	27,4
+GM1658	Totaal	Heeze-Leende	29,2	25,2	30,4
+	WK165800	Wijk 00 Heeze	29,5	25,6	29,4
+	WK165801	Wijk 01 Leende	28,5	24,9	32,2
+	WK165802	Wijk 02 Leenderstrijp	26,4	15,7	41,0
+	WK165803	Wijk 03 Sterksel	29,5	26,4	29,4
+GM1659	Totaal	Laarbeek	24,9	31,0	23,3
+	WK165900	Wijk 00 Beek en Donk	24,0	34,5	19,9
+	WK165901	Wijk 01 Aarle-Rixtel	25,4	30,2	25,1
+	WK165902	Wijk 02 Lieshout	27,2	26,8	27,3
+	WK165903	Wijk 03 Mariahout	23,5	22,1	28,6
+GM1667	Totaal	Reusel-De Mierden	25,4	26,6	25,7
+	WK166700	Wijk 00 Reusel	24,5	27,9	22,7
+	WK166701	Wijk 01 Hooge Mierde	27,4	24,0	30,1
+	WK166702	Wijk 02 Lage Mierde	27,7	25,7	33,2
+	WK166703	Wijk 03 Hulsel	26,1	20,5	32,3
+GM1669	Totaal	Roerdalen	25,1	34,0	19,3
+	WK166901	Montfort	25,2	32,3	22,7
+	WK166902	Sint Odiliënberg	25,4	33,3	18,7
+	WK166903	Melick	26,5	29,8	22,2
+	WK166904	Posterholt	23,0	36,9	17,3
+	WK166905	Herkenbosch	26,1	34,4	18,5
+	WK166906	Vlodrop	23,9	38,1	15,9
+GM1674	Totaal	Roosendaal	24,6	38,8	18,7
+	WK167400	Wijk 00 Centrum	26,2	51,3	11,7
+	WK167401	Wijk 01 Oost	23,5	45,9	14,5
+	WK167402	Wijk 02 Noord	20,5	48,1	13,4
+	WK167403	Wijk 03 West	21,1	54,3	9,1
+	WK167404	Wijk 04 Groot Kroeven	21,9	44,2	12,8
+	WK167405	Wijk 05 Langdonk	20,9	37,2	13,6
+	WK167406	Wijk 06 Kortendijk	26,9	27,9	24,4
+	WK167407	Wijk 07 Tolberg	28,4	22,6	31,8
+	WK167408	Wijk 08 Industriegebieden	.	26,1	35,9
+	WK167410	Wijk 10 Nispen	25,6	28,9	26,2
+	WK167411	Wijk 11 Wouw	26,1	28,6	25,7
+	WK167412	Wijk 12 Heerle	27,0	28,5	25,3
+	WK167413	Wijk 13 Moerstraten	28,4	21,1	37,9
+	WK167414	Wijk 14 Wouwse Plantage	26,5	28,3	30,6
+GM1676	Totaal	Schouwen-Duiveland	26,2	35,5	20,4
+	WK167600	Wijk 00 Zierikzee	25,2	41,4	16,3
+	WK167601	Wijk 01 Brouwershaven	24,3	43,8	13,5
+	WK167602	Wijk 02 Zonnemaire	29,2	31,5	23,2
+	WK167603	Wijk 03 Dreischor	25,6	32,7	24,4
+	WK167604	Wijk 04 Noordgouwe	31,9	27,2	30,3
+	WK167605	Wijk 05 Bruinisse	25,9	31,0	23,7
+	WK167606	Wijk 06 Nieuwerkerk	23,0	30,0	22,8
+	WK167607	Wijk 07 Oosterland	21,8	33,6	20,6
+	WK167608	Wijk 08 Ouwerkerk	26,9	30,1	19,9
+	WK167609	Wijk 09 Scharendijke	24,1	31,3	18,5
+	WK167610	Wijk 10 Kerkwerve	23,9	31,6	25,4
+	WK167611	Wijk 11 Ellemeet	29,2	29,0	27,2
+	WK167612	Wijk 12 Haamstede	32,8	30,3	24,2
+	WK167613	Wijk 13 Renesse	29,3	38,1	24,0
+	WK167614	Wijk 14 Noordwelle	25,5	29,0	25,4
+	WK167615	Wijk 15 Serooskerke	29,7	38,4	14,5
+GM1680	Totaal	Aa en Hunze	26,0	31,8	22,8
+	WK168000	Wijk 00 Annen	27,4	29,5	26,0
+	WK168001	Wijk 01 Eext	25,4	31,6	21,3
+	WK168002	Wijk 02 Anloo	25,2	38,6	19,5
+	WK168003	Wijk 03 Gasteren	29,0	15,3	32,4
+	WK168004	Wijk 04 Anderen	31,7	19,6	37,4
+	WK168005	Wijk 05 Schipborg	32,7	24,5	33,6
+	WK168006	Wijk 06 Eexterveen	27,6	18,9	32,6
+	WK168007	Wijk 07 Spijkerboor	25,8	.	.
+	WK168008	Wijk 08 Nieuw-Annerveen	24,8	.	.
+	WK168009	Wijk 09 Oud-Annerveen	29,3	.	.
+	WK168011	Wijk 11 Annerveenschekanaal	25,3	30,6	24,3
+	WK168012	Wijk 12 Eexterveenschekanaal	23,3	34,7	9,1
+	WK168013	Wijk 13 Eexterzandvoort	30,0	.	.
+	WK168014	Wijk 14 Gasselte	24,7	37,7	19,9
+	WK168015	Wijk 15 Gasselternijveen	20,1	41,2	12,4
+	WK168016	Wijk 16 Gasselternijveenschemond	24,6	31,4	20,6
+	WK168017	Wijk 17 Gieten	25,7	35,2	21,3
+	WK168018	Wijk 18 Gieterveen	23,9	32,2	20,7
+	WK168019	Wijk 19 Rolde	27,5	29,3	23,3
+	WK168020	Wijk 20 Grolloo	27,0	30,9	25,7
+	WK168021	Wijk 21 Ekehaar	27,4	17,8	34,6
+GM1681	Totaal	Borger-Odoorn	23,4	35,5	17,5
+	WK168100	Wijk 00 Borger	24,3	40,6	16,7
+	WK168101	Wijk 01 Buinen	25,5	23,8	26,8
+	WK168102	Wijk 02 Bronneger	36,3	.	.
+	WK168103	Wijk 03 Drouwen	29,0	22,3	24,5
+	WK168104	Wijk 04 Bronnegerveen	.	.	.
+	WK168105	Wijk 05 Drouwenerveen	24,3	23,8	22,9
+	WK168106	Wijk 06 Drouwenermond	21,6	31,8	20,9
+	WK168107	Wijk 07 Nieuw-Buinen	20,4	41,5	13,2
+	WK168108	Wijk 08 Buinerveen	24,9	23,5	25,9
+	WK168109	Wijk 09 Ees	26,0	32,6	23,6
+	WK168110	Wijk 10 Odoorn	26,4	32,5	21,5
+	WK168111	Wijk 11 Exloo	27,3	30,9	21,6
+	WK168112	Wijk 12 Valthe	25,1	27,4	21,4
+	WK168113	Wijk 13 Klijndijk	25,0	26,3	20,6
+	WK168114	Wijk 14 Odoornerveen	27,6	23,2	30,5
+	WK168115	Wijk 15 Tweede Exloërmond	21,2	35,3	13,1
+	WK168116	Wijk 16 Valthermond	20,9	38,8	13,5
+GM1684	Totaal	Cuijk	24,0	35,3	20,0
+	WK168401	Linden	29,5	20,0	37,1
+	WK168402	Katwijk	28,7	18,5	29,6
+	WK168403	Vianen	24,5	23,1	27,8
+	WK168404	Beers	26,3	25,1	28,9
+	WK168406	Cuijk	23,1	39,1	16,6
+	WK168411	Haps	25,4	27,6	29,4
+	WK168414	Sint Agatha	29,3	20,6	34,9
+GM1685	Totaal	Landerd	24,9	29,2	28,3
+	WK168500	Wijk 00 Schaijk	25,7	28,3	28,9
+	WK168501	Wijk 01 Reek	25,2	30,6	28,8
+	WK168502	Wijk 02 Zeeland	24,0	30,0	27,3
+	WK168509	Wijk 09 Verspreide huizen Zeeland	23,7	.	.
+GM1690	Totaal	De Wolden	24,8	31,0	24,1
+	WK169000	Wijk 00 Zuidwolde	24,4	34,7	22,7
+	WK169001	Wijk 01 Alteveer	23,8	23,8	29,2
+	WK169002	Wijk 02 Kerkenveld	22,1	24,1	22,5
+	WK169003	Wijk 03 Drogteropslagen	25,8	24,7	28,9
+	WK169004	Wijk 04 Linde	27,2	25,8	31,9
+	WK169005	Wijk 05 Fort	27,8	18,7	31,7
+	WK169006	Wijk 06 Veeningen	22,9	27,5	24,4
+	WK169007	Wijk 07 Echten	23,4	28,2	24,6
+	WK169008	Wijk 08 Ruinen	24,7	33,1	20,8
+	WK169009	Wijk 09 Eursinge	.	.	.
+	WK169010	Wijk 10 Ansen	30,6	26,4	29,5
+	WK169011	Wijk 11 Ruinerwold	24,2	31,1	26,1
+	WK169012	Wijk 12 Koekange	24,8	28,7	24,3
+	WK169013	Wijk 13 De Wijk	26,5	32,2	22,8
+GM1695	Totaal	Noord-Beveland	24,9	36,7	16,8
+	WK169500	Wijk 00 Kortgene	25,9	34,0	17,8
+	WK169501	Wijk 01 Colijnsplaat	22,9	38,6	14,1
+	WK169502	Wijk 02 Kats	29,2	31,2	22,0
+	WK169503	Wijk 03 Kamperland	25,6	36,4	19,7
+	WK169504	Wijk 04 Wissenkerke	23,2	38,7	12,5
+	WK169505	Wijk 05 Geersdijk	23,8	43,5	13,1
+GM1696	Totaal	Wijdemeren	31,7	29,8	30,6
+	WK169600	Wijk 00 's-Graveland	35,9	33,6	25,0
+	WK169601	Wijk 01 Kortenhoef	29,6	30,6	29,0
+	WK169602	Wijk 02 Ankeveen	29,0	24,4	30,4
+	WK169603	Wijk 03 Loosdrecht	36,4	29,9	33,2
+	WK169604	Wijk 04 Nieuw-Loosdrecht	33,5	29,4	30,4
+	WK169605	Wijk 05 Breukeleveen	48,5	.	.
+	WK169606	Wijk 06 Nederhorst den Berg	29,7	30,0	32,9
+GM1699	Totaal	Noordenveld	25,1	33,7	20,5
+	WK169900	Wijk 00 Roden	24,3	36,2	17,9
+	WK169901	Wijk 01 Roden	27,1	30,6	28,2
+	WK169903	Wijk 03 Norg	25,4	33,5	20,5
+	WK169904	Wijk 04 Norg	27,4	28,3	31,1
+	WK169906	Wijk 06 Peize	26,7	26,9	26,1
+GM1700	Totaal	Twenterand	20,9	34,4	18,4
+	WK170000	Wijk 00 Vriezenveen (kern)	22,0	32,3	20,2
+	WK170001	Wijk 01 Vriezenveen (buitengebied)	22,2	25,1	30,5
+	WK170002	Wijk 02 Westerhaar-Vriezenveensewijk	18,9	42,9	14,3
+	WK170003	Wijk 03 Kloosterhaar	22,0	27,2	23,5
+	WK170004	Wijk 04 Bruinehaar	19,7	37,9	14,1
+GM1701	Totaal	Westerveld	25,3	33,2	21,2
+	WK170100	Wijk 00 Diever	25,7	34,9	21,4
+	WK170101	Wijk 01 Wapse	23,9	26,3	26,7
+	WK170102	Wijk 02 Zorgvlied	26,6	37,9	17,5
+	WK170103	Wijk 03 Dwingeloo	24,1	37,9	20,9
+	WK170104	Wijk 04 Lhee	32,5	19,6	41,2
+	WK170105	Wijk 05 Eemster	31,2	22,0	39,0
+	WK170106	Wijk 06 Geeuwenbrug	28,2	16,8	29,9
+	WK170107	Wijk 07 Dieverbrug	28,7	31,9	27,5
+	WK170108	Wijk 08 Havelte	25,9	33,1	20,0
+	WK170109	Wijk 09 Uffelte	23,7	28,6	21,6
+	WK170110	Wijk 10 Wapserveen	26,8	25,4	26,6
+	WK170111	Wijk 11 Vledder	24,2	34,1	15,6
+	WK170112	Wijk 12 Frederiksoord	27,8	38,1	20,1
+	WK170113	Wijk 13 Nijensleek	23,1	29,9	26,4
+	WK170114	Wijk 14 Vledderveen	26,1	31,3	19,9
+	WK170115	Wijk 15 Wilhelminaoord	19,7	46,6	8,9
+	WK170116	Wijk 16 Doldersum	.	.	.
+	WK170117	Wijk 17 Boschoord	.	.	.
+GM1702	Totaal	Sint Anthonis	25,8	28,3	27,5
+	WK170200	Wijk 00 Sint Anthonis	26,3	30,4	26,0
+	WK170201	Wijk 01 Oploo	26,0	27,6	29,2
+	WK170202	Wijk 02 Westerbeek	25,3	20,0	28,3
+	WK170203	Wijk 03 Stevensbeek	25,8	27,3	28,8
+	WK170204	Wijk 04 Wanroij	25,1	28,0	28,5
+	WK170205	Wijk 05 Landhorst	26,2	24,1	29,1
+GM1705	Totaal	Lingewaard	25,4	30,9	23,2
+	WK170500	Wijk 00 Bemmel	25,9	29,5	25,5
+	WK170501	Wijk 01 Gendt	23,1	35,7	20,0
+	WK170502	Wijk 02 Huissen	25,8	30,5	22,2
+GM1706	Totaal	Cranendonck	25,5	30,4	23,0
+	WK170600	Wijk 00 Budel	25,1	33,5	21,3
+	WK170601	Wijk 01 Schoot	22,0	39,1	15,3
+	WK170602	Wijk 02 Dorplein	23,3	28,2	15,6
+	WK170603	Wijk 03 Maarheeze	28,1	25,6	28,1
+	WK170604	Wijk 04 Soerendonk	26,8	23,2	30,7
+	WK170605	Wijk 05 Gastel	23,5	18,5	28,3
+GM1708	Totaal	Steenwijkerland	22,7	37,7	17,3
+	WK170800	Steenwijk	21,6	46,0	12,2
+	WK170802	Oldemarkt	21,8	31,1	15,8
+	WK170803	Kalenberg	33,7	35,9	20,5
+	WK170804	Kuinre	20,9	35,3	18,0
+	WK170805	Blankenham	26,1	20,3	27,3
+	WK170806	Scheerwolde	22,8	34,6	19,2
+	WK170807	Vollenhove	21,2	37,4	16,2
+	WK170808	Sint Jansklooster	22,0	25,7	26,3
+	WK170810	Belt-Schutsloot	26,4	20,1	25,8
+	WK170811	Wanneperveen	25,1	30,3	23,2
+	WK170816	Blokzijl	23,6	33,9	18,9
+	WK170817	Giethoorn	27,2	32,5	25,5
+	WK170818	Zuidveen	21,6	35,3	18,7
+	WK170819	Onna	24,9	32,3	27,7
+	WK170820	Kallenkote	24,7	19,5	33,6
+	WK170821	Eesveen	23,4	24,6	29,7
+	WK170822	De Bult	22,4	54,1	12,2
+	WK170823	Baars	.	.	.
+	WK170824	Witte Paarden	22,5	.	.
+	WK170825	De Pol	22,6	.	.
+	WK170826	Willemsoord	22,4	31,7	19,5
+	WK170827	Marijenkampen	23,3	.	.
+	WK170828	Tuk	24,8	19,9	22,8
+	WK170829	Steenwijkerwold	22,2	46,1	16,6
+	WK170830	Basse	22,7	.	.
+	WK170831	Paasloo	26,0	15,3	27,4
+	WK170832	IJsselham	.	.	.
+	WK170833	Ossenzijl	22,5	29,9	17,2
+	WK170834	Wetering	31,2	.	.
+	WK170835	Nederland	.	.	.
+	WK170836	Baarlo	.	.	.
+GM1709	Totaal	Moerdijk	26,0	32,9	22,5
+	WK170900	Wijk 00 Zevenbergen	26,2	33,2	21,3
+	WK170901	Wijk 01 Zevenbergschen Hoek	26,2	32,2	25,0
+	WK170902	Wijk 02 Langeweg	26,3	25,6	29,3
+	WK170903	Wijk 03 Klundert	24,0	36,2	19,4
+	WK170904	Wijk 04 Moerdijk	23,7	36,8	19,6
+	WK170905	Wijk 05 Noordhoek	28,0	22,1	31,0
+	WK170906	Wijk 06 Standdaarbuiten	25,2	28,7	23,6
+	WK170907	Wijk 07 Fijnaart	25,5	34,8	22,6
+	WK170908	Wijk 08 Heijningen	28,7	29,1	25,0
+	WK170909	Wijk 09 Willemstad	31,2	28,8	30,4
+	WK170910	Wijk 10 Helwijk	24,7	34,5	17,1
+GM1711	Totaal	Echt-Susteren	25,3	35,3	19,7
+	WK171101	Wijk 01 Susteren	25,8	36,6	19,2
+	WK171102	Wijk 02 Dieteren	25,7	33,8	22,5
+	WK171103	Wijk 03 Heide	23,9	33,9	19,0
+	WK171104	Wijk 04 Roosteren	25,8	34,3	21,9
+	WK171105	Wijk 05 Echt	25,0	42,5	17,5
+	WK171106	Wijk 06 Maria Hoop	27,2	27,2	25,6
+	WK171107	Wijk 07 Peij	24,7	35,8	18,4
+	WK171108	Wijk 08 Slek	24,6	26,5	21,8
+	WK171109	Wijk 09 Nieuwstadt	26,1	26,8	21,5
+	WK171110	Wijk 10 Sint Joost	26,0	25,0	25,0
+	WK171111	Wijk 11 Koningsbosch	24,1	32,9	21,5
+GM1714	Totaal	Sluis	24,8	40,4	17,9
+	WK171400	Wijk 00 Sluis	24,3	42,8	17,9
+	WK171401	Wijk 01 Retranchement	22,7	43,5	19,9
+	WK171402	Wijk 02 Aardenburg	24,1	43,1	18,1
+	WK171403	Wijk 03 Eede	22,5	39,5	17,3
+	WK171404	Wijk 04 Sint Kruis	24,8	.	.
+	WK171405	Wijk 05 Oostburg	24,0	43,7	14,2
+	WK171406	Wijk 06 Zuidzande	24,5	38,7	18,1
+	WK171407	Wijk 07 Cadzand	27,6	43,2	20,2
+	WK171408	Wijk 08 Nieuwvliet	24,8	36,2	22,4
+	WK171409	Wijk 09 Groede	25,1	38,0	19,0
+	WK171410	Wijk 10 Breskens	25,7	41,2	17,9
+	WK171411	Wijk 11 Hoofdplaat	26,3	39,2	19,1
+	WK171412	Wijk 12 IJzendijke	26,8	33,6	22,2
+	WK171413	Wijk 13 Schoondijke	23,0	34,5	16,3
+	WK171414	Wijk 14 Waterlandkerkje	24,7	35,4	19,4
+GM1719	Totaal	Drimmelen	26,7	29,0	25,9
+	WK171900	Wijk 00 Made	25,3	30,9	23,2
+	WK171901	Wijk 01 Drimmelen	32,9	22,4	35,5
+	WK171902	Wijk 02 Terheijden	27,7	28,0	26,1
+	WK171903	Wijk 03 Wagenberg	27,4	21,4	33,1
+	WK171904	Wijk 04 Lage Zwaluwe	27,4	32,1	26,6
+	WK171905	Wijk 05 Hooge Zwaluwe	28,7	23,2	30,9
+GM1721	Totaal	Bernheze	25,6	28,1	28,2
+	WK172101	Kern Heesch	25,6	28,6	25,7
+	WK172102	Kern Heeswijk-Dinther	25,3	29,4	26,9
+	WK172103	Kern Nistelrode	24,4	31,1	25,5
+	WK172104	Buitengebied Heesch	31,6	16,8	47,8
+	WK172105	Buitengebied Heeswijk-Dinther	26,3	26,1	36,0
+	WK172106	Buitengebied Nistelrode	25,2	21,8	33,4
+GM1723	Totaal	Alphen-Chaam	27,3	27,1	30,2
+	WK172300	Wijk 00 Alphen	25,7	28,0	29,0
+	WK172301	Wijk 01 Chaam	27,0	28,4	28,6
+	WK172302	Wijk 02 Galder	30,0	21,5	34,5
+	WK172308	Wijk 08 Verspreide huizen	38,1	22,8	44,3
+	WK172309	Wijk 09 Verspreide huizen	.	.	.
+GM1724	Totaal	Bergeijk	26,2	27,9	26,2
+	WK172400	Wijk 00 Bergeijk 't Hof	25,0	29,9	22,8
+	WK172401	Wijk 01 Weebosch	24,3	23,7	26,6
+	WK172402	Wijk 02 Luyksgestel	23,6	29,9	22,6
+	WK172403	Wijk 03 Riethoven	31,4	23,2	34,2
+	WK172404	Wijk 04 Westerhoven	26,1	27,8	26,7
+	WK172405	Wijk 05 Bergeijk 't Loo	26,2	22,2	28,2
+	WK172406	Wijk 06 Buitengebied	29,5	25,1	36,7
+GM1728	Totaal	Bladel	25,3	29,9	23,6
+	WK172800	Wijk 00 Bladel	24,7	31,3	21,8
+	WK172801	Wijk 01 Netersel	27,4	24,9	33,6
+	WK172802	Wijk 02 Hapert	26,3	29,8	23,3
+	WK172803	Wijk 03 Hoogeloon	24,9	28,2	27,8
+	WK172804	Wijk 04 Casteren	26,0	23,5	27,8
+GM1729	Totaal	Gulpen-Wittem	25,8	34,9	20,4
+	WK172900	Wijk 00 Gulpen	25,5	42,3	18,3
+	WK172901	Wijk 01 Wijlre	25,6	34,1	19,9
+	WK172902	Wijk 02 Eys	27,6	25,6	24,4
+	WK172903	Wijk 03 Wittem	24,3	32,6	17,4
+	WK172904	Wijk 04 Mechelen	25,7	31,4	22,2
+	WK172905	Wijk 05 Epen	25,7	32,0	23,4
+	WK172906	Wijk 06 Slenaken	27,8	27,6	26,9
+GM1730	Totaal	Tynaarlo	27,8	28,9	26,6
+	WK173000	Wijk 00 Zuidlaren	25,9	31,5	22,1
+	WK173001	Wijk 01 De Groeve	27,1	24,3	29,8
+	WK173002	Wijk 02 Zuidlaarderveen	30,9	15,8	35,3
+	WK173003	Wijk 03 Midlaren	38,5	22,7	37,3
+	WK173004	Wijk 04 Westlaren	25,2	24,8	21,3
+	WK173005	Wijk 05 Schuilingsoord	25,0	22,6	28,3
+	WK173006	Wijk 06 Paterswolde	29,1	26,5	27,8
+	WK173007	Wijk 07 Eelde	25,9	33,0	21,9
+	WK173008	Wijk 08 Eelderwolde	38,3	7,1	74,2
+	WK173009	Wijk 09 Vries	27,0	36,4	21,7
+	WK173010	Wijk 10 Donderen	28,3	22,8	31,0
+	WK173011	Wijk 11 Bunne	29,2	20,2	38,7
+	WK173012	Wijk 12 Yde	25,6	27,4	23,5
+	WK173013	Wijk 13 Tynaarlo	25,6	26,6	24,2
+	WK173014	Wijk 14 Zeegse	36,8	27,4	33,7
+	WK173015	Wijk 15 Zeijen	28,9	20,3	30,3
+GM1731	Totaal	Midden-Drenthe	24,1	33,6	20,3
+	WK173100	Wijk 00 Beilen	24,2	35,6	19,3
+	WK173101	Wijk 01 Hijken	25,4	23,8	25,8
+	WK173102	Wijk 02 Hooghalen	25,6	33,1	23,3
+	WK173103	Wijk 03 Wijster	24,5	27,0	27,0
+	WK173104	Wijk 04 Spier	25,6	41,3	23,3
+	WK173105	Wijk 05 Drijber	22,1	32,8	19,6
+	WK173106	Wijk 06 Smilde	22,6	36,4	16,9
+	WK173107	Wijk 07 Bovensmilde	23,1	32,2	18,0
+	WK173108	Wijk 08 Hoogersmilde	22,6	34,7	18,5
+	WK173109	Wijk 09 Westerbork	25,5	34,0	20,9
+	WK173110	Wijk 10 Elp	27,7	16,9	30,3
+	WK173111	Wijk 11 Witteveen	24,9	23,9	22,1
+	WK173112	Wijk 12 Nieuw-Balinge	21,4	33,2	15,5
+	WK173113	Wijk 13 Nieuweroord	24,7	.	.
+	WK173114	Wijk 14 Zwiggelte	30,3	25,1	34,2
+	WK173115	Wijk 15 Orvelte	25,9	41,2	25,5
+	WK173116	Wijk 16 De Broekstreek	24,8	21,4	36,3
+GM1734	Totaal	Overbetuwe	25,7	29,6	25,5
+	WK173401	Buitengebied Elst	27,6	22,3	40,5
+	WK173402	Elst-Zuid	27,1	27,2	26,5
+	WK173403	Elst-Noord	22,0	47,7	11,5
+	WK173404	De Aam	30,5	.	.
+	WK173405	Westeraam	27,3	17,8	40,0
+	WK173406	Elst-Oost	33,6	16,1	40,7
+	WK173407	Oosterhout	26,3	31,0	21,7
+	WK173408	Slijk-Ewijk	24,4	37,9	21,8
+	WK173409	Herveld	24,8	28,2	25,7
+	WK173410	Andelst	24,6	28,1	26,3
+	WK173411	Kern Zetten	25,1	33,3	21,1
+	WK173412	Buitengebied Zetten	30,4	.	.
+	WK173413	Hemmen	25,7	.	.
+	WK173414	Randwijk	22,8	26,8	26,4
+	WK173415	Kern Heteren	24,9	25,3	25,5
+	WK173416	Buitengebied Heteren	26,5	34,6	27,1
+	WK173417	Valburg	27,2	26,8	28,3
+	WK173418	Driel	24,6	27,9	24,2
+GM1735	Totaal	Hof van Twente	24,9	32,7	23,2
+	WK173500	Wijk 00 Goor	23,4	42,7	15,4
+	WK173501	Wijk 01 De Whee II	23,5	23,7	22,9
+	WK173502	Wijk 02 Markelo	24,4	31,5	25,5
+	WK173503	Wijk 03 Verspr.h. Kerspel en omgeving	29,4	.	.
+	WK173504	Wijk 04 Elsen	24,3	23,4	39,6
+	WK173505	Wijk 05 Diepenheim	25,6	31,0	22,3
+	WK173506	Wijk 06 Delden	27,3	31,5	23,3
+	WK173507	Wijk 07 Overig Delden	26,1	.	.
+	WK173508	Wijk 08 Hengevelde	25,2	26,7	31,9
+	WK173509	Wijk 09 Bentelo	24,4	27,0	32,8
+GM1740	Totaal	Neder-Betuwe	22,3	31,8	23,3
+	WK174000	Wijk 00 Kesteren	21,4	32,1	24,3
+	WK174001	Wijk 01 Echteld	23,2	30,5	21,3
+	WK174002	Wijk 02 Dodewaard	23,3	32,9	24,3
+GM1742	Totaal	Rijssen-Holten	22,1	29,7	22,2
+	WK174200	Wijk 00 Stad Rijssen	21,1	43,0	15,4
+	WK174201	Wijk 01 Stadsrand	20,7	24,3	23,2
+	WK174202	Wijk 02 Buitengebied Rijssen	26,7	18,1	44,1
+	WK174203	Wijk 03 Holten	25,4	30,7	20,1
+	WK174204	Wijk 04 Bedrijventerrein Holten	.	.	.
+	WK174205	Wijk 05 Buitengebied Holten	26,3	23,5	37,6
+	WK174207	Wijk 07 Bedrijventerrein Rijssen	24,7	14,4	48,5
+	WK174208	Wijk 08 Recreatiegebied De Borkeld	24,0	.	.
+GM1771	Totaal	Geldrop-Mierlo	25,9	34,4	21,2
+	WK177100	Wijk 00 Geldrop	25,6	35,8	20,1
+	WK177101	Wijk 01 Mierlo	26,8	30,3	24,5
+GM1773	Totaal	Olst-Wijhe	24,2	31,5	22,5
+	WK177301	Wijk 01 Olst	23,0	34,9	17,3
+	WK177302	Wijk 02 Wijhe	23,9	34,1	19,4
+	WK177303	Wijk 03 Wesepe	24,4	24,1	28,8
+	WK177304	Wijk 04 Boskamp	26,0	34,1	20,4
+	WK177305	Wijk 05 Boerhaar	25,0	21,4	38,4
+	WK177306	Wijk 06 Welsum	26,8	22,6	32,2
+	WK177307	Wijk 07 Den Nul	24,3	29,7	27,6
+	WK177308	Wijk 08 Eikelhof	26,5	29,9	33,3
+	WK177309	Wijk 09 Elshof	26,9	21,3	36,7
+	WK177310	Wijk 10 Marle	.	.	.
+	WK177311	Wijk 11 Middel	24,7	19,5	30,9
+	WK177312	Wijk 12 Herxen	27,6	18,2	37,1
+GM1774	Totaal	Dinkelland	24,3	28,3	27,9
+	WK177410	Wijk 10 Denekamp	23,2	33,6	22,3
+	WK177411	Wijk 11 Lattrop-Breklenkamp	23,3	24,3	36,1
+	WK177412	Wijk 12 Tilligte	24,3	16,9	36,0
+	WK177413	Wijk 13 Agelo	27,2	15,1	45,4
+	WK177414	Wijk 14 Noord Deurningen	22,9	38,3	24,2
+	WK177415	Wijk 15 Ootmarsum	25,9	27,2	24,5
+	WK177416	Wijk 16 Weerselo	25,6	23,3	31,5
+	WK177417	Wijk 17 Rossum	23,2	25,2	34,3
+	WK177418	Wijk 18 Saasveld	25,6	22,1	38,6
+	WK177419	Wijk 19 Deurningen	24,9	25,0	29,5
+	WK177420	Wijk 20 Nutter	24,5	.	.
+	WK177421	Wijk 21 Oud Ootmarsum	24,9	23,7	43,9
+GM1783	Totaal	Westland	26,5	32,1	26,9
+	WK178301	Wijk 01 Naaldwijk	27,2	32,2	27,2
+	WK178302	Wijk 02 Honselersdijk	26,5	33,1	29,4
+	WK178303	Wijk 03 Maasdijk	25,9	37,4	24,2
+	WK178304	Wijk 04 's-Gravenzande	26,5	30,8	26,6
+	WK178305	Wijk 05 Monster	26,7	32,3	26,2
+	WK178306	Wijk 06 Wateringen	26,4	30,1	28,8
+	WK178307	Wijk 07 De Lier	26,4	28,0	28,0
+	WK178308	Wijk 08 Kwintsheul	26,9	31,1	27,9
+	WK178309	Wijk 09 Poeldijk	24,9	40,5	22,4
+	WK178310	Wijk 10 Ter Heijde	19,9	53,8	11,6
+GM1842	Totaal	Midden-Delfland	29,5	23,6	35,7
+	WK184200	Wijk 00 Schipluiden	29,4	23,5	36,6
+	WK184201	Wijk 01 Maasland	29,8	23,8	34,0
+GM1859	Totaal	Berkelland	23,4	33,5	20,0
+	WK185900	Wijk 00 Borculo	23,3	33,4	20,0
+	WK185901	Wijk 01 Eibergen	23,1	34,7	19,0
+	WK185902	Wijk 02 Beltrum	24,1	26,8	30,3
+	WK185903	Wijk 03 Neede	23,0	36,9	17,6
+	WK185904	Wijk 04 Ruurlo	24,2	29,1	21,8
+GM1876	Totaal	Bronckhorst	25,0	31,2	23,4
+	WK187600	Wijk 00 Hengelo	23,7	32,7	21,7
+	WK187601	Wijk 01 Zelhem	23,7	31,4	21,7
+	WK187602	Wijk 02 Vorden	26,2	31,2	24,0
+	WK187603	Wijk 03 Steenderen	25,8	29,3	25,5
+	WK187604	Wijk 04 Hummelo en Keppel	27,4	30,0	26,9
+GM1883	Totaal	Sittard-Geleen	24,9	44,0	15,6
+	WK188300	Wijk 00 Limbrichterveld	23,8	46,1	15,0
+	WK188301	Wijk 01 Sittard	29,5	48,1	17,5
+	WK188302	Wijk 02 Overhoven	23,2	48,4	13,6
+	WK188303	Wijk 03 Munstergeleen	27,5	30,4	21,5
+	WK188304	Wijk 04 Guttecoven	27,6	27,3	23,6
+	WK188305	Wijk 05 Geleen	23,2	48,2	12,2
+	WK188306	Wijk 06 Holtum-Born	25,6	32,4	21,0
+	WK188307	Wijk 07 Obbicht en Papenhoven	26,4	31,7	20,5
+GM1884	Totaal	Kaag en Braassem	27,7	29,3	28,8
+	WK188400	Wijk 00 Roelofarendsveen	26,8	30,7	27,5
+	WK188401	Wijk 01 Overig Alkemade	28,5	28,0	30,9
+	WK188402	Wijk 02 Woubrugge	28,3	26,4	30,5
+	WK188403	Wijk 03 Rijnsaterwoude	29,6	28,5	34,5
+	WK188404	Wijk 04 Leimuiden	28,1	30,4	27,5
+GM1891	Totaal	Dantumadiel	20,0	40,5	15,1
+	WK189100	Wijk 00 Centrum	19,5	39,4	13,7
+	WK189101	Wijk 01 Oost	18,6	31,9	19,6
+	WK189102	Wijk 02 Zuid	20,7	44,0	14,9
+	WK189103	Wijk 03 West	19,9	32,4	18,1
+GM1892	Totaal	Zuidplas	28,1	28,5	29,6
+	WK189201	Moerkapelle wijk 01	25,1	26,4	30,7
+	WK189202	Zevenhuizen wijk 02	28,4	27,6	29,6
+	WK189203	Moordrecht wijk 03	25,7	30,1	25,6
+	WK189204	Nieuwerkerk aan den IJssel wijk 04	29,5	28,5	31,0
+GM1894	Totaal	Peel en Maas	24,3	31,1	22,7
+	WK189400	Wijk 00 Grashoek-Koningslust	23,5	27,8	26,4
+	WK189401	Wijk 01 Panningen	24,2	31,9	21,3
+	WK189402	Wijk 02 Kessel	24,2	33,8	23,7
+	WK189403	Wijk 03 Maasbree	24,5	28,2	23,6
+	WK189404	Wijk 04 Baarlo	25,7	29,3	24,0
+	WK189405	Wijk 05 Meijel	23,6	32,9	22,2
+GM1895	Totaal	Oldambt	21,3	46,7	11,2
+	WK189500	Wijk 00 Winschoten	20,9	50,1	9,7
+	WK189501	Wijk 01 Finsterwolde	22,1	45,3	12,3
+	WK189502	Wijk 02 Drieborg	21,4	48,9	12,3
+	WK189503	Wijk 03 Beerta	20,0	51,9	8,8
+	WK189504	Wijk 04 Nieuw-Beerta	21,0	.	.
+	WK189505	Wijk 05 Nieuweschans	19,0	58,5	6,3
+	WK189506	Wijk 06 Scheemda-Heiligerlee	21,8	42,8	13,6
+	WK189507	Wijk 01 Westerlee	21,9	31,4	17,6
+	WK189508	Wijk 02 Noord	24,6	40,6	15,0
+	WK189509	Wijk 03 Midwolda	21,8	36,6	13,7
+	WK189510	Wijk 04 Nieuwolda	23,7	40,6	14,8
+GM1896	Totaal	Zwartewaterland	22,5	29,4	21,8
+	WK189600	Wijk 00 Genemuiden	21,7	26,9	23,6
+	WK189601	Wijk 01 Kamperzeedijk	19,1	21,4	34,7
+	WK189602	Wijk 02 Hasselt	22,5	28,1	19,1
+	WK189603	Wijk 03 Landelijk gebied Hasselt	31,9	19,0	39,1
+	WK189604	Wijk 04 Zwartsluis	23,5	37,0	18,8
+	WK189605	Wijk 05 Mastenbroek	27,1	.	.
+GM1900	Totaal	Súdwest-Fryslân	22,6	39,4	17,4
+	WK190000	Wijk 00 Bolsward	21,2	43,7	13,8
+	WK190001	Wijk 01 Sneek	22,6	44,3	14,8
+	WK190002	Wijk 02 Nijefurd	22,0	40,8	16,0
+	WK190003	Wijk 03 Koudum	22,4	36,7	17,7
+	WK190004	Wijk 04 Hemelum	21,6	38,3	16,0
+	WK190005	Wijk 05 IJlst	24,1	33,2	22,4
+	WK190006	Wijk 06 Zuid IJlst	22,9	33,5	20,7
+	WK190007	Wijk 07 Oost IJlst	24,0	24,3	25,1
+	WK190008	Wijk 08 West IJlst	21,5	33,9	21,2
+	WK190009	Wijk 09 Oosthem	23,9	30,9	24,6
+	WK190010	Wijk 10 Noordwest IJlst	23,1	28,2	25,2
+	WK190011	Wijk 11 Zuidoost IJlst	24,8	34,3	21,0
+	WK190012	Wijk 12 Woudsend	24,4	29,2	24,2
+	WK190013	Wijk 13 Bouwhoek	22,9	37,1	17,2
+	WK190014	Wijk 14 Weidestreek Oost	23,6	25,8	24,4
+	WK190015	Wijk 15 Weidestreek West	22,5	39,4	18,1
+	WK190016	Wijk 16 Weidestreek Zuid	22,3	27,3	21,6
+	WK190017	Wijk 17 Makkum	22,0	40,5	17,7
+	WK190018	Wijk 18 Weidestreek Zuidwest	23,3	26,1	22,6
+	WK190019	Wijk 19 Boarnsterhim	24,2	29,8	22,9
+	WK190020	Wijk 20 Littenseradiel	22,9	34,1	22,1
+GM1901	Totaal	Bodegraven-Reeuwijk	28,2	27,8	29,7
+	WK190101	Wijk 01 Bodegraven Noord	26,7	39,2	22,4
+	WK190102	Wijk 02 Bodegraven Centrum	27,8	32,2	23,4
+	WK190103	Wijk 03 Bodegraven Zuid	25,6	22,3	28,2
+	WK190104	Wijk 04 Nieuwerbrug Noord	32,3	17,2	48,3
+	WK190105	Wijk 05 Nieuwerbrug Zuid	26,6	26,3	30,3
+	WK190106	Wijk 06 Reeuwijk Dorp	29,6	21,6	36,5
+	WK190107	Wijk 07 Reeuwijk Brug	33,3	27,8	35,0
+	WK190108	Wijk 08 Driebruggen	25,8	21,1	33,1
+	WK190109	Wijk 09 Waarder	25,6	26,3	32,7
+GM1903	Totaal	Eijsden-Margraten	27,5	26,8	27,3
+	WK190300	Wijk 00 Eijsden	27,0	26,8	27,1
+	WK190301	Wijk 01 Gronsveld	27,1	26,3	26,7
+	WK190302	Wijk 02 Margraten	25,7	27,7	24,6
+	WK190303	Wijk 03 Cadier en Keer	31,6	26,3	28,8
+	WK190304	Wijk 04 Sint Geertruid	26,8	24,1	31,1
+	WK190305	Wijk 05 Mheer - Noorbeek	26,7	27,9	27,5
+GM1904	Totaal	Stichtse Vecht	30,3	29,9	28,7
+	WK190401	Wijk 01 Maarssen	34,2	29,1	34,3
+	WK190402	Wijk 02 Breukelen	30,0	34,7	27,5
+	WK190403	Wijk 03 Loenen aan de Vecht	35,1	31,5	33,2
+	WK190404	Wijk 04 Nieuwer Ter Aa	29,0	23,1	38,5
+	WK190405	Wijk 05 Kockengen	27,5	30,3	32,3
+	WK190406	Wijk 06 Vreeland	36,8	27,2	36,7
+	WK190407	Wijk 07 Tienhoven	31,7	34,0	27,6
+	WK190408	Wijk 08 Nigtevecht	33,9	27,2	35,6
+	WK190409	Wijk 09 Nieuwersluis	51,6	25,4	43,5
+	WK190410	Wijk 10 Loenersloot	38,3	13,1	41,6
+	WK190411	Wijk 11 Oud Zuilen	44,8	16,7	57,6
+	WK190412	Wijk 12 Maarssenbroek	25,5	28,6	21,5
+GM1911	Totaal	Hollands Kroon	24,3	33,0	21,5
+	WK191100	Wijk 00 Winkel	23,6	29,5	22,6
+	WK191101	Wijk 01 Nieuwe-Niedorp	25,9	28,2	27,9
+	WK191102	Wijk 02 Oude-Niedorp	25,0	29,7	27,9
+	WK191103	Wijk 03 Barsingerhorn en omgeving	26,3	30,0	24,4
+	WK191104	Wijk 04 Wieringen	24,0	36,6	18,5
+	WK191105	Wijk 05 Wieringermeer	23,6	34,7	20,0
+	WK191106	Wijk 06	24,5	32,7	21,4
+	WK191107	Wijk 07 Wieringerwaard en omgeving	24,4	31,6	20,9
+GM1916	Totaal	Leidschendam-Voorburg	30,8	37,3	24,1
+	WK191601	De Zijde / Duivenvoorde / Park Veursehou	33,4	31,5	27,4
+	WK191602	Prinsenhof	20,5	51,7	8,0
+	WK191603	't Lien / De Rietvink	31,1	34,4	27,3
+	WK191604	Stompwijk	28,0	27,1	34,0
+	WK191605	Leidschendam - Zuid en omgeving	26,0	40,9	18,9
+	WK191606	De Heuvel / Amstelwijk	21,8	55,8	4,6
+	WK191607	Damsigt en omgeving	36,0	22,2	40,4
+	WK191608	Essesteijn	32,2	33,4	27,0
+	WK191609	Voorburg Midden	29,8	44,3	15,5
+	WK191610	Bovenveen	26,5	48,9	13,6
+	WK191611	Voorburg Noord	27,8	36,2	17,7
+	WK191612	Voorburg West / Park Leeuwenbergh	39,5	22,2	47,7
+	WK191613	Voorburg Oud	41,2	27,1	42,3
+GM1924	Totaal	Goeree-Overflakkee	26,0	33,1	23,4
+	WK192400	Goedereede	32,1	25,1	30,3
+	WK192401	Ouddorp	26,8	27,3	29,4
+	WK192402	Stellendam	25,7	33,1	22,2
+	WK192403	Middelharnis	25,7	34,9	21,4
+	WK192404	Ooltgensplaat	24,9	36,5	17,7
+	WK192405	Den Bommel	25,5	32,7	23,0
+	WK192406	Oude-Tonge	25,5	35,8	22,6
+	WK192407	Dirksland	25,4	30,0	25,4
+	WK192408	Melissant	25,9	30,0	24,5
+	WK192409	Herkingen	24,1	36,8	19,6
+	WK192410	Sommelsdijk	25,6	36,1	22,1
+	WK192411	Nieuwe-Tonge	25,2	33,5	21,2
+	WK192412	Stad aan 't Haringvliet	26,7	32,7	21,8
+	WK192413	Achthuizen	26,0	39,6	22,3
+GM1926	Totaal	Pijnacker-Nootdorp	28,9	24,0	35,5
+	WK192601	Pijnacker	28,1	25,8	31,3
+	WK192602	Nootdorp	29,4	22,3	38,7
+	WK192603	Delfgauw	30,0	22,3	41,0
+GM1930	Totaal	Nissewaard	25,8	37,0	19,5
+	WK193001	Centrum	25,0	55,3	10,8
+	WK193002	Schiekamp	24,2	43,9	9,7
+	WK193003	Hoogwerf	23,5	46,4	11,3
+	WK193004	Vierambachten	30,5	36,9	27,6
+	WK193005	De Hoek	20,6	43,0	12,2
+	WK193006	Gildenwijk	21,3	52,2	10,9
+	WK193007	Groenewoud	23,2	51,1	13,0
+	WK193008	Sterrenkwartier	23,7	44,3	14,0
+	WK193009	Schenkel	28,3	34,3	21,8
+	WK193010	De Elementen	32,6	29,4	25,5
+	WK193011	Vogelenzang	25,4	39,1	18,2
+	WK193012	De Akkers	21,4	45,2	11,9
+	WK193013	Vriesland	23,0	35,3	15,9
+	WK193014	Waterland	24,8	25,7	20,8
+	WK193015	Maaswijk	29,8	21,5	36,1
+	WK193016	Halfweg	.	.	.
+	WK193017	Buitengebied	30,1	.	.
+	WK193025	Heenvliet	28,6	20,9	24,9
+	WK193027	Geervliet	29,7	29,9	23,4
+	WK193029	Abbenbroek	30,0	22,8	31,5
+	WK193031	Zuidland	29,2	25,4	29,2
+	WK193033	Simonshaven	31,8	32,5	26,4
+	WK193050	Hekelingen	30,9	27,8	30,4
+GM1931	Totaal	Krimpenerwaard	26,0	32,7	24,7
+	WK193100	Wijk 00 Lekkerkerk	26,3	32,9	24,4
+	WK193101	Wijk 01 Krimpen aan de Lek	26,4	34,3	21,0
+	WK193102	Wijk 02 Ouderkerk aan den IJssel	25,7	26,9	27,3
+	WK193103	Wijk 03 Gouderak	23,9	32,2	23,5
+	WK193104	Wijk 04 Bergambacht	25,3	33,7	24,3
+	WK193105	Wijk 05 Bergstoep	30,3	27,0	30,6
+	WK193106	Wijk 06 Ammerstol	26,0	34,8	21,1
+	WK193107	Wijk 07 Berkenwoude	28,3	20,3	38,6
+	WK193108	Wijk 08 Haastrecht	26,9	30,7	28,5
+	WK193110	Wijk 10 Stolwijk	26,3	30,3	29,3
+	WK193111	Wijk 11 Vlist	25,7	30,4	35,0
+	WK193112	Wijk 12 Schoonhoven	25,0	37,1	21,1
+GM1940	Totaal	De Fryske Marren	23,3	35,3	19,3
+	WK194001	Wijk 01 Akmarijp	24,2	.	.
+	WK194002	Wijk 02 Bakhuizen	20,6	38,1	14,3
+	WK194003	Wijk 03 Balk	21,6	41,8	13,9
+	WK194004	Wijk 04 Bantega	22,3	24,0	25,2
+	WK194005	Wijk 05 Boornzwaag	.	.	.
+	WK194006	Wijk 06 Broek	35,8	.	.
+	WK194007	Wijk 07 Delfstrahuizen	24,0	33,1	17,4
+	WK194008	Wijk 08 Dijken	.	.	.
+	WK194009	Wijk 09 Doniaga	.	.	.
+	WK194010	Wijk 10 Echten	25,4	.	.
+	WK194011	Wijk 11 Echtenerbrug	21,7	36,1	19,4
+	WK194012	Wijk 12 Eesterga	.	.	.
+	WK194013	Wijk 13 Elahuizen	27,1	22,5	26,8
+	WK194014	Wijk 14 Follega	23,3	.	.
+	WK194015	Wijk 15 Goingarijp	34,0	10,7	33,9
+	WK194016	Wijk 16 Harich	24,8	19,8	36,3
+	WK194017	Wijk 17 Haskerhorne	20,6	18,9	27,9
+	WK194018	Wijk 18 Idskenhuizen	20,4	33,7	15,6
+	WK194019	Wijk 19 Joure	23,5	38,6	16,9
+	WK194020	Wijk 20 Kolderwolde	.	.	.
+	WK194021	Wijk 21 Langweer	24,9	31,8	20,4
+	WK194022	Wijk 22 Legemeer	.	.	.
+	WK194023	Wijk 23 Lemmer	23,8	39,6	17,7
+	WK194024	Wijk 24 Mirns	21,7	.	.
+	WK194025	Wijk 25 Nijehaske	.	.	.
+	WK194026	Wijk 26 Nijemirdum	23,8	28,0	26,1
+	WK194027	Wijk 27 Oldeouwer	.	.	.
+	WK194028	Wijk 28 Oosterzee	21,4	32,9	19,7
+	WK194029	Wijk 29 Oudega	23,4	28,0	28,0
+	WK194030	Wijk 30 Oudehaske	24,7	24,2	25,3
+	WK194031	Wijk 31 Oudemirdum	23,4	34,6	18,0
+	WK194032	Wijk 32 Ouwsterhaule	20,8	34,3	20,0
+	WK194033	Wijk 33 Ouwster-Nijega	.	.	.
+	WK194034	Wijk 34 Rijs	25,9	.	.
+	WK194035	Wijk 35 Rohel	18,5	54,7	14,5
+	WK194036	Wijk 36 Rotstergaast	26,0	.	.
+	WK194037	Wijk 37 Rotsterhaule	22,0	28,5	23,1
+	WK194038	Wijk 38 Rottum	23,1	26,0	24,2
+	WK194039	Wijk 39 Ruigahuizen	30,7	.	.
+	WK194040	Wijk 40 Scharsterbrug	21,3	26,1	24,8
+	WK194041	Wijk 41 Sint Nicolaasga	22,0	36,6	18,7
+	WK194042	Wijk 42 Sinjohannesga	21,6	26,0	20,9
+	WK194043	Wijk 43 Sloten	24,8	33,4	19,5
+	WK194044	Wijk 44 Snikzwaag	.	.	.
+	WK194045	Wijk 45 Sondel	22,9	24,1	29,1
+	WK194046	Wijk 46 Terherne	29,5	37,0	22,0
+	WK194047	Wijk 47 Terkaple	24,9	.	.
+	WK194048	Wijk 48 Teroele	.	.	.
+	WK194049	Wijk 49 Tjerkgaast	21,8	23,8	31,0
+	WK194050	Wijk 50 Vegelinsoord	21,2	27,3	21,4
+	WK194051	Wijk 51 Wijckel	24,2	28,8	24,0
+GM1942	Totaal	Gooise Meren	36,4	32,8	32,0
+	WK194200	Bussum Centrum	30,1	43,0	20,1
+	WK194201	Brediuskwartier	50,7	22,2	54,7
+	WK194202	Eng	28,9	37,5	24,3
+	WK194203	Spiegel	53,4	26,4	46,8
+	WK194204	Muiden	32,6	29,5	32,0
+	WK194205	Naarden	39,2	26,9	38,3
+GM1945	Totaal	Berg en Dal	25,4	38,5	20,5
+	WK194500	Beek	28,5	39,1	23,6
+	WK194501	Berg en Dal	31,0	40,2	23,0
+	WK194502	Breedeweg	23,0	34,0	19,6
+	WK194503	De Horst	23,3	29,1	27,6
+	WK194504	Erlecom	25,3	.	.
+	WK194505	Groesbeek	23,8	42,2	18,2
+	WK194506	Heilig Landstichting	46,7	18,7	52,2
+	WK194507	Kekerdom	29,3	31,4	24,9
+	WK194508	Leuth	23,0	37,0	19,8
+	WK194509	Millingen aan de Rijn	23,0	37,7	16,6
+	WK194510	Ooij	24,3	34,7	19,0
+	WK194511	Persingen	.	.	.
+	WK194512	Ubbergen	35,1	46,7	25,1
+GM1948	Totaal	Meierijstad	25,6	30,8	24,0
+	WK194801	Erp	25,4	25,9	29,6
+	WK194802	Schijndel	25,2	33,0	22,2
+	WK194803	Sint-Oedenrode	26,4	29,2	26,3
+	WK194804	Veghel	25,5	31,0	22,9
+GM1949	Totaal	Waadhoeke	21,9	38,7	16,0
+	WK194915	Achlum	22,2	38,3	17,2
+	WK194916	St.-Annaparochie	20,8	45,1	14,4
+	WK194917	Baaium	25,2	.	.
+	WK194918	Berltsum	21,3	39,4	15,7
+	WK194919	Bitgum	21,7	35,2	16,9
+	WK194920	Bitgummole	21,9	32,9	14,9
+	WK194921	Blessum	.	.	.
+	WK194922	Boer	.	.	.
+	WK194923	Boksum	24,6	35,3	25,9
+	WK194924	Deinum	25,2	21,7	26,6
+	WK194925	Dongjum	19,2	42,6	9,3
+	WK194926	Dronryp	24,4	30,0	22,0
+	WK194927	Firdgum	.	.	.
+	WK194928	Franeker	22,0	41,6	13,9
+	WK194929	Herbaijum	22,9	38,5	15,4
+	WK194930	Hitzum	22,3	.	.
+	WK194931	Ingelum	21,3	26,1	17,8
+	WK194932	St.-Jacobiparochie	20,3	42,9	14,5
+	WK194933	Klooster Lidlum	.	.	.
+	WK194934	Marsum	22,2	42,2	14,4
+	WK194935	Menaam	22,8	32,6	18,5
+	WK194936	Minnertsga	20,9	39,6	16,4
+	WK194937	Nij Altoenae	19,7	34,9	18,6
+	WK194938	Oosterbierum	21,0	42,1	17,1
+	WK194939	Oudebildtzijl	21,3	35,2	14,8
+	WK194940	Peins	22,1	34,5	20,0
+	WK194941	Pietersbierum	23,2	.	.
+	WK194942	Ried	22,4	35,2	15,5
+	WK194943	Schalsum	24,3	.	.
+	WK194944	Sexbierum	19,8	46,7	12,2
+	WK194945	Skingen	20,0	.	.
+	WK194946	Slappeterp	.	.	.
+	WK194947	Spannum	23,6	33,0	21,1
+	WK194948	Tzum	20,7	39,5	16,2
+	WK194949	Tzummarum	20,4	42,6	13,4
+	WK194950	Vrouwenparochie	20,8	37,8	14,5
+	WK194951	Westhoek	20,8	41,5	16,1
+	WK194952	Wier	22,7	.	.
+	WK194953	Winsum	22,4	36,4	16,4
+	WK194954	Wjelsryp	21,7	28,5	22,6
+	WK194955	Zweins	23,0	.	.
+GM1950	Totaal	Westerwolde	21,7	41,6	13,5
+	WK195000	Wijk 00 Bellingwolde	21,3	40,4	11,4
+	WK195001	Wijk 01 Oost	22,1	38,9	13,3
+	WK195002	Wijk 02 Blijham	22,9	39,7	15,9
+	WK195003	Wijk 03 Sellingen	22,9	36,9	16,3
+	WK195004	Wijk 04 Vlagtwedde	21,4	46,0	12,9
+	WK195005	Wijk 05 Bourtange	21,6	41,7	12,8
+	WK195006	Wijk 06 Sellingerbeetse	22,6	31,3	17,8
+	WK195007	Wijk 07 Ter Apel	20,9	44,5	12,0
+	WK195008	Wijk 08 Ter Wisch	28,0	25,8	29,7
+	WK195009	Wijk 09 de Maten	23,4	.	.
+GM1952	Totaal	Midden-Groningen	22,0	42,7	14,3
+	WK195201	Foxham en Hoogezand-Noord	21,0	58,0	7,8
+	WK195202	Hoogezand-Zuid	17,0	57,0	5,5
+	WK195203	Kalkwijk	26,2	24,2	23,8
+	WK195204	Sappemeer	21,5	41,5	13,2
+	WK195205	Kiel-Windeweer	25,0	22,4	23,5
+	WK195206	Kropswolde	35,9	18,7	39,0
+	WK195207	Foxhol	18,6	49,7	7,7
+	WK195208	Westerbroek en Waterhuizen	23,9	35,0	15,0
+	WK195209	Harkstede, Scharmer en Woudbloem	26,9	25,9	29,1
+	WK195210	Kolham	22,7	33,5	15,8
+	WK195211	Froombosch	23,2	26,7	17,9
+	WK195212	Slochteren	22,1	41,5	14,5
+	WK195213	Schildwolde	22,8	32,0	21,8
+	WK195214	Hellum	25,7	29,0	24,7
+	WK195215	Siddeburen	21,9	37,6	16,2
+	WK195216	Eemskanaal-Zuid	26,5	30,9	26,7
+	WK195217	Tjuchem en Steendam	27,7	25,2	22,4
+	WK195218	Muntendam	20,9	44,8	11,6
+	WK195219	Noordbroek	22,4	38,4	15,8
+	WK195220	Zuidbroek	23,0	35,4	17,7
+	WK195221	Meeden	24,1	33,4	17,4
+GM1954	Totaal	Beekdaelen	26,1	33,1	21,3
+	WK195400	Wijk 00 Onderbanken	24,0	35,3	17,8
+	WK195401	Wijk 01 Nuth	24,5	43,4	15,0
+	WK195402	Wijk 02 Wijnandsrade	29,0	27,3	27,3
+	WK195403	Wijk 03 Hulsberg	27,8	25,7	25,1
+	WK195404	Wijk 04 Schimmert	28,2	25,5	29,6
+	WK195405	Wijk 05	27,4	30,2	23,8
+	WK195406	Wijk 06 Amstenrade - Oirsbeek	26,3	31,7	22,3
+GM1955	Totaal	Montferland	23,3	35,9	19,2
+	WK195500	Wijk 00 's-Heerenberg	22,9	39,1	16,1
+	WK195501	Wijk 01 Brakel	24,6	28,4	25,8
+	WK195502	Wijk 02 Didam	23,4	34,9	20,3
+GM1959	Totaal	Altena	25,0	30,1	25,3
+	WK195901	Werkendam	23,3	32,9	23,6
+	WK195902	Sleeuwijk	28,4	24,1	30,3
+	WK195903	Nieuwendijk	24,4	34,3	22,9
+	WK195904	Hank	25,2	32,3	23,1
+	WK195905	Dussen	26,0	29,3	26,0
+	WK195906	Woudrichem	26,4	30,9	24,0
+	WK195907	Rijswijk (NB)	24,0	34,7	22,8
+	WK195908	Uitwijk	27,9	17,2	27,6
+	WK195909	Waardhuizen	23,6	.	.
+	WK195910	Giessen	23,0	29,7	23,6
+	WK195911	Andel	24,2	26,4	25,2
+	WK195912	Almkerk	28,2	28,3	27,3
+	WK195913	Veen	23,3	32,5	23,4
+	WK195914	Wijk en Aalburg	23,4	30,7	27,0
+	WK195915	Babyloniënbroek	25,2	22,8	30,4
+	WK195916	Meeuwen	23,8	22,9	27,6
+	WK195917	Eethen	25,0	28,4	23,2
+	WK195918	Drongelen	24,9	24,7	25,9
+	WK195919	Genderen	24,7	28,3	28,1
+GM1960	Totaal	West Betuwe	26,5	27,8	28,7
+	WK196000	Geldermalsen	25,7	32,4	24,8
+	WK196001	Deil	29,7	23,5	33,6
+	WK196002	Beesd	27,8	27,5	31,4
+	WK196003	Buurmalsen	25,9	25,4	28,2
+	WK196004	Meteren	27,0	19,4	34,7
+	WK196005	Haaften	25,3	30,2	28,0
+	WK196006	Waardenburg en Opijnen	25,4	26,6	31,5
+	WK196007	Varik en Ophemert	27,8	25,5	29,8
+	WK196008	Asperen	25,0	28,4	25,2
+	WK196009	Heukelum	26,5	27,6	26,5
+	WK196010	Vuren	25,0	31,2	25,3
+	WK196011	Herwijnen	27,0	28,2	28,7
+GM1961	Totaal	Vijfheerenlanden	24,8	32,8	23,7
+	WK196100	Wijk 00 Leerdam	23,3	37,6	19,8
+	WK196101	Wijk 01 Vianen	25,3	33,5	21,9
+	WK196102	Wijk 02 Hagestein	30,3	23,5	36,7
+	WK196103	Wijk 03 Everdingen	27,2	21,2	34,5
+	WK196104	Wijk 04 Lexmond	26,9	30,8	29,9
+	WK196105	Wijk 05 Ameide	24,8	29,2	23,7
+	WK196106	Wijk 06 Tienhoven	25,5	16,5	36,8
+	WK196107	Wijk 07 Meerkerk	26,4	27,3	29,3
+	WK196108	Wijk 08 Hei- en Boeicop	27,1	23,1	33,3
+	WK196109	Wijk 09 Leerbroek	22,8	23,9	33,7
+	WK196110	Wijk 10 Nieuwland	23,9	24,0	30,2
+GM1963	Totaal	Hoeksche Waard	28,0	28,3	26,6
+	WK196300	Oud-Beijerland	27,5	28,8	26,6
+	WK196301	Heinenoord	28,5	27,6	27,7
+	WK196302	Mijnsheerenland	34,4	21,5	36,7
+	WK196303	Westmaas	30,2	26,2	25,8
+	WK196304	Puttershoek	26,3	32,1	22,3
+	WK196305	Maasdam	31,7	22,5	31,8
+	WK196306	's-Gravendeel	25,8	32,2	21,6
+	WK196307	Strijen	27,1	29,9	24,4
+	WK196308	Klaaswaal	28,7	24,4	28,4
+	WK196309	Numansdorp	29,2	28,9	28,3
+	WK196310	Zuid-Beijerland	28,8	27,7	25,2
+	WK196311	Goudswaard	25,4	29,7	26,0
+	WK196312	Piershil	27,5	25,2	26,5
+	WK196313	Nieuw-Beijerland	25,6	22,8	30,0
+GM1966	Totaal	Het Hogeland	22,1	40,3	15,2
+	WK196600	Wijk 00	23,1	33,3	17,8
+	WK196601	Wijk 01	23,3	34,9	19,4
+	WK196602	Wijk 02	22,3	41,5	15,4
+	WK196603	Wijk 03	23,5	32,5	20,1
+	WK196604	Wijk 04	20,0	53,7	10,1
+	WK196605	Wijk 05	20,3	42,7	13,0
+	WK196606	Wijk 06	21,8	35,3	17,6
+	WK196607	Wijk 07	21,9	41,4	12,9
+	WK196608	Wijk 08	22,0	43,7	12,0
+	WK196609	Wijk 09	22,0	42,7	13,1
+	WK196610	Wijk 10	21,7	44,1	13,7
+	WK196611	Wijk 11	22,9	42,5	14,0
+	WK196612	Wijk 12	21,2	40,8	14,1
+GM1969	Totaal	Westerkwartier	23,2	33,3	19,9
+	WK196900	Wijk 00 Grootegast	20,4	37,6	17,0
+	WK196901	Wijk 01 Lutjegast	21,8	27,5	21,2
+	WK196902	Wijk 02 Opende	21,0	31,5	19,5
+	WK196903	Wijk 03 Oldekerk	22,1	29,9	18,4
+	WK196904	Wijk 04 Leek	23,0	39,4	17,0
+	WK196905	Wijk 05 Zevenhuizen	24,1	28,7	22,3
+	WK196906	Wijk 06 Tolbert	23,8	34,8	18,7
+	WK196907	Wijk 07 Midwolde	28,1	22,8	26,9
+	WK196908	Wijk 08 Lettelbert	27,0	.	.
+	WK196909	Wijk 09 Oostwold	23,9	33,5	22,4
+	WK196910	Wijk 10 Enumatil	22,4	28,1	15,6
+	WK196911	Wijk 11 Marum	23,3	33,0	20,4
+	WK196912	Wijk 12 De Wilp	23,4	32,7	22,0
+	WK196913	Wijk 13	27,0	40,0	16,7
+	WK196914	Wijk 14	24,6	26,0	25,0
+	WK196915	Wijk 15	22,9	36,0	18,0
+	WK196916	Wijk 16	22,0	31,8	20,1
+	WK196917	Wijk 17	24,1	31,4	21,7
+GM1970	Totaal	Noardeast-Fryslân	20,4	40,6	14,3
+	WK197000	Dokkum	20,5	46,5	12,9
+	WK197001	Metslawier	20,3	30,4	16,7
+	WK197002	Ee - Zuidoost	19,9	39,7	13,5
+	WK197003	Anjum - Noordoost	20,8	37,8	13,6
+	WK197004	Oosternijkerk - Noordwest	20,7	32,9	18,7
+	WK197005	Ternaard	19,6	40,8	12,9
+	WK197006	Holwerd	19,2	41,2	11,8
+	WK197007	Hantum	21,0	33,0	19,4
+	WK197008	Wijk 08 Bouwstreek	19,9	41,7	12,4
+	WK197009	Wijk 09 Zuidwest	21,2	36,5	16,9
+	WK197010	Wijk 10	21,7	32,6	18,3
+	WK197011	Wijk 11 Kollum	20,6	42,6	13,7
+	WK197012	Wijk 12 Oost	20,9	37,6	15,5
+	WK197013	Wijk 13 Noordwest	21,2	29,2	21,3
+	WK197014	Wijk 14 Zuidwest	19,2	37,5	14,7
+GM1978	Totaal	Molenlanden	25,4	27,3	28,1
+	WK197801	Wijk01-Arkel	25,8	34,5	21,7
+	WK197802	Wijk02-Bleskensgraaf ca	24,7	25,7	30,8
+	WK197803	Wijk03-Brandwijk	25,7	25,8	33,5
+	WK197804	Wijk04-Giessenburg	28,0	21,5	33,3
+	WK197805	Wijk05-Goudriaan	26,2	23,0	35,5
+	WK197806	Wijk06-Groot-Ammers	26,0	26,3	26,0
+	WK197807	Wijk07-Hoogblokland	26,7	23,0	28,4
+	WK197808	Wijk08-Hoornaar	26,4	24,8	29,1
+	WK197809	Wijk09-Kinderdijk	25,9	22,1	24,2
+	WK197810	Wijk10-Langerak	24,1	29,9	27,3
+	WK197811	Wijk11-Molenaarsgraaf	25,5	22,5	33,0
+	WK197812	Wijk12-Nieuw-Lekkerland	21,7	31,9	22,7
+	WK197813	Wijk13-Nieuwpoort	25,2	37,9	17,8
+	WK197814	Wijk14-Noordeloos	26,9	24,8	31,7
+	WK197815	Wijk15-Ottoland	25,6	21,0	39,9
+	WK197816	Wijk16-Oud-Alblas	26,9	23,7	36,6
+	WK197817	Wijk17-Schelluinen	30,2	23,8	29,5
+	WK197818	Wijk18-Streefkerk	25,5	27,7	31,8
+	WK197819	Wijk19-Waal	23,4	.	.
+	WK197820	Wijk20-Wijngaarden	26,0	24,5	35,1
+Bron: CBS, Integrale Inkomens- en Vermogensstatistiek (IIVS), SSB					

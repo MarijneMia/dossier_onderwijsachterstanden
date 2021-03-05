@@ -1,0 +1,195 @@
+---
+title: "gemeentes"
+author: "Marijne Schijns"
+date: "4-3-2021"
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    code_folding: "hide"
+    df_print: paged
+    toc: true
+    toc_float: true
+    css: style.css
+    includes:
+      after_body: after_body.html
+---
+
+# Set up  {.tabset}
+
+<!-- little HTML script to do indentation of the table of contents -->
+<script>
+    $(document).ready(function() {
+      $items = $('div#TOC li');
+      $items.each(function(idx) {
+        num_ul = $(this).parentsUntil('#TOC').length;
+        $(this).css({'text-indent': num_ul * 10, 'padding-left': 0});
+      });
+
+    });
+</script>
+
+```{css, echo = FALSE}
+div.sourceCode {
+  overflow-x: hidden;
+}
+```
+
+## libraries
+
+```{r}
+
+suppressMessages(pacman::p_load(dplyr, tidyr, ggplot2, ggbeeswarm, ggpubr))
+
+```
+
+## themes & functions
+
+```{r}
+
+theme_set(theme_minimal())
+
+```
+
+## Data loading
+
+```{r}
+
+df_achterstandsscores_raw <- read.delim("achterstandsscores-gemeenten-2020-definitief_tabel1.txt", header = FALSE)
+
+df_inkomen_raw <- read.delim("inkomen-per-gemeente-en-wijk.txt", header = FALSE)
+
+```
+
+# Aim
+
+In deze analyse wil ik een beter beeld krijgen van hoe de onderwijsachterstand een gemeente zich verhoudt tot het inkomen van gezinnen in diezelfde gemeente. Specifieker, ik wil graag weten of een grote mate van inkomensongelijkheid in een gemeente samenhangen met een hogere onderwijsachterstand. Hiervoor gebruik ik van twee datasets van het CBS:  
+
+Data over de achterstandsscores per gemeente:   [link](https://www.cbs.nl/nl-nl/maatwerk/2020/28/achterstandsscores-gemeenten-definitief-2017-2018)  
+Data over het inkomen per gemeente: [link](https://www.cbs.nl/nl-nl/maatwerk/2020/36/inkomen-per-gemeente-en-wijk-2017)  
+
+De achterstandsscores zijn gebaseerd op [De nieuwe onderwijs achterstanden indicator primair onderwijs](https://www.cbs.nl/nl-nl/maatwerk/2019/45/de-nieuwe-onderwijsachterstandenindicator):  
+
+De volgende variabelen worden meegenomen in het bepalen van de onderwijsachterstand:  
+- het opleidingsniveau van zowel de moeder als de vader  
+- het  land  van  herkomst  van  de  ouders    
+- of  ouders  in  de  schuldsanering  zitten  
+- de  verblijfs-duur  van  de  moeder  in  Nederland  
+- het  gemiddelde  opleidingsniveau  van  moeders  van  leerlingen  op  school  
+
+Het is goed om in het achterhoofd te houden dat een aantal van deze variabelen kunnen samenhangen met het inkomen, en daardoor deze data niet 100% onafhankelijk zijn. 
+
+# Analysis
+
+## Cleaning & wrangling
+
+```{r}
+
+df_achterstandsscores_raw <- df_achterstandsscores_raw[1:(nrow(df_achterstandsscores_raw)-2),1:5]
+colnames(df_achterstandsscores_raw) <- c("gemeente", "achterstandsscore_2017", "aantalKinderen_2017", "achterstandsscore_2018", "aantalKinderen_2018")
+
+df_achterstandsscores <- df_achterstandsscores_raw %>%
+  mutate(achterstandsscore_2017 = gsub(",", ".", gsub("\\.", "", achterstandsscore_2017)) %>% gsub(" ", "", .) %>% as.numeric(), 
+         achterstandsscore_2018 = gsub(",", ".", gsub("\\.", "", achterstandsscore_2018)) %>% gsub(" ", "", .) %>% as.numeric(), 
+         aantalKinderen_2017 = gsub(" ", "", aantalKinderen_2017) %>% as.numeric(), 
+         aantalKinderen_2018 = gsub(" ", "", aantalKinderen_2018) %>% as.numeric())
+
+df_achterstandsscores_long <- df_achterstandsscores %>% 
+  pivot_longer(cols = c(-gemeente)) %>% 
+  separate(name, into = c("statistic", "year")) 
+
+```
+
+```{r}
+
+colnames(df_inkomen_raw) <- c("gemeentecode", "wijkcode", "regionaam", "gem_per_inwoner", "quant40_huishouden",  "quant20_huishouden")
+
+df_inkomen <- df_inkomen_raw %>%
+  dplyr::filter(wijkcode == "Totaal") %>%
+  mutate(gem_per_inwoner = gsub(",", ".", gsub("\\.", "", gem_per_inwoner)) %>% as.numeric(), 
+         quant40_huishouden = gsub(",", ".", gsub("\\.", "", quant40_huishouden))  %>% as.numeric(), 
+         quant20_huishouden = gsub(",", ".", gsub("\\.", "", quant20_huishouden))  %>% as.numeric())
+
+```
+
+## Exploration
+
+```{r}
+
+df_achterstandsscores_long %>% 
+  ggplot(aes(x=year, y=value, col=year)) + 
+  geom_beeswarm() + 
+  facet_grid(. ~ statistic, scales = "free_y") + 
+  scale_y_log10() +
+  labs(title = "Distributie van aantal kinderen en achterstandsscore", 
+       subtitle = "Er is geen groot verschil tussen 2017 and 2018", 
+       y="number of children & \nachterstandsscore")
+
+# df_achterstandsscores_long %>% 
+#   pivot_wider(names_from = statistic, values_from = value) %>% 
+#   ggplot(aes(x=aantalKinderen, y=achterstandsscore, col=year)) + 
+#   geom_point() + 
+#   scale_x_log10() + 
+#   scale_y_log10()
+
+```
+
+Dit figuur laat zien dat de distributie van 2017 en 2018 zeer vergelijkbaar is. Ik zal met de data van 2017 doorgaan in de volgende analyses. 
+
+```{r}
+
+df_inkomen %>% 
+  ggplot(aes(x=quant40_huishouden, y=quant20_huishouden)) + 
+  geom_point() +
+  labs(title = "Inkomensdistributie per gemeente in 2017", 
+       subtitle = "De negatieve correlatie betekent dat gemeentes die meer huishoudens hebben van een lager inkomen, \nminder huishoudens hebben van een hoger inkomen", 
+       x = "Percentage huishoudens in de gemeente dat \nMINDER verdient dan de laagste 40% van Nederland", 
+       y = "Percentage huishoudens in de gemeente dat \nMEER verdient dan de top 20% van Nederland") +
+  ggrepel::geom_label_repel(data = dplyr::filter(df_inkomen, quant40_huishouden > 55 | quant20_huishouden > 40), 
+                            aes(label = regionaam)) + 
+  stat_cor(label.x = 18, label.y = 13)
+
+```
+
+Het bovenstaande figuur laat zien dat gemeenstes die relatief meer huishoudens hebben met een lager besteedbaar inkomen, relatief minder huishoudens hebben met een hoog inkomen.   
+
+## Combine the data
+
+```{r}
+
+df_combined <- df_achterstandsscores_long %>% 
+  dplyr::filter(statistic=="achterstandsscore", year=="2017") %>% 
+  dplyr::select(gemeente, score = value) %>% 
+  left_join(dplyr::select(df_inkomen, 3:6), by =c("gemeente"="regionaam")) 
+
+# df_combined %>% 
+#   ggplot(aes(x=quant20_huishouden, y=score)) + 
+#   geom_point() + 
+#   scale_y_continuous(trans = "log10") + 
+#   stat_cor()
+# 
+# df_combined %>% 
+#   ggplot(aes(x=quant40_huishouden, y=score)) + 
+#   geom_point() + 
+#   scale_y_continuous(trans = "log10") + 
+#   stat_cor()
+
+df_combined %>%
+  ggplot(aes(x=quant40_huishouden, y=quant20_huishouden, col = log10(score))) + 
+  geom_point() +
+  labs(title = "Inkomensdistributie per gemeente in 2017", 
+       subtitle = "Gemeentes met lagere inkomens hebben vaker een hogere achterstandsscore", 
+       x = "Percentage huishoudens in de gemeente dat \nMINDER verdient dan de laagste 40% van Nederland", 
+       y = "Percentage huishoudens in de gemeente dat \nMEER verdient dan de top 20% van Nederland", 
+       color = "log10(achterstandsscore)") 
+
+```
+
+# Session info
+
+```{r sessionInfo}
+
+sessionInfo()
+
+```
+

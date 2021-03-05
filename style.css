@@ -1,0 +1,37 @@
+/* This change the style of the main container that wraps the whole R Markdown document. It allows the parallax image to be full width */
+.main-container {
+    max-width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Then we place our content with this style because we don't want it to be full width */
+.mycontent{
+      max-width: 900px !important;
+      margin-left: auto;
+      margin-right: auto;
+      font-family: 'Montserrat';
+      font-size: 130%;
+      line-height: 1.7;
+      padding-right: 15px;
+      padding-left: 15px;
+}
+
+
+/* To add the extra enters before a new heading.*/
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 84px;
+}
+
+
+/* Code needed to make the buttons*/
+.btn {
+    border-width: 0 0px 0px 0px;
+    font-weight: normal;
+    text-transform: ;
+}
+.btn-default {
+    color: #2ecc71;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
